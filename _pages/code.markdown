@@ -26,8 +26,8 @@ I'm a programmer, by hobby and by profession. When I'm not busy making stupid st
 <small>Customized themes for BetterDiscord.</small>
 
 
-<b><em><small>(2020-08-25)</small></em>  <a href="/code/ime-fixes/">Windows IME Hotkey Fix</a></b><br/>
-<small>An AutoHotKey script to make the Windows IME a little more user-friendly.</small>
+<b><em><small>(2020-08-25)</small></em>  <a href="/code/ime-fixes/">Microsoft IME Hotkey Fix</a></b><br/>
+<small>An AutoHotKey script to make Microsoft IME a little more user-friendly.</small>
 
 
 <b><em><small>(2020-08-12)</small></em>  <a href="/code/satam-fivey/">Saturday Morning FiveThirtyEight</a></b><br/>

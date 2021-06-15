@@ -1,0 +1,114 @@
+/**
+ * @name Umi Da [DiscordRecolor]
+ * @description Allows you to customize Discord's native Color Scheme
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.theme.css
+ */
+
+/* To change the colors, change the variables inside the root {}, do NOT change the @import url() */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+
+/* All colors are in RGB format (red, green, blue) use: https://www.google.com/search?q=colorpicker	*/
+
+:root {
+	--font:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;					/*	General Font				*/
+	--settingsicons:			1;						/*	Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no			*/
+	
+	--accentcolor: 				255,148,0;				/*	Blurple				 - 	default:	88,101,242		 - 	hex:	#5865f2		*/
+	--accentcolor2: 			255,115,250;			/*	Boostpink			 - 	default:	255,115,250		 - 	hex:	#ff73fa		*/
+	--linkcolor: 				0,176,244;				/*	Link Color			 - 	default:	0,176,244		 - 	hex:	#00b0f4		*/
+	--mentioncolor: 			166,166,26;				/*	Highlight Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
+	--successcolor: 			59,165,92;				/*	Success Color		 - 	default:	59,165,92		 - 	hex:	#3ba55c		*/
+	--warningcolor: 			250,166,26;				/*	Warning Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
+	--dangercolor:  			237,66,69;				/*	Danger Color		 - 	default:	237,66,69		 - 	hex:	#ed4245		*/
+	
+	/* Selected server */
+	--textbrightest: 			229,255,255;			/*	Text Color 1		 - 	default:	255,255,255		 - 	hex:	#ffffff		*/
+	/* Highlighted text, chat body */
+	--textbrighter: 			229,255,255;			/*	Text Color 2		 - 	default:	220,221,222		 - 	hex:	#dcddde		*/
+	/* Float text, buttons */
+	--textbright: 				186,228,255;				/*	Text Color 3		 - 	default:	185,187,190		 - 	hex:	#b9bbbe		*/
+	/* Sidebar text */
+	--textdark: 				155,182,255;			/*	Text Color 4		 - 	default:	142,146,151		 - 	hex:	#8e9297		*/
+	/* Channel pound, message general */
+	--textdarker: 				255,148,0;			/*	Text Color 5		 - 	default:	114,118,125		 - 	hex:	#72767d		*/
+	/* Channel muted */
+	--textdarkest: 				180,80,80;				/*	Text Color 6		 - 	default:	79,84,92		 - 	hex:	#4f545c		*/
+	
+	/* Message entry box */
+	--backgroundaccent: 		47,6,48;				/*	Background Accent	 - 	default:	64,68,75		 - 	hex:	#40444b		*/
+	/* Chat background */
+	--backgroundprimary: 		99,86,160;				/*	Background 1		 - 	default:	54,57,63		 - 	hex:	#36393f		*/
+	/* Sidebars */
+	--backgroundsecondary: 		88,54,99;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
+	/* Bottom of left sidebar */
+	--backgroundsecondaryalt: 	59,39,61;				/*	Background 3		 - 	default:	41,43,47		 - 	hex:	#292b2f		*/
+	/* Server bar */
+	--backgroundtertiary: 		33,19,25;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
+	/* Floating, message highlight */
+	--backgroundfloating: 		59,39,61;				/*	Background Elevated	 - 	default:	24,25,28		 - 	hex:	#18191c		*/
+}
+
+.numberBadge-2s8kKX, /* Notification bubble */
+.textBadge-1iylP6 {
+  background: #FF9400 !important;
+  box-shadow: 0 0 10px -3px #FF9400, 0 0 0 1px #FF9400;
+  color: #fff;
+  font-weight: 600;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+  transition: all 0.3s ease-in-out;
+}
+
+.username-1A8OIy { /* Outline usernames in chat body */
+	font-weight: 600;
+	text-shadow:
+		-1px -1px 0 #000,  
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+.name-uJV0GL { /* Outline usernames in online list */
+	font-weight: 600;
+	text-shadow:
+		-1px -1px 0 #000,  
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.avatar-1BDn8e { /* Outline avatars in chat */
+	box-shadow: 0 0 10px -3px #FF9400, 0 0 0 1px #FF9400;
+}
+.wrapper-3t9DeA { /* Outline avatars in online list */
+	box-shadow: 0 0 10px -3px #FF9400, 0 0 0 1px #FF9400;
+}
+
+.timestamp-3ZCmNB { /* Outline timestamps in chat */
+	font-weight: 600;
+	text-shadow:
+		-1px -1px 0 #000,  
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+/*.contents-2mQqc9 { / Outline message box  /
+	box-shadow: 0 0 1px -3px rgba(0, 0, 0, 0.25), 0 0 0 1px rgba(0, 0, 0, 0.25);
+}
+*/
+
+/* 
+TODO: 
+separate float/message highlight colors 
+better green for gif/attachment buttons
+better green for @s that arent for me
+hot pink for selected channel highlight?
+*/

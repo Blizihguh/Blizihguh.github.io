@@ -27,7 +27,7 @@ I like to play board games. Sometimes I like to make them, too!
 
 
 <b><em><small>(2019-09-19)</small></em>  <a href="/board-games/meido/">Maid RPG</a></b><br/>
-<small>Various tools for the tabletop game <a href="http://maidrpg.com/index.shtml">Maid RPG</a>.</small>
+<small>Various tools and tips for the tabletop game <a href="http://maidrpg.com/index.shtml">Maid RPG</a>.</small>
 
 
 <b><em><small>(Coming Soon!)</small></em>  <a href="/board-games/shisouroku/">Touhou Shisouroku</a></b><br/>
