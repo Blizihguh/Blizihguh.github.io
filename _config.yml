@@ -30,6 +30,8 @@ imagesurl: "/img/"
 include:
   - _pages
 
+excerpt_separator: "<!--more-->"
+
 # Build settings
 theme: minima
 plugins:

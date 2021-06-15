@@ -1,0 +1,2693 @@
+{
+	"111": {
+		"name" : "Parents’ Locket ",
+		"description" : "This is a locket necklace containing a picture of one’s parents. When you equip it, any Stress you take is automatically reduced by 2.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"112": {
+		"name" : "Typical Mask",
+		"description" : "If you equip this mysterious mask, no one will be able to tell who you are. The maid who obtains this can decide on its design. As long as you make sure no one sees you putting it on or taking it off (Cunning difficulty of 8) the Master will not take away points of Favor regardless of what you do. But the audience? Oh, they totally know that it’s you. ",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"113": {
+		"name" : "Black Hole Cloak",
+		"description" : "This cloak is connected to a void of space, a black hole which can suck in everything besides the wearer. NPCs who have taken Stress equal to half or more of their Spirit will automatically be sucked in.",
+		"category" : [ "to" ],
+		"rarity" : "sr"
+		},
+	"114": {
+		"name" : "Killer Intent (Satsui no Hadou)",
+		"description" : "This is a dark aura that surrounds the body. If you equip it, your Affection drops to zero, but your Athletics rises by 2, and your Maid Weapon becomes “Martial Arts: Killer Intent.” and maybe cannot let go of this item, even if she wants to. However, if you have a Stress Explosion while it’s active, you will become unconscious.",
+		"category" : [ "te", "e" ],
+		"rarity" : "r"
+		},
+	"115": {
+		"name" : "Flying Guillotine",
+		"description" : "This weapon consists of a razor-sharp disc on a chain, a sort of deadly yo-yo. If you equip it, you can use it as a weapon, and you will automatically win actual physical combats against opponents within Athletics of two or less. However, against opponents within Athletics or 4 or higher your Athletics will automatically become zero.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"116": {
+		"name" : "Mecha Suit",
+		"description" : "What it’s called depends on the setting, but this is basically a mecha. You can design on its design and Equipment however you like. If you equip it, you ride inside of it and can use it as a weapon, and it can take up to 20 points of stress for you. However, once it takes that 20 points of stress it will explode and cause you 1D6 points of stress.",
+		"category" : [ "e", "to" ],
+		"rarity" : "u"
+		},
+	"121": {
+		"name" : "Card Dueling King of War ",
+		"description" : "This is a profitable trading card game. There are many expansions, such as “Sign of Chaos” and “Master of Duels.” by equipping this item, you gain “calculating mind” as a weapon, and you can use the cards to summon monsters, cast spells, or call forth weapons. However, when you use this in combat, if you roll a 1-3 on your 1D6 it counts as a 1, and a 4-6 counts as a 6.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"122": {
+		"name" : "Mah-Jongg Set ",
+		"description" : "This is a complete set of the things you need to play mahjongg. If you equip it, you will gain “Mah-jongg” as a weapon, and you will be unable to use other weapons. Such battles are settled by playing mah-jongg, and you can only use your Pluck and Cunning attributes (no more than two people may work together). Even though a battle is being settled with mah-jongg, NPCs who take more Stress than their Spirit will still die just like an actual fight. ",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"123": {
+		"name" : "Evil Eye",
+		"description" : "Demonic power works within the eye. There are many kinds, and they can cause death, petrification, mesmerize victims, induce suicide, etc. you can portray this however you like, and it can be used along with other weapons. In combat you can treat the opponent’s attribute as one lower for the purpose of calculating how much Stress they take. ",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"124": {
+		"name" : "Chef of Destruction",
+		"description" : "This is a kind of cooking skill that defies common sense and common decency. If you equip it, you gain “Cooking” as a weapon. The food you prepare becomes a terrible weapon, and opponents don’t get to divide the Stress they would take by their attribute. Furthermore, whenever you try to do actual cooking you will lose 1 or 2D6 Favor.",
+		"category" : [ "te" ],
+		"rarity" : "sr"
+		},
+	"125": {
+		"name" : "Ogre Face",
+		"description" : "A body seemingly wrapped in muscles made of steel. Sixpack abdominal muscles, broad shoulders, and an expanse of rippling muscle. You gain a “Musclebound” Special Quality, and you also get +1 to your Athletics and Will.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"126": {
+		"name" : "Mysterious Vibrating Egg",
+		"description" : "A truly mysterious device. Its shape and effects are secret and wholly unknown. Although it is a Tool, it can be equipped by strapping it with tape to one’s body (One’s neck? One’s arm? No one seems to know), and any Favor gained while it is equipped is doubled. However, it makes your breathing labored while it is equipped. It also scatters one’s mind, making it very hard to concentrate.",
+		"category" : [ "e", "to" ],
+		"rarity" : "r"
+		},
+	"131": {
+		"name" : "Gargoyle Suit",
+		"description" : "A mysterious suit and a mask that is so light and strange, but it makes the wearer feel as though he could conquer the world. If you equip it, you gain the weapon “Master of the Pit,” and get a +1 bonus to your Athletics and Cunning",
+		"category" : [ "u" ],
+		"rarity" : "r"
+		},
+	"132": {
+		"name" : "The Finest Maid Uniform in the World",
+		"description" : "This is a very mysterious maid uniform. It was woven in front of your very eyes, by a pair of skilled tailors using thread and cloth so fine that it simply can not be seen by the human eye. For some reason, it makes it so that you are no longer influenced by maid uniform disrobing/losing maid garments, and you gain 10 points of Favor just for putting it on. However, once you put it on you lose 10 points of Favor if you change into a normal maid uniform or another outfit. People are often so blinded by this fine Maid Uniform that they simply stop and watch, or look away nervously from you when you approach. It was totally worth the money, as it is rumored to have been previously owned by an emperor!",
+		"category" : [ "c", "u" ],
+		"rarity" : "u"
+		},
+	"133": {
+		"name" : "Water-Soluble Maid Uniform",
+		"description" : "This is a maid uniform a special material that melts when it gets wet. At a glance, it looks no different from a normal maid uniform. That means that the owner can try to get other maids to wear it at the start of the session. If a maid is wearing this, and there is an event or attack it seems like it would make her wet, she’ll need to get an Athletics result of 10 or better to avoid taking penalties as per the maid uniform/disrobing rules (the GM decides which parts of the outfit have melted).",
+		"category" : [ "u" ],
+		"rarity" : "c"
+		},
+	"134": {
+		"name" : "Non-Removable Maid Uniform",
+		"description" : "This is a maid uniform with so many buckles and locks that you can’t take it off by yourself. If you want to put it on or take it off you will need the Master’s help. A maid who wears this gets 2D6 Favor and takes 1D6 Stress at the start and end of each day",
+		"category" : [ "u" ],
+		"rarity" : "u"
+		},
+	"135": {
+		"name" : "Eye of the Tiger",
+		"description" : "Obtained through some rather absurd circumstances, this is a state of being where you are seldom surprised. If you equip it, one of your Maid Types will automatically become Cool; you lose the modifiers from the erased Type, and instead apply the following: Affection -1, Skill +1, Will +1.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"136": {
+		"name" : "Delusional Date Fix-up Tendencies",
+		"description" : "This is a circuit in the brain that allows your fix-up delusions to run wild in others. When this is equipped, you gain a “Delusional” Special Quality, and your Stress Explosion becomes “Delusions”: You put other characters in strange relationships together, attempting to force them to hook up. The more convoluted or unimaginable the relationship, the better. The maid does this without any sense of discretion. This curse often accompanies dojinshi or fan fiction artists (“What would it be like if X and Y hooked up?”). ",
+		"category" : [ "c", "te" ],
+		"rarity" : "c"
+		},
+	"141": {
+		"name" : "Rumbling Tummy",
+		"description" : "Your digestive system becomes such that never feels full no matter how much you eat. If you have this equipped, you lose 1D6 Favor at each meal. ",
+		"category" : [ "c", "e" ],
+		"rarity" : "c"
+		},
+	"142": {
+		"name" : "Grave Blade",
+		"description" : "This is a cursed weapon consisting of a Japanese wooden grave tablet (sotouba) with a hilt and guard attached. Despite being made of wood, it is frighteningly sharp. If you equip it, you get “Grave Blade” as a Maid Weapon. If you use it to attack, you can use Cunning instead of Athletics if you wish. ",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"143": {
+		"name" : "Mystical Starfish Weapon",
+		"description" : "This is a mystical weapon which looks like a curved 5-arm starfish, with a gem in the center part and blades on the ends of the 5 arms. Sometimes legend refers to it as the name of a polearm. It flies like a remote control frizbee covered in razor blades (you can control where it flies, within visual range), and you can use it in actual physical combat. If you get a better result than your opponent, it will cause instant combat win as if the opponent filled up on stress (or death if the enemy is evil). However, this weapon does not actually cause Stress damage.",
+		"category" : [ "to" ],
+		"rarity" : "ur"
+		},
+	"144": {
+		"name" : "Club of Gol-Fu",
+		"description" : "This is a weapon from ancient China that looks just like a golf club. It seems to have some history, but the details are unknown. If you equip it, you gain “Art of the Staff” as a weapon, and you can attack by sending a special iron ball at your foes. When using this you can use your Skill attribute where you would normally use Athletics or Cunning.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"145": {
+		"name" : "Crazy Cosplayer Suit",
+		"description" : "This questionable outfit consists of the gaudy or skimpy suit of an obscure anime, manga or video game character, and is worn by crazy otaku without regard to place, surrounding people or situation. The wearer reeks of isolation, and cannot seduce or be seduced by those who do not have a “geeky” special quality (like otaku, dojin artist, etc).",
+		"category" : [ "c", "u" ],
+		"rarity" : "c"
+		},
+	"146": {
+		"name" : "Role-playing Handbook",
+		"description" : "This item is a book with instructions on how to play the world’s most popular fantasy tabletop roleplaying game. It allows the user to substitute any roll result (die roll times attribute) for a single result of “10”. This can be done once per session. If the user also has the “Otaku” quality, then the player can also once per session use any single die in his or her real die collection to roll instead of a 1D6 (a 1D8, 1D20, etc).",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"151": {
+		"name" : "Murderer’s Frying Pan",
+		"description" : "This is a frying pan used by a husband and wife who were robbers and murderers, and it is stained with the blood of countless victims. If you equip it, you gain “Frying Pan” as a weapon, and a +1 bonus to Cunning.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"152": {
+		"name" : "Reverse Bat",
+		"description" : "This is a gaudy, brightly colored baseball bat, and those who are hit by it have their abilities reversed. If you equip this, you will gain “Reverse Bat” as a weapon. It can only be used on NPCs. Opponents who take even one point a stress from it will instantly have all their other attributes changed to (six minus their current level). No resistance is possible.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"153": {
+		"name" : "Sundering Cross of Montezuma",
+		"description" : "A terrifying cursed cross. If you don’t get a Cunning result of 8 or higher, you’ll wear this silvery cross without realizing what it does. Your Stress Explosion is accompanied by continual excretion, vomiting and incontinence, making you a prisoner of the bathroom. Hope you make it in time!",
+		"category" : [ "c", "e" ],
+		"rarity" : "u"
+		},
+	"154": {
+		"name" : "Old Time Spectacles (Butler/Head  Maid Only)",
+		"description" : "These are horn-rimmed glasses that demand the wearer be chosen. Only the head maid (or butler) can equip these, and they confer a bonus of +1 to Cunning and Skill. However, it causes you to speak in a strange 1800s-style dialect. In Japanese, this is called Yamanote Kotoba, which involves adding “-zamasu” on the end of your sentences. Feel free to use an 1800s-style dialect (think a Civil War era banker or author, Wilfred Brimley sittin’ on a porch, Mark Twain, etc Victorian Era accents work, too). Yamanote Kotoba’s “-zamasu”, or even a delusional combination of both! Failure to talk funny will result in your Spirit being reduced to zero.",
+		"category" : [ "lu", "e" ],
+		"rarity" : "u"
+		},
+	"155": {
+		"name" : "Unexpected Underwear",
+		"description" : "These undergarments are designed to be as alluring as possible, or perhaps feature a design or mascot character unexpected for your personality. If the Masters catches a glimpse of your underwear while you’re wearing these, you gain 1D6 Favor. However, you can only get this effect once per 30 minutes of real time.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"156": {
+		"name" : "Wartime Kappougi Of Endurance ",
+		"description" : "This is a vintage style Japanese apron (a one piece pure white gown) worn by a serving woman, nurse or other caregiver who can endure any cruelty (usually during world wars). If you equip it, you gain be Special Quality of “Endure All Hardships,” as well as +2 to Will and -2 to Luck.",
+		"category" : [ "u" ],
+		"rarity" : "r"
+		},
+	"161": {
+		"name" : "Burdening Cross",
+		"description" : "A heavy wooden cross that must be literally carried throughout one’s life. If you equip it, you gain the Special Quality of “Woefully Disavowing Unbecoming Conduct,” and you can no longer gain Favor by romantic encounters.",
+		"category" : [ "c", "e" ],
+		"rarity" : "c"
+		},
+	"162": {
+		"name" : "Viscous Slimy Liquid",
+		"description" : "This is a viscous liquid or oil that never dries. If you equip it (by accident or on purpose), you gain the Special Quality of “Sexy”, and a bonus of +2 to Affection. However, whenever you move you have to include strands of the viscous liquid (or beads of oil) in your portrayal. You could be on the cover of a book of fantasy art lithographs, or perhaps a gravure model photo shoot portfolio.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"163": {
+		"name" : "Maid Bath Towel",
+		"description" : "This is a Bath towel that can be used as a substitute for a maid uniform, especially at hot springs. You also gain a bonus of +1 to all die rolls made while bathing.",
+		"category" : [ "u" ],
+		"rarity" : "c"
+		},
+	"164": {
+		"name" : "Pyrenean Rose",
+		"description" : "This is an evil rose that consumes everything it touches. If you equip it, you gain “Rose” as a weapon, and you can attack enemies by spraying cruel thorns at them. Furthermore, when you so desire you can make beautiful red roses appear wherever you want, and gain a bonus of +1 to your Skill attribute when you somehow combine this power with your maid skills.",
+		"category" : [ "e", "to" ],
+		"rarity" : "u"
+		},
+	"165": {
+		"name" : "Big Ass Anime Sword",
+		"description" : "At first glance this doesn’t look so much like a sword, as an overwhelming mass of steel and murder. It’s not entirely unsuitable for frying meats and vegetables on like a hibachi grill. But it is technically meant to be used as a sword. If you equip it, you gain “Dragonslayer” as a weapon, and you can cause Stress to your opponents without giving them a chance to divide it by their attribute! However, at the end of the session this weapon is removed: It has ascended, been destroyed, lost, or hung on a wall never to be used again.",
+		"category" : [ "to", "co" ],
+		"rarity" : "sr"
+		},
+	"166": {
+		"name" : "Deadly Omega Rage Whip",
+		"description" : "This is a brutal whip, the tip of which is shaped like a drill. If you drive it into the earth, you can use it to attack enemies from below. If you equip this, you gain “Rage Whip” as a weapon. When using this in actual physical combat, you can make attacks with your Cunning instead of Athletics.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"211": {
+		"name" : "Chivalrous Stand",
+		"description" : "This is a tattoo formerly worn by one’s ancestors in the name of chivalry. A maid who shoulders the burden can, only once per session, completely ignore the effects of any one attack (physical, mental, social or otherwise) by standing with her back to it, exposing the tattoo on her back. Your tattooed crest gives you the power to overcome the damage of that attack.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"212": {
+		"name" : "Alchemist’s Crystal",
+		"description" : "This metal is sometimes called “Kakugane” or “Materiah”. If you equip it, you gain a +1 bonus to Will, and you can add +1 to the die roll in combat using weapons. Furthermore, any weapons you use in this way will obviously be strengthened above and beyond the normal power. ",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"213": {
+		"name" : "Whip of Love",
+		"description" : "Sometimes punishment is done out of love, not hate. If you follow this path, you gain “Whip of Love” as a weapon. With this Technique, you can make rolls with Affection instead of Athletics. Furthermore, once per session you can remove as much Stress as your result from someone you have seduced.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"214": {
+		"name" : "Magical Baton",
+		"description" : "This wand doesn’t seem like it would be very effective as a weapon, and its design makes it a bit embarrassing and childlike for an adult to wield in combat. If you equip it the cost of a costume change is reduced to zero. However, in order to get this effect the player has to shout and embarrassing incantation of the GM’s devising. There may also be a magical costume change scene, with bright colors and perhaps even a theme song.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"215": {
+		"name" : "Food Mascot Suit",
+		"description" : "This is a comical, silly kind of getup, which includes a mask and suit, which is only granted to the elite members of certain fast food chains or employees of breakfast cereal companies. If you equip it, you gain “I’m Laughing So Hard It Hurts” as a weapon. You can wear and remove it as you wish, and the shock of revealing a normal face after going around as a popular food mascot gives you gain a +1 bonus to the die roll for seduction attempts.",
+		"category" : [ "u", "e" ],
+		"rarity" : "c"
+		},
+	"216": {
+		"name" : "Left Arm Gun",
+		"description" : "This artificial left arm is normally covered, but it can become a gun. It can convert one force of will into energy when it fires, and there are only two like you in the entire universe. If you equip it, you gain a Special Quality “Maid With a Gun for an Arm” as a weapon. When using this gun, you can take extra Stress and add the same amount to the results of your attack roll in actual physical combat. ",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"221": {
+		"name" : "Protrusion",
+		"description" : "This strange protrusion or antennae provided by an alien extends on both sides of the head with the ears should be. If you equip it, you gain the “Alien” or else “Robot” Special Quality. It allows you to remove 2D6 points of Stress per session. You can do this even during a Stress Explosion.",
+		"category" : [ "te" ],
+		"rarity" : "u"
+		},
+	"222": {
+		"name" : "Battle Hair",
+		"description" : "This special ponytail is only allowed to those who undergone the ultimate training and mastered every form of combat. If you equip this, you get a bonus of +2 to the die roll for all actual physical combat rolls. However, if you fail in combat even once, you will lose your battle hair, and never be able to gain it back. Such is the life of a maid.",
+		"category" : [ "e", "lu" ],
+		"rarity" : "r"
+		},
+	"223": {
+		"name" : "Coffin",
+		"description" : "This is a casket for burying enemies you have killed. You must carry it, with a sense of coercion. If you equip it, your enemies, PCs and NPCs alike need a Will result of 6 or better to avoid succumbing to fear and automatically losing in combat. “In fact, I peed a little” when loosing is an optional effect.",
+		"category" : [ "e" ],
+		"rarity" : "ur"
+		},
+	"224": {
+		"name" : "Reverse-Blade Katana",
+		"description" : "This is a katana with the sharpened edge on the opposite side that a katana is normally sharpened. This weapon is marked with the words “Unknown Vow.” If you equip it, you get “Reverse Blade Sword” as a weapon. When you fight with this sword in actual physical combat, even if you cause an opponent enough Stressed to make them have a Stress Explosion, it will become “Fleeing” or “Fainting” instead of “Death.”",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"225": {
+		"name" : "Positive Thinking ",
+		"description" : "This is a brain that interprets things in a positive light. If you equip it, you’ll be able to remove Stress through “Romantic Activities,” but you will never take Stress from them. You always see the cup as “half-full”, perhaps to the point of ridiculousness.",
+		"category" : [ "te" ],
+		"rarity" : "c"
+		},
+	"226": {
+		"name" : "Drill Knuckle",
+		"description" : "This brutal weapon consists of a metal cone with a helical groove cut into it. It’s normally attached to the arm. If you equip it, you gain “Drill” as a weapon. If you successfully attacked with this weapon in actual physical combat, the opponent does not get to divide the Stress caused by their attribute, they take the full stress damage. This weapon can be used to cause damage like this three times before it becomes ineffective.",
+		"category" : [ "e", "lu" ],
+		"rarity" : "sr"
+		},
+	"231": {
+		"name" : "Picaresque Glove",
+		"description" : "This is a special glove used in underground boxing at allmale delinquent high schools, also known as “Picaresque Matches.” It’s like a metal ball (like a bowling ball that you put your fist into, and grab from the inside) you wear on your fist, covered with nasty metal spikes. If you equip it, you gain “Brutal Boxing” as a weapon, and if you use it you can have your opponent’s Stress Explosion be “Knocked Out of the Ring”.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"232": {
+		"name" : "Poison Touch",
+		"description" : "You have adapted your body to a certain poison over many long years that you can poison someone with a touch. You gain “Poison Touch” as a weapon. If you attack with this and cause Stress, they take one additional point of Stress per minute of real time. Maids’ ability to recover Stress does not work on this extra damage. This condition continues until someone provides medical treatment with a Skill result of 9 or higher.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"233": {
+		"name" : "Phoenix Maid Uniform",
+		"description" : "This legendary maid uniform is said to restore the wearer no matter how many times she might be defeated. It’s covered in strange extra parts, but these don’t particularly hinder the wearer’s movements. A maid who wears this can, once per session, decide to reduce her Stress down to zero.",
+		"category" : [ "u" ],
+		"rarity" : "sr"
+		},
+	"234": {
+		"name" : "World-Changing Song",
+		"description" : "This song reaches out to the hearts of everyone. If you equip this you gain “Song” as a weapon. If you cause a Stress Explosion with song, the explosion becomes “Reform” (They realize the value of love, and decide to live to help the powerless). This will continue until they have a “Corruption” (The evil in their heart awakens and they live to satisfy your own desires) Stress Explosion and return to normal.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"235": {
+		"name" : "Luchador Wrestling Mask ",
+		"description" : "This luchador mask can grant the power to fly. If you equip it, you get a bonus of +2 to the die roll for any action. However, while it is equipped you can neither spend nor more gain Favor, as you are in disguise. You can choose the colors of your mask.",
+		"category" : [ "u", "e" ],
+		"rarity" : "sr"
+		},
+	"236": {
+		"name" : "Piercing Fingers",
+		"description" : "This hand of unparalleled power can open holes in concrete and mangled human flesh. If you equip this, you gain “Piercing Fingers” as a weapon. Anytime you use this weapon in actual physical combat, the first attack is always considered a surprise attack, and as such you will not take any Stress even if you’re combat roll fails.",
+		"category" : [ "te" ],
+		"rarity" : "u"
+		},
+	"241": {
+		"name" : "Artificial Arm",
+		"description" : "This prosthetic arm contains many weapons, to the point where it’s more of a weapons locker in the shape of an arm. If you equip it, you can make your first attack in any kind of combat automatically succeed and ignore the opponent’s roll. However, they still get to divide the Stress caused by their attribute as usual.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"242": {
+		"name" : "World-Rending Grudge Sword",
+		"description" : "This ornate soul-sucking sword is intended for killing the wicked. If you equip it you gain “Beheading Sword” as a weapon. However, you will not be able to use this weapon to attack anyone who has not either caused Stress to a resident of the mansion or been confirmed by the GM as clearly evil. When used correctly, you get a bonus of +2 to Athletics in actual physical combat.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"243": {
+		"name" : "Greenmerang",
+		"description" : "This is a green-colored boomerang that you normally wear like a pair of oversized sunglasses. If you equip it you gain “Greenmerang” as a weapon. When you use it in any kind of combat, you can roll twice and use whichever of the two rolls you prefer.",
+		"category" : [ "e" ],
+		"rarity" : "sr"
+		},
+	"244": {
+		"name" : "Corset of Fate",
+		"description" : "This black French corset is full of equally black karmic fate. If you equip this one of your Maid Types becomes “Sexy,” and in exchange for the attribute modifiers that get removed, subtract 1 from Will and add +2 to Cunning.",
+		"category" : [ "u" ],
+		"rarity" : "u"
+		},
+	"245": {
+		"name" : "Old Kokeshi Doll",
+		"description" : "This is a wooden kokeshi doll, an old-style simple wooden doll that basically looks like a wooden head on a stick, that is said to have been carved by a mysterious monk. If you equip it you gain nostalgia as a weapon. The details are unknown, but by attacking with this weapon using Affection, Willpower or Cunning you can cause enemies to succumb to a fit of nostalgia. They remember the simpler days of childhood, perhaps sharing a simple memory of their youth in better days.",
+		"category" : [ "e", "to" ],
+		"rarity" : "c"
+		},
+	"246": {
+		"name" : "Demonic Poison War Elephant",
+		"description" : "This demonic war elephant is in no way cute, and it has an ugly, mean face. It’s body is poisonous, and it is covered in poison spines. It appears to have burst its way out of Hell, and has taken a liking to you. If you accidentally equip it, any Stress you take is doubled as the elephant goes berserk destroying things around you. Not only that, but anyone who fells/kills this elephant immediately takes Stress equal to their Spirit+10 as they get gored in a final attack.",
+		"category" : [ "c", "p" ],
+		"rarity" : "r"
+		},
+	"251": {
+		"name" : "Annelids",
+		"description" : "These are insects allowed to live in the body as parasites for both offense and defense. If you equip this you gain “Annelids” as a weapon. Your first attack with this weapon will always succeed, and cause (Uncontested Roll ˜ Resisting Attribute) in Stress to the opponent.",
+		"category" : [ "te", "p" ],
+		"rarity" : "r"
+		},
+	"252": {
+		"name" : "Death Reaper",
+		"description" : "This is a minor god of death that takes the form of a skeleton, a child, or some caricature of a creature. It follows someone around, and any time she rolls a 6, treat it as a zero. If the death reaper causes a Stress Explosion to another maid, it will attach itself to that maid instead. A death reaper normally disappears at the end of a session.",
+		"category" : [ "c", "p" ],
+		"rarity" : "u"
+		},
+	"253": {
+		"name" : "Pioneer",
+		"description" : "This bizarre half metal-half wood humanoid robot nicknamed “Pioneer” (“Senkousha”) waddles and stomps around in a humorous manner not unalike Charlie Chaplain doing his signature walk. It is equipped with a cannon mounted (oddly enough) between its legs known as the “Hisaka Cannon.” If you equip it, the robot will attack enemy NPCs for you in actual physical combat using attributes of 4. However, while Pioneer fights for you, you cannot attack, rather you have to attempt to keep it from falling over. The Pioneer can not climb stairs. See Wikipedia for more information on the indomitable Senkousha robot.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"254": {
+		"name" : "Mark of the Scapegoat",
+		"description" : "This is a cursed mark that appears somewhere on the body. If you acquired this item, you equip it automatically. Once it’s equipped, any occult or demonic presences (GM discretion) will gather around you and attack. This does not apply to PCs with such Special Qualities.",
+		"category" : [ "c", "e" ],
+		"rarity" : "r"
+		},
+	"255": {
+		"name" : "Anti-Lock Blade",
+		"description" : "This is a strange, narrow knife. With it you can open virtually any lock by simply touching it with the blade. This works the same as the “Lock Picking” Maid Power.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"256": {
+		"name" : "Heavy Spear",
+		"description" : "This is an incredibly heavy spear, perhaps from Christian mythos. Although it is very difficult to handle, for some reason it elicits sympathy from others. If you equip this, you gain “Spirit” as a weapon, -2 to Athletics, and +2 to Affection.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"261": {
+		"name" : "Destructive Tone Deafness",
+		"description" : "Your singing can cause machines to go haywire, glass to shatter, spirits to break. If you put this, you gain “Song” has a weapon, and when you sing, anyone who can hear you is automatically attacked.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"262": {
+		"name" : "Evil Whisper",
+		"description" : "This is a whispered word or sentence that can corrupt the heart of another. If you equip this, you gain “Whisper” as a weapon, and can command people to do evil things as if by hypnosis or subvocalization. If you later have a Stress Explosion after you have used this weapon even once, it will be a “Corruption” Stress Explosion (The evil in your heart awakens and you live to satisfy your own desires) instead of their usual Stress Explosion. This effect will last until he or she is subjected to a “Reform” Stress Explosion.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"263": {
+		"name" : "Harisen/Paper Fan",
+		"description" : "This paper fan, like the kind used in anime or manzai comedy teams, serves as a weapon that allows you to make someone submit without causing them any Stress by slapping them on the head with this oversized, loud, comedic paper fan. If you equip this, you will gain “Harisen” as a weapon. Even if an attack with this weapon succeeds, it does not cause Stress. However, anyone successfully attacked with it will be rendered unable to attack the user back until the end of the session.",
+		"category" : [ "e" ],
+		"rarity" : "sr"
+		},
+	"264": {
+		"name" : "Maid Swimsuit",
+		"description" : "This one-piece swimsuit comes equipped with lace, frills, and a waterproof headdress, allowing it to serve as a maid uniform as well as a swimsuit. By equipping this item a maid can stay a maid (without invoking the maid uniform/disrobing rules) and change into any swimsuit costume change at no cost.",
+		"category" : [ "u" ],
+		"rarity" : "c"
+		},
+	"265": {
+		"name" : "Dark Battle Dress",
+		"description" : "This maid uniform shines darkly like a gem from the depths of Hades. If you equip it, your maid Color becomes “Darkness.” You become known as a “Dark Warrior,” and once per session you can call out the name of an attack and roll 2D6 when attacking with it in actual physical combat.",
+		"category" : [ "u" ],
+		"rarity" : "r"
+		},
+	"266": {
+		"name" : "Romantic Vessel",
+		"description" : "This is a ticket for two on a round-trip paradise ocean cruise. If you equip this, you can use the power “World for Two” ability with the Master or another PC. You describe the cruise, and can choose to restore 2D6 stress or else gain a +1 to seduce the companion. If the GM wishes, the scenario can then follow their further cruise exploits, while the other Maids can stow aboard or pay their own way into the cruise.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"311": {
+		"name" : "Rocket Pack",
+		"description" : "You have a small, highly experimental rocket backpack or leggings. If you equip this, you get the Special Quality “Highly Flammable”. For the cost of three points of stress, you can make use of the Maid Power “Trespass” (bursting in through walls or doors). If you take a stress explosion while the rocket pack is equipped, it will explode, else fire the maid off uncontrollably into the air and then explode, for 2D6 stress damage.",
+		"category" : [ "e", "lu" ],
+		"rarity" : "r"
+		},
+	"312": {
+		"name" : "Maid Training Exoskeleton",
+		"description" : "This is a special robotic exoskeleton attached to the body to help create an ideal maid. If you equip it, treat any attributes you have below 2 as being at 2. However, the stress the exoskeleton continually puts on your body lowers your Spirit to Will x 5. Just don’t ever get it wet. Just don’t.",
+		"category" : [ "e", "u" ],
+		"rarity" : "u"
+		},
+	"313": {
+		"name" : "Archangel’s Eye",
+		"description" : "This eye allows you to foretell people’s romantic fates, and see the normally invisible red threads of people’s destinies. Furthermore, you can interfere with those threads. If you equip this, you can spend 2D6 Favor to change a connection created by seduction (whether it involves oneself or others) to someone else.",
+		"category" : [ "te" ],
+		"rarity" : "c"
+		},
+	"314": {
+		"name" : "Poison Psychic Waves",
+		"description" : "This is the power to send mental radio waves or psychic pulses (dempa) out in all directions, contaminating your surroundings. If you equip this you gain “Psychic Poison” as a weapon. If you use this weapon you can automatically affect everyone in your field of vision, and if you cause someone a Stress Explosion it becomes “Brainwashing” (Until they recover, they will do whatever the person who caused the Stress tells them to do). When equipped, you tend to wear all black, including painting your fingernails black, and speak in a quiet yet intimidating voice.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"315": {
+		"name" : "Terrorist Group",
+		"description" : "This is a band of ordinary people who for economic, political, ideological or religious reasons have become involved in subversive protests, or even terrifying acts of destruction. If you equip this group, you can attack enemy groups using protests or even terrorism. You can make such an attack with a +2 bonus to your Cunning or Skill. Weather the group is “wacky” or “for realz” is up to you.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"316": {
+		"name" : "That Collar-thing from that Really Awesome Movie",
+		"description" : "This ring is placed around the neck of people (usually a classroom full of people) who are being forced to participate in a certain bloody contest. If you equip it, you must accept one order from the Master. Once such an order is given, you must complete it within 30 minutes. Failure to do so will cause a Stress Explosion, regardless of your current Stress total.",
+		"category" : [ "c", "e" ],
+		"rarity" : "c"
+		},
+	"321": {
+		"name" : "Akashic Ouroboros",
+		"description" : "This massive holy snake can grow to a length of more than 5 meters. It is used as an accessory, wrapped around the body, whereupon it bites down on its own tail. If you equip it, your Stress Explosion becomes “Reincarnation.” A maid who is Reincarnated will turn to ash where her Stress Explosion occurred, and return in a different body. Change one of the maid’s Maid Types, and recalculate her attributes accordingly.",
+		"category" : [ "te", "p" ],
+		"rarity" : "u"
+		},
+	"322": {
+		"name" : "Murderous Stationary",
+		"description" : "This is a giant pair of scary-looking rusty scissors that make a loud “snakt” sound when using to cut. If you equip it you gain “Giant Scissors” as a weapon, and “Quite Possibly a Psychotic Serial Killer” as a Special Quality. As long as your opponent is a human, you get a bonus of +2 to die roll when attacking with this weapon in actual physical combat or in intimidation rolls due to its horrific, scary nature (these bonuses lost against opponents with Special Qualities that make them non-human). If the opponent has a Stress Explosion, it is in the form of a “Panic Phase”, where they run screaming away from the wielder.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"323": {
+		"name" : "Classic Japanese Flag",
+		"description" : "This was a flag once given to the most highly honored Japanese soldiers of the Pacific War. If you equip it you gain “Membership : Ultranationalist Right Wing Party” as a Special Quality. Regardless of your personal views, you wind up with a small squad of uptight, ineffectual and crazy Japanese ultranationalists (Attributes 2) following you around as your subordinates (on foot or in an unmarked van), claiming to be members of the underground Black Dragon Society. They will treat you as their Great Leader, who will bring them to a new age.",
+		"category" : [ "c", "p" ],
+		"rarity" : "u"
+		},
+	"324": {
+		"name" : "Angelic Demon Face",
+		"description" : "This is in angelic yet evil smile. If you equip this and you have a Tragedy as a result of Romantic Activities, you can spend 2 points of Favor to negate its effects.",
+		"category" : [ "te" ],
+		"rarity" : "c"
+		},
+	"325": {
+		"name" : "Pet Photograph",
+		"description" : "This is a photograph of a pet dog, cat, hamster, snake or other animal which you carry around with you. It comforts you when you look at it from time to time, and reduces any Stress you take in rolls by 1.",
+		"category" : [ "te", "p" ],
+		"rarity" : "c"
+		},
+	"326": {
+		"name" : "Personal Barrier",
+		"description" : "This is a special impenetrable force field that only certain beings of great power can create. You can take 1D6 Stress and call out a name of your choosing to activate it. While it’s active you get a +2 bonus to your highest attribute. If you activate it again later, the attribute that earlier received the bonus will stay the same.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"331": {
+		"name" : "Tear-Inducing Past",
+		"description" : "This is a dark tale of your past. If you equip it, you immediately gain two Traumas from the Trauma table from the optional rules section. By taking 2D6 Stress you can use this Technique, and force any PCs and NPCs within your field of vision to make an Affection roll if you tell a tale from your past. Anyone who gets a result of 4 or higher will have a “Crying” Stress Explosion, regardless of their current Stress total. This lasts for 10 minutes of real time.",
+		"category" : [ "te" ],
+		"rarity" : "u"
+		},
+	"332": {
+		"name" : "Memories of Powerful Foes",
+		"description" : "This is a memory of having fought many powerful enemies. If you equip it, when you have a Stress Explosion, the faces of those enemies will appear in the sky, and you have one minute to give their names and briefly explain where and how you fought and defeated them. Roll as many dice as the number of enemies you’re able to describe and multiply the result by two; reduce your Stress by that amount. You cannot use the same enemy’s memory more than once.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"333": {
+		"name" : "Kitty Gloves (Maid Type Lolita Only)",
+		"description" : "These big fluffy gloves are shaped like a cat’s paw as, and printed with a cat’s footpads. If you equip this, you gain “Kitty Punch” as a weapon, and you can roll using Luck+1 to attack.",
+		"category" : [ "u", "lu" ],
+		"rarity" : "u"
+		},
+	"334": {
+		"name" : "Third-Stage Maid Uniform",
+		"description" : "This maid uniform has undergone its third transformation, and is now armored. It has several different modes, such as Operations (Athletics +1, Affection -1), Flight (Luck +1, Will -1), etc. that you can select any time. There is no cost for changing modes, and you can do it instantly.",
+		"category" : [ "u" ],
+		"rarity" : "sr"
+		},
+	"335": {
+		"name" : "Chaos Fist",
+		"description" : "The true fighting art of maids. If you equip this, you lose any and all other weapons, and can only use “True Maid Fist.” Any time you make a roll using this weapon in any kind of combat, a Random Event occurs at no cost.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"336": {
+		"name" : "Reindeer",
+		"description" : "Just what it says. This is a completely ordinary reindeer (Attributes 1), but if you equip it you can change into the “Santa Suit” costume change at no cost (though the costume’s requirements do not change).",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"341": {
+		"name" : "Yuppie Shirt",
+		"description" : "This is a dress shirt with a brand name on it, which can be worn underneath a maid uniform. If you equip this, you gain a “Upper Middle Class Young Urban Professional” Special Quality. While it is equipped you gain a +2 bonus to your attributes when fighting against someone who has caused you to take Stress in the past. Your professional nature won’t allow you to be defeated by this rival!",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"342": {
+		"name" : "Mascara Bomb",
+		"description" : "This is a sudden explosion of gaudy makeup that makes the Maid look like a foreign runway model. If a character who equips it is 15 years old or younger, she will immediately become 16. Also, if she has Lolita or Pure as Maid Types, those will be replaced with Sexy. This also provides a bonus of +1 to Cunning.",
+		"category" : [ "e", "co" ],
+		"rarity" : "u"
+		},
+	"343": {
+		"name" : "Maid Soul (Non-Maids Only)",
+		"description" : "This is the legendary maid headdress. It is extremely powerful, and anyone who equips it, whether he Butler, Master, or even an NPC, will become a maid. A character who becomes a maid in this way will be treated as a maid as per the game’s rules, but his or her attributes, Special Qualities, and powers are not changed.",
+		"category" : [ "lu", "e" ],
+		"rarity" : "r"
+		},
+	"344": {
+		"name" : "Shrine Maiden Satellite",
+		"description" : "This is a set consisting of a cellular phone and a belt. If you wear the belt, and enter the numbers “7-7-7” into the phone, an orbiting satellite will beam you a shrine maiden costume change at no cost. By removing all of your Stress, or taking 1D6 Stress, you can return to your prior form.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"345": {
+		"name" : "Dragon Crest",
+		"description" : "This is a hero’s coat of arms, combining a dragon, demon, and man. If you equip it, you will gain a “Dragon Knight” Special Quality. A maid with this Special Quality can take 1D6 Stress to get the same effect as spending the equivalent amount of Favor. (Cannot be used to increase a stat)",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"346": {
+		"name" : "Chromosome Cream",
+		"description" : "Details unknown. Whatever it is, it combines with and alters the body. A female character who equips this item gets the “Actually A Guy” Special Quality. A male character who equips this item gets an “Even More of a Guy” Special Quality. Such characters gain double the usual Favor from manly/!muy macho! activities.",
+		"category" : [ "c", "to" ],
+		"rarity" : "c"
+		},
+	"351": {
+		"name" : "Survive Card",
+		"description" : "A mysterious card inherited from a masked motorcycle-riding sentai hero. If you equip this, “Survive” is attached to the end of your name (“Jenny Survive”, etc). A maid in Survive form powers up in Maid Armor and gets a +1 bonus to the die roll for all actions, but can only remove 1 point of Stress for 5 minutes of real-time.",
+		"category" : [ "te" ],
+		"rarity" : "sr"
+		},
+	"352": {
+		"name" : "Guardian Spirit",
+		"description" : "This is the spirit of an ancestor or even someone from another era who protects you from above. If you equip this, you get a +1 bonus to Luck. You can have it be a famous person from history if you wish. However, your Stress Explosion becomes “I Think She Might Be Crazy...”, making you start talking to your guardian spirit. For added fun, choose another player to take on the role of your guardian spirit for the duration of the Stress Explosion.",
+		"category" : [ "te", "p" ],
+		"rarity" : "u"
+		},
+	"353": {
+		"name" : "Solomon’s Flute",
+		"description" : "This flute has the power to cause pain to demons. If you use it, you gain the Special Quality of “Demon Hunter”. Furthermore, against opponents with demonic/evil Special Qualities you gain a bonus of +4 to the die roll in combat when playing the flute.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"354": {
+		"name" : "Bureaucratic Soul",
+		"description" : "This is the very soul of a Japanese middle-management government bureaucrat. If you equip it, you gain “Bureaucrat” as a Special Quality. This means you must obtain the Master’s permission before you make any rolls. If the Master has a name stamp, you must request his stamp of approval on your character sheet for every action you wish to take. If other maids finish before you, then you simply didn’t make it in time. You bow a lot. Bow and sweat.",
+		"category" : [ "c", "te" ],
+		"rarity" : "u"
+		},
+	"355": {
+		"name" : "Monocle",
+		"description" : "This is an aristocratic, gentlemanly lens that covers only one eye. A maid who equips this can become the Head Maid without any regard to human relationships or the conditions required by the normal rules. If the maid was already the Head Maid, she will then become a normal maid.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"356": {
+		"name" : "Second Personality",
+		"description" : "You wind up with another personality that is the complete opposite of your own. You will switch between his personality and your normal one every single time you take Stress. When you switch, your Affection and Cunning attributes will also be switched (unless they’re the same, in which case the Affection and Will attributes will be switched). The player must portray the character as having a personality that is the opposite of her usual one.",
+		"category" : [ "c", "te" ],
+		"rarity" : "u"
+		},
+	"361": {
+		"name" : "Devil Star",
+		"description" : "This pentagram carved into the body somewhere grants the power to summon a small zombie or demon army (Attributes 3/Spirit 10). The zombies summoned in this manner are dead people, or the demons are humanoid, and they have a certain degree of individuality and a simple ego (they can be commanded). If all the zombies or demons are destroyed, the pentagram mark will disappear. If you use this item, you must give the zombies names and distinctive features. You can also make them grow by spending your own Favor.",
+		"category" : [ "p", "te" ],
+		"rarity" : "r"
+		},
+	"362": {
+		"name" : "Indra’s Maid Uniform",
+		"description" : "This maid uniform is one of the ancient pieces of Equipment carved from pure vajra, an unbreakable substance, by the deity Indra. If you equip if, you gain its incredible effects, which prevent you from taking any Stress from magic, psychic powers, flame, demonic power, and energy blasts.",
+		"category" : [ "u" ],
+		"rarity" : "sr"
+		},
+	"363": {
+		"name" : "Cyber-Eye of Vecnut",
+		"description" : "One eye is replaced with an artificial one that can control any electronic device or machinery. Against opponents with Special Qualities like “Robot” or the “Internal Weapons” Maid Weapon, you get a bonus of +4 to the die roll.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"364": {
+		"name" : "Papillion (Masquerade Ball) Mask",
+		"description" : "This mask allows one who dons it to cast aside her past and be reborn. While it is worn, you get +2 to Cunning and +3 to Will. However, when you take off this mask you lose these bonuses, your Will goes down to zero for the duration of the session, and you immediately have a Stress Explosion (20 minutes of real time).",
+		"category" : [ "u", "e" ],
+		"rarity" : "r"
+		},
+	"365": {
+		"name" : "Sealed Power",
+		"description" : "Your true power was sealed away, but you can release it if you so choose. If you do, any one attribute of your choice goes up to 20 (yes, twenty!) for 5 minutes of real time, but afterwards you have a Stress Explosion for 20 minutes. This can only be used once per session.",
+		"category" : [ "te" ],
+		"rarity" : "ur"
+		},
+	"366": {
+		"name" : "Master Screen",
+		"description" : "This piece of cardstock is said to be proof of a True Game Master.  A player who equips it becomes the GM, and must run some kind of scenario. The person who was the GM should create a new maid and participate in the scenario.",
+		"category" : [ "c", "e" ],
+		"rarity" : "r"
+		},
+	"411": {
+		"name" : "Occult Book From Beyond",
+		"description" : "This demonic book contains many things from the depths of space that mankind was not meant to know. If it is used, a “Horror From Beyond the Stars” (Attributes 6/Spirit 15) will pay a visit. The Horror that appears will consider no one to be its ally, and will attack everyone indiscriminately.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"412": {
+		"name" : "DekaBen(tm)",
+		"description" : "This is a massive Japanese style box lunch. “Deka” is from “dekai” (huge) and “ben” from “bento” (box lunch). It allows you to prepare enough food for everyone in advance. You can start a meal whenever you like, even if the other maids are in the midst of preparing food.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"413": {
+		"name" : "Memento Music Box",
+		"description" : "This music box as a memento of your parents, siblings, etc. when you use it, it plays a continuous soft melody which lets you remove 3D6 Stress up to two times per session. However, if it is destroyed (you can protect in combat with an Athletics or Affection roll), you will automatically take Stress points equal to your Spirit score.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"414": {
+		"name" : "One Hundred and Two Ultimate Essential Maid Arts",
+		"description" : "This legendary book records all of the fighting Techniques of maids. By shouting out the name of a special manuver you can get a bonus of +1 to the die roll. However, you must come up with a new attack name each and every time. If this book is used more than 102 times, it will thereafter become known as “103 Ultimate Essential Maid Arts.”",
+		"category" : [ "e" ],
+		"rarity" : "sr"
+		},
+	"415": {
+		"name" : "Challenge Gong",
+		"description" : "When this mysterious gong is rung, a ring appears around all the people nearby and a boxing or pro wrestling match begins. If it is used during combat, only Athletics may be used. However, the character that used it becomes a referee and cannot actually participate in the fight. She should act as announcer to the other participants.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"416": {
+		"name" : "Devil Pen",
+		"description" : "If you hold this terrifying pen in your hand, you will begin to draw a manga. If you try to use the pen to write a note or a letter, you will begin drawing a manga with whatever materials happened to be at hand. While you possess the pen, you lose one Special Quality of your choice, and replace it with Doujin Artist or Pro Creator. Eventually, you will quickly attract fans, groupies and stalkers who follow you around and talk about you on the internet. You may be pressured into attending Doujin comic events.",
+		"category" : [ "c", "e" ],
+		"rarity" : "c"
+		},
+	"421": {
+		"name" : "Letter Home",
+		"description" : "This is a letter to one’s distant hometown. If you use it when you’re about to have a Stress Explosion, and you can read from a letter (in other words, “make up a speech”) that the GM and the other players find suitable, your Stress will immediately by dropped to one point less than your Spirit score, saving you from the Stress Explosion.",
+		"category" : [ "e", "co" ],
+		"rarity" : "c"
+		},
+	"422": {
+		"name" : "Cursed Straw Doll",
+		"description" : "This straw doll carries a curse, born from someone’s hatred of another. By using it you can cause someone to take exactly as much Stress as you do from that point forward. However, every time you use it you lose 1D6 Favor. To create this doll, you usually have to tie lit black candles around your head and generally do a crazy occult ritual bullshit to make it work. Or, you might find it laying on a sidewalk in front of a vending machine.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"423": {
+		"name" : "Copycat",
+		"description" : "This is a black cat and it appears out of nowhere. Whoever possesses it can use any Maid Power or the effective any Item possessed by anyone within their field of vision. You can only use this item once per session. The cat follows you around, purring loudly. The cat can not be hurt or killed, because that would suck.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"424": {
+		"name" : "Juicy Diary",
+		"description" : "Someone has recorded their daily resentments and other juicy backstabby secrets into this notebook. By recording goings-on in the notebook you can, once per session, remove up to 20 points of Stress. However, if another maid finds your juicy diary and reads it, all of the maids will lose 10 Favor at the end of the session as their secrets are exposed.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"425": {
+		"name" : "Decisive Coin",
+		"description" : "This coin is engraved with a sinister spider symbol. Using it allows maids to more easily settle fights amongst each other. Flip the coin, and whoever calls it will automatically win the battle. Combat carried out in this matter does not cause Stress.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"426": {
+		"name" : "Death Note",
+		"description" : "This is a special notebook used by Death Reapers (Shinigami) to take the lives of those whose names are written in its pages. If you use it, you can cause “Death” to one PC or NPC within your field of vision. However, you make a Luck roll and get a result of 8 or better. If you do not, your own life will be taken (immediately create a new maid). Furthermore, any maid who possesses this item will have he “Death Reaper” follow them around (item #252), and it will not leave even at the end of the session.",
+		"category" : [ "c", "to" ],
+		"rarity" : "ur"
+		},
+	"431": {
+		"name" : "Desu Note",
+		"description" : "This is a special notebook used by lazy trickster gods to turn otherwise normal maids into caricatures of Japanese otaku or uncompromising, annoying Japanophiles. If used, you can cause “Desu” to one PC or NPC within your field of vision (they will be forced to take the quality “Japan Otaku” or “Annoying Japanophile”). However, you must make a Will roll and get a result of 8 or better. If you do not, your own maid will immediately take the special quality of “Otaku”. It is up to the affected otaku as to what flavor of underground geek they become: Doujin manga collectors, doll makers, video game addicts, anime enthusiasts, train/railroad geeks, frequent posters on the infamous “2ch” message boards, people who just can’t shut up about the Japanese language or society, etc.",
+		"category" : [ "c", "to" ],
+		"rarity" : "u"
+		},
+	"432": {
+		"name" : "Compromising Photos",
+		"description" : "These are pictures that show a weakness of one of the maids or maybe even the master. The owner picks a specific target. From then on, if she can get a result of 8 or better with a Cunning roll she can give them an order. (The victim takes 2D6 Stress after completing the task).",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"433": {
+		"name" : "Admantium Chastity Belt",
+		"description" : "Details unknown. When equipped, it clamps itself down and becomes impossible to remove. You automatically resist all attempts of seduction, but you also may not seduce other characters. Physical romance is pretty much out of the question, too. It can only be removed by a magic, skill or weapons roll of 12 or higher. If the weapon roll fails, hilarity usually ensues.",
+		"category" : [ "c", "u" ],
+		"rarity" : "u"
+		},
+	"434": {
+		"name" : "Arsenal Guitar Case",
+		"description" : "It is possible to pull any weapon from this terrifying guitar case. The owner of this item loses all of her weapons, but in their place she gets one random weapon from the Maid Weapon table each time she engages in combat. If the player effectively role-plays the maid using that weapon, the GM must award 2D6 Favor. However, if the role-playing doesn’t go well the maid will automatically fail that combat.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"435": {
+		"name" : "Ring Bought at the Night Fair",
+		"description" : "This is a ring bought by the Master at a night fair in the summer when you were both children, and given as an engagement ring. If you equip it, you’re Maid Roots forcibly becomes “Childhood Friends,” and you get a bonus of +2 to the die roll for any attempts at coercing or seducing the Master.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"436": {
+		"name" : "Maid Groupies",
+		"description" : "This is a trio of maids (treat them as having attributes of 1) who slavishly follow you. You can have these maids assist you up to three times during the scenario. In an action where they assist you your total result becomes (Attribute x Die Roll) + Die Roll. They are enthusiastic to the point of annoying, and loyal to a fault.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"441": {
+		"name" : "Interfering Cockroaches",
+		"description" : "These cockroaches have undergone a strict training regimen, such that they are completely under a maid’s control. Their main use is to interfere with other maids. If you are able to cause them to effectively interfere with someone, you gain a bonus of +2 to the die roll. However, you can only use these cockroaches in a certain way once per session (you have to come up with new uses).",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"442": {
+		"name" : "Mecha Beast",
+		"description" : "This overwhelmingly massive weapon outwardly looks like some kind of giant monster. Attributes 4, Spirit 10, and it fights in actual physical combat according to the owner’s wishes. However, if the mecha beast rolls a 1 on its 1D6 it will destroy part of or all of the mansion, in which case the owning Maid loses 10 points of Favor.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"443": {
+		"name" : "Super Gleaming Protein Brothers",
+		"description" : "These two gleaming, completely shaved bodybuilding men with bulging muscles, broad smiles, and speedo swimwear follow you around flexing. One is very light skinned, the other has a dark beach tan. It’s quite a surreal experience. They have attributes of 2, and can perform any action in place of their owner.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"444": {
+		"name" : "Damaged Plushie",
+		"description" : "This plush toy probably would’ve been thrown away, but it seems to have some kind of past to it. You can use this item for a seduction attempt once and only once during the session. The target who sees you holding the plushie is filled with a desire to protect you, comfort you, hold you dear and keep you innocent. You can decide which of their attributes they can use to resist the seduction.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"445": {
+		"name" : "The Holy Grail",
+		"description" : "This is the cup that is said to have been used at the Last Supper in Christian Mythology. It provides no bonus to any rolls. Now THIS is the cup of a carpenter.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"446": {
+		"name" : "Skull Stone",
+		"description" : "This skull-shaped stone hints at hidden treasure. If you use this item, you will lose it and gain one new item at random. You must still be the owner of this new item, but the item can be cursed, or another Skull Stone.",
+		"category" : [ "to", "co" ],
+		"rarity" : "c"
+		},
+	"451": {
+		"name" : "Demonic Ritual Book",
+		"description" : "This terrifying book was written based on demonic ideology. If you use this, your Stress Explosion becomes “Corruption” (The evil in your heart awakens and you live to satisfy your own desires). This effect can be applied to others besides the owner, in which case they need to make an Affection or Will roll and get a result of 12 or better or be affected.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"452": {
+		"name" : "Pancho the Dog",
+		"description" : "At first glance Pancho looks like an ordinary mutt. However, he can fuse with his owner and become XYZ Pancho (where the XYZ is the user’s name). A maid who fuses with Pancho gets +2 to Athletics and -2 to Luck (to a minimum of 0), and gains the senses and affectation of a human-canine crossbreed. This effect lasts until you have a Stress Explosion, and while it lasts you gain a “Dog Ears” Special Quality.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"453": {
+		"name" : "The Gimp",
+		"description" : "A human slave somehow given to or found by the owner. This is a person of average height, average build, of either sex that you wish, who always remains encased in a full tight leather or rubber gimp suit (complete with spiked leash) covering their entire body. This sad creature blindly and loyally follows you around and creates strange remarks by passers-by. It will follow any order except ones that would remove it from the presence of its owner, and it never speaks. All of its attributes are 1, its Spirit is 10, and its Stress Explosion is “run away with muffled screams, only to appear sometime later at a very inopportune time and place”.",
+		"category" : [ "c", "p" ],
+		"rarity" : "u"
+		},
+	"454": {
+		"name" : "Love Potion",
+		"description" : "This potion will allow you to seduce anyone you can get to drink it. If you make such a seduction attempt, you can use your Cunning or Skill, and your target cannot spend Favor on his or her attempt to resist. The concoction is bright purple, and thus it can be tricky to make someone drink it.",
+		"category" : [ "to", "co" ],
+		"rarity" : "c"
+		},
+	"455": {
+		"name" : "Government Cheese",
+		"description" : "A mysterious giant wedge of government-provided processed cheese (usually in meals for the armed forces, or for welfare banks). If you spend 1D6 Favor, you can eat it and completely ignore the result or effects of any single combat roll lost. It only lasts once.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"456": {
+		"name" : "Risky Dice",
+		"description" : "These dice are dangerous, but they can be helpful too. Whenever you roll dice for spending Favor, a roll of 1 to 5 counts as 0, but a 6 counts as 12 for the amount of Favor you wind up spending.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"461": {
+		"name" : "Hell Phone",
+		"description" : "This is a hotline that can connect you to the Underworld. By picking up the phone you can call a demon (Attributes 3) up from hell itself, and get him to help with combat up to three times. However, any NPCs who are killed or knocked unconscious will have to become sacrifices to placate the demon. This can be awkward at social gatherings.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"462": {
+		"name" : "Portable Changing Room",
+		"description" : "This is a changing room you can carry with you, basically a hula hoop with a curtain attached. If you use it, you can use the “Trespass” Maid Power when someone else is doing a Costume Change.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"463": {
+		"name" : "Golden Pail",
+		"description" : "This metal container is basically an empty copper pail meant for holding water. When people fail, it attacks from above adding insult to injury. You can use it on anyone who has just failed a roll within your field of vision. You pull a string, and the empty metal bucket drops down on them from above, and causes 1D6 Stress (in addition to any stress they may have already taken). They cannot reduce this Stress. A loud “bongggggg” noise occurs when it strikes them on the head.",
+		"category" : [ "e", "to" ],
+		"rarity" : "c"
+		},
+	"464": {
+		"name" : "Dictator’s Switch",
+		"description" : "This horse whip/switch (the kind that uniformed Latin American dictators often carry) can immobilize one PC of your choice. To use it, spend 2D6 Favor, say “away with her!/him!”, and the PC you have chosen will be removed from the action for 10 minutes of real time by mysterious armed military goons. That PC is allowed to hold a grudge when she returns. If the switch is used twice in one session, the goons hold a coup d’Ètat and overthrow you.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"465": {
+		"name" : "Red and Blue Candies",
+		"description" : "These mysterious red and blue candies are said to be able to transform people into adults or children. By swallowing one you can change one of your Maid Types to either Lolita or Sexy for 10 minutes of real time.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"466": {
+		"name" : "Production Model Maid Robot",
+		"description" : "This maid robot can perform all forms of housework. It provides a +2 bonus the die roll when used to assist you in doing housework. However, regardless of how well you succeed at doing the housework, you will only receive half (round down) the usual amount of Favor. The rest of the Favor goes to the robot, and if it accumulates 30 points of Favor it will become a full maid (PC or NPC) with the “Robot” Special Quality.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"511": {
+		"name" : "Master Capturing Cage",
+		"description" : "This cage is especially designed for capturing and confining the Master. A master who is caught in this cage (no roll is possible) will temporarily lose all of his special privileges as a Master, and until the maid who used this item lets him out, the mansion will effectively be without a Master. Should the session end before the master gets out (or is let out) of the cage, the player whose character used it can select a new master. A master is selected from among any of the PCs, including her own.",
+		"category" : [ "to" ],
+		"rarity" : "ur"
+		},
+	"512": {
+		"name" : "Reset Button",
+		"description" : "At first glance this appears to be an ordinary remotecontrol switch. However, this is actually a terrifying switch that can rewrite the basic laws under which the world functions. If you use it, all of the PCs return to their starting Favor totals.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"513": {
+		"name" : "Giant Growth Formula",
+		"description" : "Anyone who drinks this formula will grow to a massive size. The effect lasts for 30 minutes of real time. For the duration, the enlarged maid becomes 20 times her usual height, and she receives a bonus of +3 to her Athletics and Will (but Skill and Luck become completely unusable). Also, she cannot do anything that her size would make impossible.",
+		"category" : [ "co" ],
+		"rarity" : "r"
+		},
+	"514": {
+		"name" : "Shrinking Formula",
+		"description" : "Anyone who drinks this formula will shrink down to a diminutive size. The effect lasts for 30 minutes of real time. For the duration, the shrunken maid becomes 1/10 her usual height, and she receives a bonus of +3 to her Skill and Luck (but Athletics and Will become completely unusable). Also, she cannot do anything that her size would make impossible.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"515": {
+		"name" : "God of Romance",
+		"description" : "This is a god who at some point fell from the sky. If you befriend him or her, you can use attributes other than Cunning and Affection for seduction rolls. Also, you can spend Favor on seduction rolls. Expect the God of Romance to call on some favors from you from time to time, though.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"516": {
+		"name" : "Enigmatic Silver Key",
+		"description" : "This is an enigmatic key that can open doors between dimensions. By using it you can change the World to Fantasy, in which case Random Events will use the Fantasy table.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"521": {
+		"name" : "Tam-Tam Seed",
+		"description" : "This is the seed of a tree from the American plains that can grow to a large size very quickly even with a very small amount of water. With a large amount of water he can become truly massive in a moment. By using it you can surround the mansion with jungle, so that Random Events use the Wild Kingdom table from then on.",
+		"category" : [ "to", "co" ],
+		"rarity" : "c"
+		},
+	"522": {
+		"name" : "Fertility Goddess Milk",
+		"description" : "As the name implies, this is a special kind of milk that makes breasts and hips grow larger, in the manner of a curvy ancient fertility goddesses statue. If you use it, your chest will grow by two full cup sizes, and your hips will expand several centimeters, “perfect for birthing”. The effects last for three days. Upon using it you must replace one of your Made Types with “Sexy” (unless one of them is already Sexy). Taking the special quality of “Curvy” is optional.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"523": {
+		"name" : "Secret Key",
+		"description" : "This strange, worn-out key was actually made by one of the Master’s predecessors. It opens the door to a secret room for training - and breaking - maids. If you use it, a “Discovered a secret training room!” Event occurs.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"524": {
+		"name" : "Hot Spring Resort Tickets",
+		"description" : "This is a pair of tickets which allow you and one other person to visit a gorgeous hot springs resort for free. You may give them as a gift to someone in exchange for a great favor: Refusing to accept this exchange requires that the receiving person fail an Affection check with a difficulty of 8 (while thinking of the good times that they could have with their companion of choice at the resort).",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"525": {
+		"name" : "Texas-Sized T-Bone Steak",
+		"description" : "This legendary meat is said to fill the body with power when you eat it. Consuming this brings your Stress down to zero.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"526": {
+		"name" : "Murder Condom",
+		"description" : "If you use this terrifying flying demon condom against a male master, he needs an Athletics result of 10 or higher. If he fails... He can not perform any further seductions for the rest of the scenario. Nobody every asks any questions beyond that. If the identity of the maid who used it becomes known to the master, she will lose 2D6 Favor.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"531": {
+		"name" : "Certificate For Giving One Order to the Master",
+		"description" : "This is a handmade certificate from the Master, given for a birthday or some such. With it, you can give the Master any single order, regardless of your actual position.",
+		"category" : [ "to", "co" ],
+		"rarity" : "c"
+		},
+	"532": {
+		"name" : "Angelic Rebirth Statue",
+		"description" : "This small molded figure is baffling yet has its own unique charm. By holding it up to the heavens, you can change your own nature. If you use it, you can replace one of your Maid Types with any Maid Type of your choice.",
+		"category" : [ "to", "co" ],
+		"rarity" : "u"
+		},
+	"533": {
+		"name" : "Fir Seeds",
+		"description" : "The seeds of a fir tree. A maid who possesses these will be attacked by NPCs first. Also, if such attacks cause her to have a Stress Explosion, she can opt to ignore her usual one in favor of “Lost the Fir Seeds.”",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"534": {
+		"name" : "Puppy Soba",
+		"description" : "If you eat up all of these strange buckwheat noodles (soba), you’ll be equipped with ears, a tail, a collar, and a leash. A maid who consumes these noodles will be forced to take on a “Puppy Girl” Special Quality. This means she must fidget, have watery eyes, and pant when she gets hot. Also, her Stress Explosion becomes “Get Teased by Others”",
+		"category" : [ "c", "co" ],
+		"rarity" : "c"
+		},
+	"535": {
+		"name" : "Friend",
+		"description" : "This is a true friend who lives far away, someone who will remain a friend no matter how far apart you are. He or she serves as a source of emotional support, and when your Stress reaches your Spirit, memories of this friend (or a sudden phone call or visit from that friend) will let you lower your Stress by 1D6. You can use this friend twice per session.",
+		"category" : [ "co", "p" ],
+		"rarity" : "u"
+		},
+	"536": {
+		"name" : "Grecian Poisonous Snake",
+		"description" : "This fearsome poisonous snake was used for death-matches in ancient Greece. By using it, you can engage someone in an actual physical battle where your lives are at stake. If you lose this battle, you will die, regardless of your current Stress. However, if the character is a maid or butler, he or she can return after 20 minutes of real time, provided they give a good portrayal how they were able to do so. Since the antidote to the poison is the snake’s living blood, you will have to kill the snake after using it.",
+		"category" : [ "co", "p" ],
+		"rarity" : "r"
+		},
+	"541": {
+		"name" : "Easily-Broken Vase",
+		"description" : "Although this vase has great artistic and monetary value, it has been placed in a precarious position. If you can get a Cunning result of 6 or higher, you can get another maid to break it (though if you fail, you’ll break it instead). A maid who breaks this vase will lose 4D6 Favor.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"542": {
+		"name" : "Cat With A Million Lives",
+		"description" : "Knowing love lets this cat return to live countless times and grant luck to its master. However, its tiny body is transient, and dies sometimes. If you use it, roll 2D6 on the Power Source table from the Master creation rules; you can use this Power Source as though you were a Master. However, the cat will then understand true love and pass on, you will take Stress equal to your Spirit+30, and your Stress Explosion will be “Crying.” This is the cat from the popular Japanese children’s book, “Hyakku-man-kai Ikita Neko”.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"543": {
+		"name" : "Do Your Life Over Machine",
+		"description" : "This strange machinery, appearing to be a crazy metal detector which you can pass through, lets you create your character over again from scratch whenever you want.",
+		"category" : [ "e", "f" ],
+		"rarity" : "sr"
+		},
+	"544": {
+		"name" : "Command Curse",
+		"description" : "This magical seal lets you give orders to others. You can only use this item three times during a session. When you get it, roll on the Encounter Table to see who you are able to give orders to (re-roll if it’s yourself). You can give them any orders you like.",
+		"category" : [ "te", "co" ],
+		"rarity" : "r"
+		},
+	"545": {
+		"name" : "Friendship Overcomes Evil Power",
+		"description" : "This is a friendship that blasts through the barriers of alliances and enmities at the last possible moment. If you use it, you can form an alliance and cooperate with an NPC who has up until then been an enemy (even if they’re dead), and together attack another NPC (add your attack results together).",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"546": {
+		"name" : "Snapmaid Dragon (Maid/Head Maid Only)",
+		"description" : "This scroll contains a forbidden incantation. A maid who uses it transforms into a weapon (roll on the Maid Weapon table), and ceases to be a character. The resulting weapon can only be used by PCs who a maid or Master has seduced. If someone does equip this weapon, the attributes of the maid who became a weapon are added directly to their own.",
+		"category" : [ "lu", "to" ],
+		"rarity" : "sr"
+		},
+	"551": {
+		"name" : "Ultimate One Billion Reverse-Prana Terminal Overdrive Omega Plus Power",
+		"description" : "This is the Final Technique. You can only use this succession Technique once in your entire life, but it will cause absolute damage to the target. If you successfully use this in an attack with a Maid Weapon, the opponent will take Stress equal to their Spirit.",
+		"category" : [ "te", "co" ],
+		"rarity" : "sr"
+		},
+	"552": {
+		"name" : "Heavy Metal Roadie",
+		"description" : "This terrifying big dude with long hair covering his face can’t talk, but he can sure rock. Summoning him, you give him a high five and he sets up a heavy metal show. The ensuing chaos, headbanging, moshing and pyrotechnics will confuse and damage one enemy for stress equal to one half of their Spirit score, plus 2 for Metal.",
+		"category" : [ "p", "co" ],
+		"rarity" : "r"
+		},
+	"553": {
+		"name" : "The Only Neat Thing to Do",
+		"description" : "You can exchange your own life to create a better world. A maid who uses this will die, and nothing at all can bring her back. In exchange, whatever problems might be occurring are resolved, completely and cleanly (even if it means a person causing the problem dies). A single flower blooms somewhere when this Technique is used. This is a technique coined from the famous SF Author James Tiptree, Jr.",
+		"category" : [ "te" ],
+		"rarity" : "ur"
+		},
+	"554": {
+		"name" : "Red Rice",
+		"description" : "Sekihan is a mixture of mochi (a kind of pounded rice paste/ cake) and azuki (a kind of sweet red beans). Only a maid with the Lolita Maid Type can use this item. By using it, she can drop her Lolita Maid Type and replace it with Pure or Heroine (if she has Lolita twice, one of them will remain).",
+		"category" : [ "co", "lu" ],
+		"rarity" : "c"
+		},
+	"555": {
+		"name" : "Violet Rose",
+		"description" : "This extremely rare violet-colored rose is said to be a source of emotional comfort. If you use it, you can remove up to 20 points of Stress from another maid. It can be used once per session.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"556": {
+		"name" : "Fan Survey Card",
+		"description" : "This is a survey card for readers from somewhere or other to vote in a popularity contest. A maid who uses this item gets the results and finds out that she’s the most popular character in this game! She gains 3D6 Favor and her Stress drops to zero.",
+		"category" : [ "co" ],
+		"rarity" : "r"
+		},
+	"561": {
+		"name" : "Memory Fragment",
+		"description" : "This is a shimmering fragment of something that looks like a shard of a mirror. If you use it, you can remove an 'Amnesia' Special Quality from someone, causing them to regain their lost memories. This character should gain two new Special Qualities to replace Amnesia.",
+		"category" : [ "co", "lu" ],
+		"rarity" : "u"
+		},
+	"562": {
+		"name" : "True Nature",
+		"description" : "There is a side of you that you’ve been hiding, until now. If you use this item, you gain one random Special Quality (write it as “Actually a(n)...”), and you get +2 to one attribute of your choice.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"563": {
+		"name" : "Once In A Lifetime Request",
+		"description" : "A request that no one can ignore. If you use this, you can ask a person anything at all. This can be something relating to the rules, or even something self-destructive.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"564": {
+		"name" : "Crested Ibis",
+		"description" : "The crested ibis (or toki) is a rare, pure white bird. There is only one in the country where the mansion is located. It is trained in a special form of magic, and by using it you can cause someone who is having a Stress Explosion to recover, their Stress dropping to zero. It can also cause an NPC to have an “Instant Death” Stress Explosion.",
+		"category" : [ "p" ],
+		"rarity" : "sr"
+		},
+	"565": {
+		"name" : "Bridal Night Rights ",
+		"description" : "This is a fearsome privilege wielded only by people of great influence. A maid who uses this can automatically share the Master’s bed that night (though what actually happens there is another question altogether). Other maids cannot interfere in any way.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"566": {
+		"name" : "Earth-Destroying Bomb",
+		"description" : "This terrible bomb or device is powerful enough to destroy the entire Earth (or some other planet). If you use this item, the planet is destroyed, and the World becomes “Post-Apocalyptic.”",
+		"category" : [ "to", "co" ],
+		"rarity" : "u"
+		},
+	"611": {
+		"name" : "Carnivorous Refrigerator",
+		"description" : "This refrigerator is possessed by a demon. If you spend 1D6 Favor, you can see a random item inside it, but in order to actually get that item you have to make a Luck roll and get a result of 10 or better. If you fail, the fridge will eat you, and you’ll be unable to participate in the game for 10 minutes of real time.",
+		"category" : [ "c", "p" ],
+		"rarity" : "r"
+		},
+	"612": {
+		"name" : "Stairs of Legend",
+		"description" : "If two people fall down this staircase together, they will switch bodies. The owner of this item can, a number of times per session equal to her Cunning, spend 1D6 Favor to push two people down the stairs. If a pair that has switched bodies wants to switch back, they have to wait 5 minutes first, then they’ll have to fall down again, and take 1D6 Stress each.",
+		"category" : [ "f" ],
+		"rarity" : "r"
+		},
+	"613": {
+		"name" : "Execution Pit",
+		"description" : "This is a pit trap that opens at the pull of a cord. The pit is full of fresh, clean, refreshing spring water. The water is inhabited by many piranhas, crocodiles, freshwater sharks, and amphibious gorillas. When a mansion has this, the Master cannot take Favor away from the maids, but he can drop them into the pit instead, where they take 3D6 Stress. Don’t go overboard: Once per maid per adventure is probably best.",
+		"category" : [ "f" ],
+		"rarity" : "r"
+		},
+	"614": {
+		"name" : "Dark Temple",
+		"description" : "This terrifying temple seals away the brutal power that inhabits the mansion. This Facility applies a -1 penalty to all Will rolls maid within the mansion, and makes Will-based Maid Powers unusable. This temple must be conquered or undone to restore the mansion.",
+		"category" : [ "c", "f" ],
+		"rarity" : "u"
+		},
+	"615": {
+		"name" : "Dragon God Pond",
+		"description" : "You can only cross this pond to get into or out of the mansion (or perhaps another area of the mansion instead) by walking on a seemingly endless succession of stepping stones. However, some of these stones sink and others don’t. If a mansion has this pond, no one can enter or leave without a Luck roll of 8 or better.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"616": {
+		"name" : "Imperial Mausoleum",
+		"description" : "This gravesite resembles a pyramid. It stands as the result of the sacrifices of a loving populace to an emperor who forgot love himself. If the mansion has this, the Master is a distant descendant of that emperor, then he too has cast love aside. Any time the Master awards Favor, reduce the amount rolled by 2 (and if it goes below 0, you do lose Favor). Help the master overcome this curse!",
+		"category" : [ "c", "f" ],
+		"rarity" : "u"
+		},
+	"621": {
+		"name" : "Rose Gate",
+		"description" : "This is an old Japanese-style gate, meticulously marked with the words “Bara no Mon” (“Rose Gate”) with fabulous brushwork. Everyone who lives in a mansion that has the Rose Gate turns out to be related in some way, and their weapons are replaced with the martial art “Assassin Fist”. Thereafter everyone takes a -1 penalty to the die roll for actions during the day, but gets a +1 bonus for actions taken after sunset.",
+		"category" : [ "f" ],
+		"rarity" : "sr"
+		},
+	"622": {
+		"name" : "Mirror Seal Hallway",
+		"description" : "This gloomy Japanese-style hallway contains a mirror with demons sealed inside. It is said that there are countless monsters on the other side of the mirror. The mirror will only break if its owner wishes for it. If it does break, the Mood becomes Horror, and all events use the Horror Normal Event table. The mirror can still break after a Random Event has occurred, however.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"623": {
+		"name" : "Zen Rock Garden",
+		"description" : "In the back of the mansion lies a well-maintained Zen rock garden, similar to the one found at the famous Kyoto temple Ryo-an-ji. If there is a scene or event which takes place in this garden, all of the characters lose 1D6 Stress due to the peaceful, calm, meditative nature of this small retreat.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"624": {
+		"name" : "Surveillance Cameras",
+		"description" : "These cameras are set not outside but inside the mansion, to rob the maids of any privacy. In a mansion with such cameras, the Master, head maid, and butler can know all of the maids’ secrets. Whether the cameras are manned when things happen... that might be up to a Luck roll.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"625": {
+		"name" : "Underground Arena",
+		"description" : "This is a fighting arena built beneath the mansion. Here you can hold fights while countless spectators look on and cheer. When maids choose to fight with each other using weapons, this is the best place to do it. Here, every fighter’s Stress Explosion is “Fainting”, and they get a bonus of +1 to the die roll for fighting. This is the dream dungeon of any 2d fighting game player.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"626": {
+		"name" : "What-If Box",
+		"description" : "For some reason there’s this telephone box in the mansion. Anyone can spend 2D6 Favor to change the mansion’s World to whichever they like. The random event table used in the session becomes the one for the World the character picked. This can also be used to interrupt a Random Event that is currently occurring. Occasionally, a kind of quirky professor wearing a long scarf can be seen hanging around the What-If Box.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"631": {
+		"name" : "Creepy Laboratory",
+		"description" : "No one knows what this creepy laboratory shed holds, or where it came from, but only the Master can open it. There is a single maid inside it; if it’s opened, everyone creates the character. If the user of the item has a Stress Explosion, it becomes “Erased” (You were actually a mass of the thoughts of the maid in the shed, and you disappear), and you must start playing as the maid from the shed.",
+		"category" : [ "c", "f" ],
+		"rarity" : "sr"
+		},
+	"632": {
+		"name" : "Sealed Room",
+		"description" : "Everything about this room is a mystery. It might be eerily plain, or covered in inked glyphs. Any time someone tries to open the door or even comments about it, a Horror Normal Event happens, regardless of what the GM or players might have been expecting.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"633": {
+		"name" : "Popular Guy Cell",
+		"description" : "This is a small cell in a corner of the mansion, holding a few handsome young men. If the mansion has this, males cannot seduce females. If they try, they find themselves falling unconscious mysteriously, only to appear with the others in this cell.",
+		"category" : [ "c", "f" ],
+		"rarity" : "u"
+		},
+	"634": {
+		"name" : "Unpopular Guy Cell",
+		"description" : "This is a small cell in a corner of the mansion, holding a few kinda quirky guys, an internet-capable PC, a “dakimakura” of some gravure idol, a collection of poseable anime figurines, and a collection of half-built robot plastic models and Tools. If the mansion has this, males who have not seduced any females receive half (round down) the usual amount of Favor. If they do not seduce anyone by the end of the session, they mysteriously find themselves prisoners of the cell.",
+		"category" : [ "c", "f" ],
+		"rarity" : "u"
+		},
+	"635": {
+		"name" : "Hook Shot",
+		"description" : "This is a strange block-looking (almost 8-bit) weapon, like a rod with a grappling hook on the end, with a long section of chain between them. You can use this to reach high or far places quickly. It can be also used in actual physical combat: If it causes a stress explosion, the victim’s Stress Explosion changes to “Stunned”.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"636": {
+		"name" : "Pipe Organ of Memories",
+		"description" : "In a hall in the mansion is a pipe organ, full of the Master’s memories. Only the owner/finder can play it, and when she does everyone who can hear it (including herself) can remove 2D6 Stress. However, if the pipe organ is destroyed anyone who has heard its sound takes 3D6 Stress, and the one who played it takes 30 Stress.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"641": {
+		"name" : "Doberman",
+		"description" : "This Doberman is incredibly fierce towards anyone other than her master. She will mercilessly and relentlessly attack anyone other than his owner and the Master (Attributes 3/Spirit 10). The owner can give her whatever orders she likes, and she can do things besides attacks. If the Doberman should die during the scenario, the Doberman will mysteriously return unharmed after 15 minutes of real time.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"642": {
+		"name" : "Crocodile That Doesn’t Look Like A Crocodile",
+		"description" : "This large crocodile looks like a plushie at first glance, but in reality it’s a brutal yet lecherous pet. It treats men, PCs or NPCs, as enemies (Attributes 3/Spirit 10). On the other hand it will automatically support female characters in Athletics- or Will-based combat, providing a bonus of +1 to the die roll.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"643": {
+		"name" : "Nuclear Missile  (Usable By Master Only)",
+		"description" : "A nuclear missile is set up inside of the mansion. This effectively lets you use the “Military Might” Power Source once per session. This Facility will be back the next session, and you can use its power again then.",
+		"category" : [ "to", "lu" ],
+		"rarity" : "r"
+		},
+	"644": {
+		"name" : "No Pets Allowed",
+		"description" : "That’s what the sign says on the gate or the door. If a mansion has this item set up, any “Pet” items will become ineffective and disappear. Or else they have to be kept a secret from the butler, master and other maids or they will be taken away.",
+		"category" : [ "c", "f" ],
+		"rarity" : "u"
+		},
+	"645": {
+		"name" : "Bed Where Everyone Can Sleep",
+		"description" : "This is a bed where the Master and all of the PCs who want to can sleep. When it becomes time to sleep, everyone can sleep alongside the Master in a straight line, and they all get 1D6 Favor. It sounds terribly creepy, but it’s actually quite innocent. Most of the time.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"646": {
+		"name" : "Independent Territory",
+		"description" : "This indicates that the mansion is treated as an independent country by Japanese (or other land) law. This effectively means the Master has “Mansion” as an additional Power Source. This could lead to interesting political problems.",
+		"category" : [ "f", "te" ],
+		"rarity" : "u"
+		},
+	"651": {
+		"name" : "Carnivorous Pit",
+		"description" : "This pit has a demon lurking inside. There is no way to avoid the demon of the pit, save by praying for fate to spare you. If you use this item, anyone can use the Maid Powers of Teleport and Lock Picking, but if you roll a 1 or 2 on 1D6, the demon catches you and you can’t participate in the game for the next 10 minutes of real time.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"652": {
+		"name" : "P.E. Shed",
+		"description" : "This old storehouse is made of cinder blocks and corrugated metal, and houses old gym Equipment, gymnastics mats, basket/dodgeballs, metal pails and the like. The interior has a peculiar smell. This place is used for [DELETED BY THE MINISTRY OF CULTURE], and you can effectively use the “World For Two” Maid Power at no charge. However, if you do use it you will automatically be seduced by your partner.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"653": {
+		"name" : "Secret Garden",
+		"description" : "This is a hidden garden where various secret things happen. Any time you gain Favor or remove Stress through Romantic Activities inside the garden, you gain/remove an additional 1D6 points. Also, roll 2D6 for any actions relating to tempting someone with the seduction rules.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"654": {
+		"name" : "Unseen Resident",
+		"description" : "This is a resident of the mansion that always seems to be present, but no one can ever quite see. This mysterious person gives encouragement to the owner of the item, so that her Stress stops at one less than her Spirit, and she doesn’t have Stress Explosions. However, the owner seems to be constantly talking to the empty air, to the point where she can never gain Favor.",
+		"category" : [ "c", "p" ],
+		"rarity" : "u"
+		},
+	"655": {
+		"name" : "Belfry Full of Bats",
+		"description" : "This tower includes a belfry where a vampire is said to live. PCs with the “Vampire” Special Quality can automatically become a Master. If there are no vampires, the existing Master automatically gains the “Vampire” Special Quality.",
+		"category" : [ "f" ],
+		"rarity" : "r"
+		},
+	"656": {
+		"name" : "Gallows",
+		"description" : "This horrific Facility is for the execution of unneeded staff members (hopefully an artifact from times of old, unused in generations. Hopefully). In this mansion, if a maid or butler goes below 0 Favor, he or she cannot lower an attribute to make up the difference, he/she is not dismissed but rather is executed (in which case it’s time to roll up a new character). In a lighter game of Maid, the gallows will be painted pink and have a Hello Bunny sticker on it. Or maybe that’s darker?",
+		"category" : [ "c", "f" ],
+		"rarity" : "sr"
+		},
+	"661": {
+		"name" : "Spiritual Force Field",
+		"description" : "This is a place where the souls of the dead cannot rest. In a mansion with this Facility, PCs who have Stress Explosions will die and can come back with a “Ghost” or “Zombie” Special Quality (Stress goes to zero). However, characters who have a Stress Explosion after that are “Erased” and can never return.",
+		"category" : [ "c", "f" ],
+		"rarity" : "sr"
+		},
+	"662": {
+		"name" : "Secret Construction Plant",
+		"description" : "This is a secret area located underneath the mansion or in a hidden room. The owner of the item gains a “Clone” or “Robot” Special Quality. From then on, she can die as a result of a Stress Explosion if the player wishes, but after 5 minutes of real time the character can return (with suitable role-playing), with her Stress back down to zero. This can be used multiple times.",
+		"category" : [ "te" ],
+		"rarity" : "sr"
+		},
+	"663": {
+		"name" : "Mists of Ignorance",
+		"description" : "This mist completely surrounds the mansion. While this mist surrounds the mansion, no one can enter or leave except the Master and head maid. Anyone coming to the mansion from outside will get lost in the mist unless the Master wishes them to come. Also, while this is in effect, only Normal Events (not Random Events) can occur.",
+		"category" : [ "f" ],
+		"rarity" : "r"
+		},
+	"664": {
+		"name" : "Sinister Ravens",
+		"description" : "This is a murder of ravens that continually circle the mansion. While this continues, everyone who lives in the mansion gets a -2 penalty to Luck (to a minimum of 0).",
+		"category" : [ "c", "f" ],
+		"rarity" : "u"
+		},
+	"665": {
+		"name" : "Hell Well",
+		"description" : "Instead of water, this well is connected to Hell. If you stand in front of this well and spend 1D6 Favor, a PC or NPC who has died can return, albeit with a new “Ghost” or “Immortal” Special Quality.",
+		"category" : [ "f" ],
+		"rarity" : "sr"
+		},
+	"666": {
+		"name" : "Banana Peel",
+		"description" : "Banana peels shows up completely at random in the mansion. In a mansion that has this, any time you roll a 1 for any check, you will slip on a banana peel, regardless of your ability. Naturally, whatever you were trying to do, whether a normal roll, combat, or seduction, you fail.",
+		"category" : [ "c", "p" ],
+		"rarity" : "r"
+		},
+	"1111": {
+		"name" : "Mister Sparkle",
+		"description" : "This is a particularly good brand of laundry detergent that has a distinctive bald man with yellow skin on the package. If you equip it, add a +1 bonus to your Skill for doing laundry.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"1112": {
+		"name" : "Oni Gun",
+		"description" : "Anyone hit by a blast from this raygun will be transformed into an oni, a Japanese ogre. Oni have short horns and wear a tiger-striped bikini or loincloth. If you successfully hit someone with the Oni Gun, they gain “Oni” as a Special Quality. If you roll a 6, they gain “Demon God of Thunder” instead, and gain “Divine Retribution” as a Maid Weapon (+1 to the die roll for attacks).",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1113": {
+		"name" : "Maid RPG Rulebook",
+		"description" : "This book, which has three maids on the cover, tells how to role-play maids who serve a Master by gathering some friends around a table and talking and rolling six-sided dice. Maids who read this experience a madness-inducing reality paradox and immediately take 20 Stress. Masters who read it usually just snigger a lot.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1114": {
+		"name" : "Dead Parrot",
+		"description" : "This is a parrot in a birdcage. It sits on its perch and holds very, very still, though it may have in fact been nailed there. You might want to try to get your money back, but the pet shop owner will try to talk his way out of it.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"1115": {
+		"name" : "Diabolic Hat",
+		"description" : "This stylish black hat has red eyes and sharp, pointed teeth. Fans say it’s the “hat of the century.” You can wear this like a normal hat (though it might snarl at random people), or you can send it to attack your enemies (Attributes 2/Spirit 5).",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"1116": {
+		"name" : "Ancient Roach",
+		"description" : "This telepathic cockroach from the dawn of time latches onto victims and grants them power while making them do very strange things. If you’re affected by the roach, once every 5 minutes or so of real time the GM rolls 2D6, and the roach mentally commands you to do whatever comes up. If you happen to own the indie RPG this is blatantly copied from, you can draw one of the cards it comes from instead.
+2. Scream as loud as you can to drive away the evil.
+3. Neglect your work.
+4. Roll on the Encounter Table; try to humiliate that character any way you can.
+5. You must clean yourself as thoroughly as possible.
+6. Roll on the Encounter Table; you are effectively seduced by that character.
+7. Roll on the Encounter Table; try to seduce that character.
+8. Roll on the Encounter Table; do battle with that character.
+9. Roll on the Encounter Table; protect that character at all costs.
+10. Eat as much as you possibly can.
+11. Roll on the Encounter Table; make them know fear.
+12. Dance!",
+		"category" : [ "c", "p" ],
+		"rarity" : "r"
+		},
+	"1121": {
+		"name" : "Kaboom Gun",
+		"description" : "This massive gun uses electromagnetic coils to fire shells at supersonic speeds. You gain “Supersonic Rail Gun” as a weapon. You get a +2 bonus for attacks made with it, but you can only attack every other turn, and if you don’t carefully secure yourself you’ll be sent flying backwards by the force of the blast.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1122": {
+		"name" : "Vorpal Bunny",
+		"description" : "Although it looks like an ordinary white bunny rabbit, this animal is in fact a vicious killer. It has Attributes 5 and Spirit 15, and will attack everything in sight.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"1123": {
+		"name" : "Edible Maid Uniform",
+		"description" : "This is a maid uniform maid of a special edible material, similar to fruit leather. That means it can serve as a snack, either in a pinch or just for fun. For every –1 penalty the wearer takes for disrobing, it can provide a light snack to one person.",
+		"category" : [ "u", "co" ],
+		"rarity" : "c"
+		},
+	"1124": {
+		"name" : "Sword of Omens",
+		"description" : "This is a creepy sword with a red cat eye built into the hilt. By reciting the magic incantation and staring into the sword, you can see what’s going on in other places. This effectively gives you the Saw It maid power (see p. M17). You can also use it as a Maid Weapon, if you insist.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1125": {
+		"name" : "Women's Magazine",
+		"description" : "This magazine aimed at women has lots of advice on different aspects of life. Anyone who reads it all the way through gains one random Complex.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1126": {
+		"name" : "Senzu Bean",
+		"description" : "If you eat this very rare seed, you will be completely healed from any injuries you may have suffered. Anyone who eats this seed has their Stress drop to zero.",
+		"category" : [ "co" ],
+		"rarity" : "r"
+		},
+	"1131": {
+		"name" : "Konpeito Jar",
+		"description" : "This is a large glass jar of multicolored little spiky balls of sugar. If you get someone to accept some, you get a +1 bonus to an Affection roll relating to them.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1132": {
+		"name" : "Allspark",
+		"description" : "This is a strange metal cube from outer space. Any time it touches a device, that device turns into an evil robot. Robots created this way are called… Transmorphers, and they have Attributes 3 and Spirit 10.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"1133": {
+		"name" : "Christopher Walken",
+		"description" : "The ultimate life form. Most of the time he’ll just ramble on, but when a fight breaks out he will EVOLVE, creating a massive burst of light. Everyone present takes 4D6+10 Stress, and Christopher Walken evolves into Christopher Flyin', whereupon he ascends to a higher plane of existence and is never seen again.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"1134": {
+		"name" : "Feelings",
+		"description" : "This is a gift-wrapped box that only contains a card with the word “My Feelings” written on it. Seriously, that’s it.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1135": {
+		"name" : "The Red Door",
+		"description" : "Somewhere in the mansion there is a red door that the people who’ve lived in the mansion the longest know never to open. Inside there is a very obnoxious maid (roll for one random Personality Quirk) whom the Master set to some utterly pointless task just to keep her busy.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1136": {
+		"name" : "Oxygen Destructor",
+		"description" : "A genius scientist was working on unlocking the secrets of oxygen when he stumbled across this terrifying device. You can only use it once, but it gives you +3 to the die roll for attacks against giant monsters.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1141": {
+		"name" : "Supreme Panties",
+		"description" : "These panties were granted to a dedicated connoisseur of female undergarments by the great Dragon God. They are the most comfortable panties in the world. If you wear them (even if it’s on your head), their wonderful comfort and softness reduced any Stress you take by 2 points.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1142": {
+		"name" : "AE-86",
+		"description" : "This compact says something about a tofu shop on the side. It’s an inexpensive compact car, but a skilled driver can make it do really amazing things. It can travel on roads, and gives a +1 to the die roll for driving while making difficult maneuvers. It can carry up to three passengers, or a decent amount of tofu.",
+		"category" : [ "v" ],
+		"rarity" : "u"
+		},
+	"1143": {
+		"name" : "Two-Ton Paperweight",
+		"description" : "This car is a PIECE OF SHIT. It’s an old junker bought for cheap, and while it can sometimes be persuaded to run, it will make you hate it if you try to actually go anywhere. It can carry up to three passengers (if you can make a Skill roll with a result of 10 or better to clean it out), but it takes a Skill result of 15 or better to get it to actually drive for more than a few blocks.",
+		"category" : [ "v" ],
+		"rarity" : "c"
+		},
+	"1144": {
+		"name" : "Vendetta Mask",
+		"description" : "This ceramic mask is made to look like the face of a famous anarchist. It serves to hide your identity while you take vengeance against authority. You cannot lose Favor while wearing it no matter what you do, but you can’t gain any Favor either. Also, you have an uncontrollable urge to speak with lots of alliteration.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"1145": {
+		"name" : "Trick Gum",
+		"description" : "If you chew this gum you gain “Addicted to Heroin” as a Special Quality. Which really sucks by the way.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1146": {
+		"name" : "Sonic Screwdriver",
+		"description" : "This odd alien device can open pretty much any door with a Skill result of 6 or better. You can also use it as a screwdriver.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1151": {
+		"name" : "Moongate",
+		"description" : "This massive stone ring was made by an ancient alien civilization, and if you activate it correctly it will create a portal to another world. If a character can make a Skill check with a result of 12 or better, she can solve the puzzle of the Moongate and open a portal to a random World.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1152": {
+		"name" : "The Ace of Spades",
+		"description" : "This is the only card you need. You can use it to roll 2D6 instead of 1D6 for one roll, but after that you lose it.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1153": {
+		"name" : "Citizens’ Elbow",
+		"description" : "This rather ridiculous combat technique is very popular and surprisingly effective. To use it you must first knock someone on the ground, then run around a bit, and finally do an elbow drop on them. Improbably, this gives you a +1 to your die roll, and the first time you use it successfully you gain 2D6 Favor.",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"1154": {
+		"name" : "Extra Pigtails",
+		"description" : "This is a pair of pigtails packed in a cardboard box. If you attach them to your head, you will be able to fly at a leisurely pace. However, if someone removes them the wrong way, you will “die” and come back after 2D6 minutes of real time.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"1155": {
+		"name" : "Truth Bullet",
+		"description" : "Allows the user to inflict stress on an opponent by bringing attention to a contradiction or logical fallacy in their line of thinking. (Cunning +1 attack)",
+		"category" : [ "te" ],
+		"rarity" : "u"
+		},
+	"1156": {
+		"name" : "Fire",
+		"description" : "You are covered in fire that slowly burns, but doesn’t seem to adversely affect you. However, things you touch still tend to catch on fire, and anyone you “Do That Thing” with will gain this item/curse. If you see a doctor they will recommend liberally applying cold water, but that’s probably the opinion of a quack.",
+		"category" : [ "c", "e" ],
+		"rarity" : "r"
+		},
+	"1161": {
+		"name" : "Shocking Internet Site",
+		"description" : "You come across something online that you just can’t un-see. The first time you see it you take 3D6 Stress, but after that you can show it to others to make them take 3D6 Stress.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1162": {
+		"name" : "Tanning Coupon",
+		"description" : "This is a coupon for a free session at a nearby tanning salon. If you use it, your character will gain “Brown Skin” (see p. M8) as a Special Quality.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1163": {
+		"name" : "Aperture Gun",
+		"description" : "This device looks like a gun made of smooth white plastic, with a three-pronged claw thing on the end. It has two triggers. If you fire the first trigger it fires an orange blast that makes an orange-rimmed portal on whatever flat surface it hits. If you fire the second trigger it does the same thing, but blue. If you’ve done both, anyone can pass from one portal to the other.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1164": {
+		"name" : "Friend Cube",
+		"description" : "This large gray metal cube with a pink heart inside inspires feelings of attachment and affection in people who carry it around. The cube automatically seduces a character that carries it around, and grants 1D6 Favor when they show affection towards it (once per 30 minutes of real time). However, if the cube is destroyed, the character immediately takes 4D6 Stress.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"1165": {
+		"name" : "Silver Hammer",
+		"description" : "This silver hammer belonged to a handsome young man named Max something or other, and he used it to commit several brutal murders. It adds +2 to the die roll for attacks on anyone you’ve seduced.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1166": {
+		"name" : "You From A Parallel Universe",
+		"description" : "You stumble across yourself from another universe. She will be more or less like you, but with some important differences. Pick one of your Special Qualities, and roll for a new one to replace it in your double.",
+		"category" : [ "p" ],
+		"rarity" : "r"
+		},
+	"1211": {
+		"name" : "Love Potion #9",
+		"description" : "No one knows why the ninth love potion is so special, but it does the trick. If someone drinks the potion, they’ll automatically be seduced by the first person they see.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1212": {
+		"name" : "Instant Hell Murder",
+		"description" : "This is the ultimate technique of the forbidden assassin fist style. If you use it, you’ll glide towards your opponent, latch onto them, and deliver a devastating flurry of blows that makes a single Chinese character of your choice glow in the air above you. Once per session, if you’ve taken at least 10 Stress, you can spend 2D6 Favor to deliver an attack with a +3 bonus to the die roll.",
+		"category" : [ "te" ],
+		"rarity" : "u"
+		},
+	"1213": {
+		"name" : "Dimensional Hammer",
+		"description" : "HammerSpace™ is a relic of 90s anime fandom, but there might well be a few who still practice this lost art. Possessing the Dimensional Hammer technique lets you produce a large wooden mallet out of nowhere to clobber an opponent. Some claim that this technique involves actually creating a breach between this dimension and HammerSpace™, but the truth may never be known. What’s important is that when you use this you’ll gain “Dimensional Hammer” as a Maid Weapon, and you can use the Giant Weapon Maid Power with it (+1 to the die roll for combat rolls made with it).",
+		"category" : [ "te" ],
+		"rarity" : "r"
+		},
+	"1214": {
+		"name" : "Ban Hammer",
+		"description" : "This is a large plastic hammer with the word “BAN” written on it in large, red letters. If someone says something even remotely offensive, you can hit them with the Ban Hammer. If you make a successful attack, instead of causing Stress they can’t say anything for 1D6 minutes of real time.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1215": {
+		"name" : "Babelfish",
+		"description" : "This is a strange yellow fish. If you put it in your ear, you’ll be able to understand any spoken language, though it may cause you to stop believing in God.",
+		"category" : [ "e", "p" ],
+		"rarity" : "c"
+		},
+	"1216": {
+		"name" : "Magical Mushroom",
+		"description" : "This rather large, brightly-colored mushroom has magical properties. If you eat from one side of it you’ll grow to several times your normal size (gain “Giant” as a Special Quality), and if you eat from the other side you’ll shrink to less than a foot tall (gain “Miniature” as a Special Quality).",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1221": {
+		"name" : "Starman",
+		"description" : "This object is shaped like a star with two eyes. If you activate it, you will flash and glow for the next three turns (or 30 seconds of game time) and anyone you touch will be immediately knocked out for 5 minutes of real time.",
+		"category" : [ "co" ],
+		"rarity" : "r"
+		},
+	"1222": {
+		"name" : "Title Belt",
+		"description" : "This massive, gaudy gold belt is the proof of a true champion. If you use it as a weapon you get +1 to the attack roll and +1D6 to the Stress it caused, but if the Master sees you do it you lose 2D6 Favor.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1223": {
+		"name" : "Giant Foot",
+		"description" : "This massive human foot, from some classical painting, descends from the sky to crush its hapless victims with a raspberry sound. If you sing, hum, or play the first part of the Liberty Bell March and then make a raspberry sound at the end, you can attack one target with the foot using an attribute level of 4. After that, you lose the Giant Foot item.",
+		"category" : [ "co", "te" ],
+		"rarity" : "u"
+		},
+	"1224": {
+		"name" : "Geass",
+		"description" : "You have received the power to give commands that must be obeyed, but this power is potentially dangerous. By taking 2D6 Stress, you can give someone you’re making eye contact with an order that they must follow. However, you can only do this to a given person once, and they will do precisely what you say, regardless of whether or not it was what you meant.",
+		"category" : [ "te" ],
+		"rarity" : "sr"
+		},
+	"1225": {
+		"name" : "Mirror Shield",
+		"description" : "Any projectile attack directed at the wielder can be deflected. A luck roll determines who the projectile ends up hitting instead.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1226": {
+		"name" : "Rocket Jumper",
+		"description" : "An easy to wield bazooka. Can shoot a rocket that causes 2d6 stress to the user (and anyone in the blast radius) in order to propel themselves across large distances very quickly. Can be done vertically as well as horizontally. (Note: This weapon cannot be fired at anyone other than the user. When fired elsewhere, the rocket will change course and home in on the user's feet.)",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1231": {
+		"name" : "Redo Button",
+		"description" : "This mysterious button alter's the user's natural talent. Pressing it will allow the user to re-roll their maid power for their currently highest stat(s). After pressing it, the button falls apart and cannot be used again.",
+		"category" : [ "to", "co" ],
+		"rarity" : "r"
+		},
+	"1232": {
+		"name" : "Dynamic Capsule",
+		"description" : "This strange, unscientific device looks like a small metal capsule that you can hold in the palm of your hand, but if you press the little button on its side, there will be a puff of smoke, and it will release its contents, with are likely to be far larger than the capsule. Roll again on the item table to determine what it contains.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1233": {
+		"name" : "Catgirl Ray",
+		"description" : "This rather cute-looking raygun temporarily turns targets into catgirl servants. If you successfully shoot a female NPC with it (i.e. do an attack with the gun that would cause Stress), they will become an Apprentice Maid with the “Nekomimi” Special Quality.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1234": {
+		"name" : "Catling Gun",
+		"description" : "A large mounted gun that fires out a volley of catgirls. When manned, the gun can be used to attack opponents with an Affection +1 roll. After combat, the catgirls all mysteriously disappear.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1235": {
+		"name" : "Alchemist Watch",
+		"description" : "This intricate and rather beautiful silver watch enhances the owner’s alchemical abilities. Actions that use magic get a +1 bonus to the die roll if you have it in your possession. It also keeps time.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1236": {
+		"name" : "Amazone Gift Certificate",
+		"description" : "This is a gift certificate for a major internet retailer that sells just about anything imaginable. Use this item to have one item of your choice delivered to the mansion after five minutes of real time.",
+		"category" : [ "co" ],
+		"rarity" : "r"
+		},
+	"1241": {
+		"name" : "Tracking Device",
+		"description" : "A two-piece item set containing a compass and a clip. The compass's needle will always point towards the clip, no matter how far the distance is between them.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1242": {
+		"name" : "Gender Gun",
+		"description" : "This is a strange alien ray gun with male and female symbols on it. If you attack someone with it and succeed, instead of doing damage you’ll change them into the opposite gender. If the target is female, she gets “Actually a Guy” as a Special Quality, and if male, he gets “Actually a Woman,” at least until he or she is hit with the gun again.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1243": {
+		"name" : "Costume Closet",
+		"description" : "This is a room inside the mansion that is full to the brim with different costumes. If you go in there and spend 1D6 Favor, you can change into a random costume. Roll on an appropriate costume table to see what you get, but re-roll if your character doesn’t meet its requirements.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"1244": {
+		"name" : "Flak Gun",
+		"description" : "This large yellow gun fires a blast of red-hot shards of metal. Add +1 to the die roll for attacks made with it. If you successfully attack someone at point-blank range, they will be completely ripped apart, sending bloody chunks everywhere. But they will “respawn” and appear in a random location in the mansion after 2D6 minutes of real time.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1245": {
+		"name" : "Heart Candy",
+		"description" : "If someone eats this little heart-shaped candy, a heart appears hovering above their forehead. If you manage to grab this heart, you will win their heart for real. In effect, this means you automatically seduce them.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1246": {
+		"name" : "Tanuki Leaf",
+		"description" : "If you eat this leaf you will sprout raccoon ears and a striped tail. With these, you can fly for short distances if you get a running start. You may also use “Tanuki Tail” as a Maid Weapon.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1251": {
+		"name" : "Truth Serum",
+		"description" : "A syringe of a drug that relaxes a victim and makes it very difficult for them to conceal the truth. If you’ve been injected with truth serum, you have to make a Will check with a result of 12 or higher to tell a lie.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1252": {
+		"name" : "Unique Curry",
+		"description" : "It’s not clear how someone devised this strange form of curry, but if two people try to eat from a plate of it at the same time, they will switch minds and the remaining curry will be consumed in an explosion of yellow-brown powder.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1253": {
+		"name" : "Roomba",
+		"description" : "An AI-controlled vacuum cleaner. If left in a room on its own, it will somehow cause the entire room to become clean after 30 in-game minutes. (Interrupting this process will cause the entire room to revert back to its original state of cleanliness.) The Roomba can also be rode by a maid that is able to fit herself on top of it. They will move very slowly, and be unable to control the direction of movement, but will be able to safely traverse across dangerous terrain such as a slippery floor or hot coals. The maid will also appear 5cm taller.",
+		"category" : [ "to", "v" ],
+		"rarity" : "c"
+		},
+	"1254": {
+		"name" : "Razor Scooter",
+		"description" : "With this, you'll be the coolest meido on the block. With an athletics roll (size at DM's discretion) you can use it to get around quickly, and/or do sick tricks with a skill roll. Sufficiently sick tricks will dazzle opponents (essentially equivalent to a cunning contest), but if you fail you'll fall and hurt yourself, incurring 2d6 stress.",
+		"category" : [ "v" ],
+		"rarity" : "c"
+		},
+	"1255": {
+		"name" : "Vespa",
+		"description" : "You personally don't think it's as cool as a Razor Scooter, but until someone figures out how to strap an engine on one of those things, you're stuck with this.  A two-seater scooter that gives +1 to affection rolls when you're on or next to it.",
+		"category" : [ "v" ],
+		"rarity" : "u"
+		},
+	"1256": {
+		"name" : "Wienermobile",
+		"description" : "An extremely large truck in the shape of an enormous wiener. With its impressive size, it's completely unable to make narrow turns (or even moderate ones), but it comes equipped with a state-of-the-art GPS and sound system. Provided you don't have to take any off roads or otherwise inhospitable routes to get there, the car can be told to navigate to anywhere you know the name or address of.",
+		"category" : [ "v" ],
+		"rarity" : "c"
+		},
+	"1261": {
+		"name" : "Vodka",
+		"description" : "A strong alcoholic beverage. While under the effects of it, the user suffers a -1 penalty to Athletics, Skill, Will, and Cunning, but gains a +2 bonus to Affection.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1262": {
+		"name" : "Dry Ice Freezer",
+		"description" : "A freezer that is 1 cubic foot in size. Any item that is placed inside will become frozen immediately after the door is closed. Freezing will only occur if the door is able to shut completely.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1263": {
+		"name" : "The One-Letter Substitutor",
+		"description" : "A fancy pen that can alter the very fabric of reality. Allows the user to change one letter in the name of any of their items, to completely change what that item is. (For example, replacing the 'u' in Gun with an 'i' can change a pistol into a bottle of alcohol.)",
+		"category" : [ "to" ],
+		"rarity" : "sr"
+		},
+	"1264": {
+		"name" : "'Lucky' Dice",
+		"description" : "A single D6 die that lets the user try their luck at getting a nice bonus. The table of results are below:
+6 - The user can increase a single attribute by 1 point for free (attribute must currently be at 0 or 1).
+5 - The user obtains one random costume from the costume table.
+4 - The user obtains one random item from the item table.
+3 - The user gains 1D6 favor.
+2 - The user loses all accumulated stress.
+1 - The die explodes. The user loses all their favor, takes stress equal to their Spirit+1, and loses 1 point from a random attribute (1D6 decides, cannot go below 0).
+0 (only possible if possessed by a shinigami) - The user dies. Create a new character.",
+		"category" : [ "to" ],
+		"rarity" : "sr"
+		},
+	"1265": {
+		"name" : "Toy Boat",
+		"description" : "A small wooden rowboat carved to intricate detail. When it makes contact with water, it grows to a full-sized boat. Will shrink again when dry.",
+		"category" : [ "v" ],
+		"rarity" : "u"
+		},
+	"1266": {
+		"name" : "Vampire Dress",
+		"description" : "A purple-and-black goth dress placed in bondage (whatever that means). While your stress is 80% or greater than your spirit, add +1 to athletics when making athletics rolls.",
+		"category" : [ "u" ],
+		"rarity" : "u"
+		},
+	"1311": {
+		"name" : "Pig Plushie",
+		"description" : "As far as you know, this hand-sewn black pig isn't actually alive, but after pulling it from the Gachapon, you become able to control it with your thoughts. As long as the plush is within range of you (say, the mansion grounds), you can use psychokinesis to cause it to move, hover, and do other plushie things.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"1312": {
+		"name" : "Wassup Thunder!",
+		"description" : "Dated, but timeless to the right person, this green-and-yellow pin gives its wearer access to low-level offensive magic. By focusing for a few seconds (with longer, unbroken focus resulting in greater power and/or more targets), the wearer can send a weak bolt of lightning at enemies. Stress dealt is at DM's discretion based on the amount of ingame time the wearer charges for.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1313": {
+		"name" : "Gimme Dat Elephant!",
+		"description" : "You heard me! The wearer of this elephant-themed pin gains the power to summon a small black hole somewhere within sight, which sucks in any creatures within a few feet. Anything sucked into the black hole is transported to another place in the mansion.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1314": {
+		"name" : "Walk On, Walk Off",
+		"description" : "This hip pin, emblazoned with a colourful oriental dragon, makes life a walk in the park. Allows the wearer to, at will, turn completely invisible as they dash short distances. The wearer becomes visible again at the end of their dash.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"1315": {
+		"name" : "Tapioca",
+		"description" : "Your grandfather once told you: "If it looks like a duck, and quacks like a duck, it's probably tapioca," and you've taken those words to heart. These small, orange-and-purple capsules are extremely dangerous to eat, but pouring one over your uniform will magically repair all damages.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1316": {
+		"name" : "Hero of the Distant Past",
+		"description" : "A grand hero whose valiant efforts to fight evil saw him cursed to be locked away in the Gachapon. After a thousand years of solitude, he's grown malevolent, and vowed to curse the person to pulls him from the Gachapon. Whosoever pulls him becomes cursed with one of the following abilities at random (1d4):
+1 - The afflicted gains the power to turn into a paper airplane. The user cannot propel themselves, however, their airplane form appears at head height, so by tilting themselves forward and backward they can gain some distance with a skill roll.
+2 - The afflicted gains the power to become paper-thin.
+3 - The afflicted gains the power to turn into a small tube, as which they can roll about at will.
+4 - The afflicted gains the power to turn into a small (inches tall) boat.",
+		"category" : [ "c", "te" ],
+		"rarity" : "c"
+		},
+	"1321": {
+		"name" : "Bag of Holding Chickens",
+		"description" : "This seemingly bottomless burlap sack produces five chickens every day. Chickens that are removed from the sack will disappear after 24 hours.",
+		"category" : [ "to", "p" ],
+		"rarity" : "c"
+		},
+	"1322": {
+		"name" : "Jonath-horn",
+		"description" : "A beautiful instrument made from a buffalo horn. Calls a single seagull (Att 3/Spirit 1) every time it is used. If the user rolls Will 10 or higher, the seagull dive bombs someone trying to harm the user of the horn. If there are none, or the roll fails, it chooses someone nearby at random. If no one is around, it dives into the ground and dies. If the will roll results in a 15 or higher, 5 seagulls appear, and pester enemies until the seagulls or the enemy are dead.",
+		"category" : [ "to", "p" ],
+		"rarity" : "r"
+		},
+	"1323": {
+		"name" : "Infini-tea pot",
+		"description" : "A teapot that contains infinite lukewarm peppermint tea. If the tea touches anything other than a cup or a creature's mouth, it evaporates after 5 minutes.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1324": {
+		"name" : "Treasure Map",
+		"description" : "An old and slightly torn, though still legible, treasure map. If the user can successfully follow its trail of clues, it will lead them to a previously undiscovered facility on the mansion's premises.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1325": {
+		"name" : "Cucco",
+		"description" : "This chicken-like creature (Att 2/Spirit 5) looks small, but has very powerful wings. If someone holds the Cucco by its feet and jumps off of a high place, the Cucco will frantically flap its wings in order to slow the descent to a gentle glide. (The two will continue to travel in the direction of the initial jump until they either land on the ground or hit a wall. Direction cannot be changed in midair.) If the Cucco's stress exceeds its spirit, a hoard of other Cuccos will appear and relentlessly attack whoever was responsible for inflicting the stress. After this attack is over, the original Cucco disappears.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"1326": {
+		"name" : "Stimulant",
+		"description" : "A small white pill. Taking it will put the user in a romantic mood, giving them +1 to both Affection and Cunning for 20 in-game minutes. However, if the user is unable to successfully perform any romantic actions in this time, they will take 3D6 stress after the effect wears off.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1331": {
+		"name" : "Armored Car",
+		"description" : "This small car is only able to transport one person at half their walking speed, due to being covered in heavy metal plates. While driving it, the user cannot make any attacks of their own, though they will also become immune to any attacks that have a result lower than 12. Even if an attack succeeds in this way, the user will only take half the stress they would otherwise.",
+		"category" : [ "v" ],
+		"rarity" : "u"
+		},
+	"1332": {
+		"name" : "The Nude Nuke",
+		"description" : "A single use bomb with a devastating power. The user can use it to deal 5D6 Stress to a single target, at the cost of disintegrating the currently worn clothes of everyone in or around the mansion.",
+		"category" : [ "co", "to" ],
+		"rarity" : "r"
+		},
+	"1333": {
+		"name" : "Wireless Controller",
+		"description" : "Appears to be a standard video game controller. Pointing it at another player character while holding in the middle button will cause that player to form a connection with the controller. In this state, the player will lose all control of their own body (though still be able to control their own head), allowing the controller's wielder to perform all actions on their behalf. While in this state, the player being controlled will gain heightened physical capabilities (+2 Athletics, +1 Will). The controlled player may sever the connection between themselves and the controller any time they wish.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"1334": {
+		"name" : "Alchemist's Chambers",
+		"description" : "A dark room filled with all kinds of vials and scriptures. Any maid may use this room to attempt to brew a potion. The potion may be rolled from this random table (https://pastebin.com/bqRwJ9dg), though they may also attempt to brew a potion that they're already familiar with. A Skill roll determines the quality of the resulting potion. Maids with the 'Magic' special quality may gain a +1 to Skill when using these facilities.",
+		"category" : [ "f" ],
+		"rarity" : "r"
+		},
+	"1335": {
+		"name" : "Piano",
+		"description" : "This creature appears to be a piano at first glance. However, moving too quickly near it will cause it to open itself up, revealing an enormous mouth with rows of sharp teeth. The piano will then chase down the person in question until they have moved roughly five meters away. Ownership does not mean anything to the piano - it will attack anybody who comes close enough. (Att 5/Spirit 30)",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"1336": {
+		"name" : "Parallel Shoeniverse",
+		"description" : "These boots weigh the user down to the point where they cannot jump while wearing them. However, they also allow the wearer to moonwalk backwards. If the user moonwalks into a wall for a long enough period of time, they will very suddenly phase through it to the other side.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1341": {
+		"name" : "Scuttlebug Jam",
+		"description" : "A spreadable jam which causes the user to feel light and agile. Upon consumption, the user will gain the ability to jump in mid-air for 10 in-game minutes, as long as nobody's watching.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1342": {
+		"name" : "Poppocalypse",
+		"description" : "A swimming pool full of adorable, if slightly shady looking, plushies. You never know when having access to countless stuffed animals(?) might be come in handy, but you probably shouldn't swim in it, less they steal your wallet.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1343": {
+		"name" : "Last Train to Anywhere",
+		"description" : "A train station which houses a steam-powered train with three carriages. Riding the train can take its passengers to a random location (roll on the World Table). The train can then be used to return to the mansion at any time (even if it would mean leaving somebody behind).",
+		"category" : [ "f", "v" ],
+		"rarity" : "u"
+		},
+	"1344": {
+		"name" : "Walkie Talkies",
+		"description" : "This enchanted pair of communication devices allow the users to talk to each other across any distance. (Even across different time periods or parallel universes, if need be.)",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1345": {
+		"name" : "Funyarinpa",
+		"description" : "A small, pocket-sized black-and-white painting with an unmistakable pull. When showing a character this painting for the first time (deliberately presenting the painting, not just a character seeing it), they must make a cunning contest or else stop what they're doing to apologize for disrespecting the Funyarinpa.",
+		"category" : [ "fu" ],
+		"rarity" : "c"
+		},
+	"1346": {
+		"name" : "Vlogger's Camera",
+		"description" : "A camera designed to be aimed at the user's face. Possession of this item will cause the user to develop an extremely obnoxious personality, and feel an urge to record every moment of their lives with unnecessary narration.",
+		"category" : [ "c", "to" ],
+		"rarity" : "c"
+		},
+	"1351": {
+		"name" : "Master Doll",
+		"description" : "A small stuffed toy that resembles the Master. The owner can hug it once a day to restore 1D6 Stress. However, if the Master finds out about its existence, the owner will instantly take enough Stress to push them 10 points into their Stress Explosion.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1352": {
+		"name" : "Dirty Magazine",
+		"description" : "This magazine is covered in dirt, and is impossible to read. A skill roll of 14 or higher will allow the owner to successfully clean it, allowing them to read it and gain one attribute point at random (one time only). However, a skill roll of 5 or lower will damage the magazine beyond repair, dealing 1D6 Stress to the owner.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1353": {
+		"name" : "Sand Stormer",
+		"description" : "A shotgun with six shots available. Instead of firing bullets, each shot will explode into a cloud of sand which will severely impair the vision of everyone in the vicinity. The sand settles after 1 minute of in-game time, resulting in the room becoming incredibly dirty. This weapon does not deal any damage unless the target is at point-blank range when the shot is fired.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1354": {
+		"name" : "Tank",
+		"description" : "It's a tank! It can be controlled by two people - one for driving, one for manning the artillery. You'll need to procure the fuel and ammunition yourself, however. Damage done from the tank's weaponry is calculated by the gunner's Skill +2. The drivers of the tank will become immune to any attacks that have a result lower than an 8. Even if an attack succeeds in this way, the drivers will only take half the stress they would otherwise.",
+		"category" : [ "v" ],
+		"rarity" : "r"
+		},
+	"1355": {
+		"name" : "All Purpose Fuel",
+		"description" : "This canister of fuel can be used on any sort of mechanical equipment that requires fuel to function. Alternatively, it can be set alight as a means of starting an uncontrollable fire.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1356": {
+		"name" : "Explosive Kit",
+		"description" : "A kit that comes with an assortment of gunpowder bags and plastic molds. A sufficient skill roll will allow the user of this kit to create an explosive of a particular type (motion-sensing, remote controlled, timed, impact) to be used on its own, or in conjunction with a different weapon. However, an insufficient skill roll may result in the kit blowing up in the users face, dealing 4D6 Stress.",
+		"category" : [ "to", "co" ],
+		"rarity" : "u"
+		},
+	"1361": {
+		"name" : "Decanter of Endless Water",
+		"description" : "If the stopper is removed from this ordinary-looking flask and a command word spoken, an amount of fresh or salt water pours out. Separate command words determine the type as well as the volume and velocity.
+“Stream” pours out 1 gallon per round.
+“Fountain” produces a 5-foot-long stream at 5 gallons per round.
+“Geyser” produces a 20-foot-long, 1-foot-wide stream at 30 gallons per round.
+The geyser effect causes considerable back pressure, requiring the holder to make an Athletics check to avoid being knocked down. The force of the geyser deals 1D6 points of Stress but can only affect one target per round. The command word must be spoken to stop it.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1362": {
+		"name" : "David",
+		"description" : "It's David! (Att 2/Spirit 10)",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"1363": {
+		"name" : "Spear of Highjump",
+		"description" : "A necklace with a spear-shaped ornament hanging from the middle. Wearing this item will make the user feel lighter, and allow them to jump to twice their normal height.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"1364": {
+		"name" : "Wallhacker",
+		"description" : "Tired of having to walk the long way around to get to your destination? Worry no more! This handy pickaxe will carve a hole in a wall large enough for any player to walk through. However, do note that the Master may not be happy with the change of decor. (Can be used twice before breaking.)",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1365": {
+		"name" : "Hammer of Reversion",
+		"description" : "An enchanted hammer that does not look enchanted whatsoever. If an inanimate object is hit with this hammer, it will revert to a previous state of matter (at the GM's discretion). For example, a broken table may become repaired again, or it may even turn back into the very tree it was carved from.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1366": {
+		"name" : "20 Galleon Barrel of Lubricant",
+		"description" : "A steel drum filled to the brim with lubricant. Can be used in intimate moments between two characters to gain a +1 to Affection rolls. Alternatively, it can also be spilled all over the floor to make walking incredibly difficult. An Athletics check of 12 or higher is required for a maid to walk over a lubed-up floor without falling over and making a mess of their Maid Uniform.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1411": {
+		"name" : "Longsword",
+		"description" : "Just a long, metal sword. Provides a +1 to Athletics rolls for close-quarters combat.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1412": {
+		"name" : "Minus 2 Sword (Appears as 1411)",
+		"description" : "This longsword performs well against targets in practice, but when used against an opponent in combat, it causes its wielder to take a –2 penalty on Athletic rolls. All Stress dealt is also reduced by 2 points, but never below a minimum of 1 point of damage on any successful hit. After one week in a character’s possession, the sword always forces that character to employ it rather than another weapon. The sword’s owner automatically draws it and fights with it even when she meant to draw or ready some other weapon.",
+		"category" : [ "c", "e" ],
+		"rarity" : "u"
+		},
+	"1413": {
+		"name" : "Medallion of Thoughts",
+		"description" : "Appears to be a normal pendant disk hung from a silver neck chain. The wearer can make a cunning roll against an opponent in order to attempt to read their thoughts.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1414": {
+		"name" : "Medallion of Thought Projection (Appears as 1413)",
+		"description" : "This device seems like a medallion of thoughts, even down to the range at which it functions, except that the thoughts overheard are muffled and distorted, requiring a Will check of 8 to sort out. However, while the user thinks she is picking up the thoughts of others, all she is really hearing are figments created by the medallion itself. These illusory thoughts always seem plausible and thus can seriously mislead any who rely upon them. What’s worse, unknown to the wearer, the cursed medallion actually broadcasts her own thoughts to anybody in the path of the beam.",
+		"category" : [ "c", "e" ],
+		"rarity" : "u"
+		},
+	"1415": {
+		"name" : "Immovable Rod",
+		"description" : "This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make an Athletics check of 20, moving the fixed rod up to 10 feet on a success.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"1416": {
+		"name" : "Truly Immovable Rod (Appears as 1415)",
+		"description" : "Functions similarly to the Immovable Rod. However, this rod does not move relative to the planet's orbit. As such, it will remain fixed in space, making it seem like it is moving away at an incredibly high speed. In this state, the rod would have enough power to destroy anything it happens to come in contact with.",
+		"category" : [ "c", "to" ],
+		"rarity" : "r"
+		},
+	"1421": {
+		"name" : "Custom Robo",
+		"description" : "Small in stature but great in power, this tiny robot can be controlled with merely your will. Until the controller takes stress (further than they already have when they start controlling it), they will stand motionless hunched over and be in full control of this extremely agile combat robot. By default a Ray Mk III, for an additional 3 favour (or 5 for chassis) the parts can be replaced with any legal parts via a mail-order catalogue. ",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1422": {
+		"name" : "Cursed Robo (Appears as 1421)",
+		"description" : "A rusty old custom robo, still fully functional but unable to have its parts changed. Unfortunately, it is currently locked into the full Oil Can set. You'll still lose control of it if you take any stress damage while driving, but it'll also go out of commission for the rest of the combat (or for an hour if out of combat) if the robo takes anything resembling a hit.",
+		"category" : [ "c", "to" ],
+		"rarity" : "u"
+		},
+	"1423": {
+		"name" : "Blu-Ray Art Revamp",
+		"description" : "You feel a strange, aesthetically-pleasing magic wash over you. For the rest of the session, the player who pulls this feels slightly cuter, and better drawn. Take +1 to Affection rolls for the rest of the session.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"1424": {
+		"name" : "Curse of Keyframes",
+		"description" : "A side effect of VLC's ever-expanding scope, it is now able to fuck up an ever-expanding range of things, including now your appearance. For the rest of the campaign, the person who pulls this is cursed to have their visage distorted into large, colourful blocks, and takes -2 to the dice roll on any seduction atttempts unless the target's favourite Maid Type is 'pixellated'",
+		"category" : [ "c", "e" ],
+		"rarity" : "u"
+		},
+	"1425": {
+		"name" : "High-Frequency Blade",
+		"description" : "This extremely high-tech blade is resonates at a high frequency, weakening the molecular bonds of things it cuts and making them cleave easier. Its wielder gains +1 to combat rolls while using it, and when an enemy is defeated using the blade, heals 2d6 stress.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1426": {
+		"name" : "Suicide Gun",
+		"description" : "A gun whose barrel is cartoonishly bent to face the holder. With no sight and a strangely bent barrel, it's essentially unable to aim unless held correctly, but firing it the traditional way is pretty dangerous... When firing, roll Athletics to see who gets hit; with a 12 or above, hit the target and duck out of the way before being hit yourself; with an 8 or above, hit yourself AND the target. Results higher than 20 hit multiple targets (if applicable), and results lower than 8 only hit yourself. Idiot. Anyone hit by a shot from the suicide gun takes 2d6 stress.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1431": {
+		"name" : "Laser Rifle",
+		"description" : "Fires reflecting lasers at a 45 degree downward angle. The lasers are shot rapidfire and anything hit will take 2d6 stress, but if fired in confined spaces, everyone in front of the user is almost assured to get hit, and if it hits a wall, the user had better watch out as well. Anyone in the path of the laser must get an athletics roll above 12 to dodge.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1432": {
+		"name" : "Mascot Costume",
+		"description" : "This outfit is simply adorable, with its adorable clothes in big, fuzzy head. While being worn, you can convince any non-hostile person to do whatever you want (within their power) with a Cunning roll of 6 or higher. Unfortunately, the wearer is also completely unable to speak while wearing it, meaning that you'll have to explain your request through gesture entirely, with the person having to interpret it to the best of their ability.",
+		"category" : [ "u" ],
+		"rarity" : "c"
+		},
+	"1433": {
+		"name" : "Pingu",
+		"description" : "It's pingu! (Ath 1, Aff 3, Skl 1, Cun 3, Luc 2, Wil 2) With his adorable noots and his can-do attitude, his comic antics are sure to bring a smile to everybody around. He has no explicit powers besides minor shapeshifting of the beak, he is particularly charismatic. Can only speak Penguinese, but people more or less understand what he's trying to say regardless.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"1434": {
+		"name" : "Potion of Hydration",
+		"description" : "Drinking this potion makes the consumer feel refreshed.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1435": {
+		"name" : "Potion of Dehydration (Appears as 1434)",
+		"description" : "Oh no! This potion must have had salt added to it or something; it's barely hydrating at all!",
+		"category" : [ "c", "co" ],
+		"rarity" : "c"
+		},
+	"1436": {
+		"name" : "Potion of Invisibility",
+		"description" : "Drinking this potion will turn the user and their clothes completely invisible for 30 minutes of game time. (Disrobing penalties do not apply.)",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1441": {
+		"name" : "Potion of Unvisibility (Appears as 1436)",
+		"description" : "Drinking this potion convinces the user that they have been turned completely invisible, though in actuality the effect only applies to their clothes. This effect lasts for 30 minutes of game time. (Disrobing penalties do not apply.)",
+		"category" : [ "c", "co" ],
+		"rarity" : "c"
+		},
+	"1442": {
+		"name" : "Power Potion",
+		"description" : "No one maid should have all that power! After drinking, you feel extremely strong, and take +3 to your next roll, but become extremely dizzy afterwards, taking -2 to the next one.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1443": {
+		"name" : "Slapstick Potion",
+		"description" : "With this, the slings and arrows of outrageous fortune seem to bounce off as if they were made of foam. All stress dealt and taken by the drinker becomes 0 for 30 (ingame) minutes, but have aesthetic effects far exceeding their normal scope.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1444": {
+		"name" : "Vision Potion",
+		"description" : "Upon consumption, the drinker begins to space out and meets their spirit animal. This meeting is brief, but meaningful; the spirit animal becomes a DM-controlled entity (offscreen after the drinker finishes conversing with them) who can grant favour for the rest of the session if the consumer acts within the spirit of that animal.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1445": {
+		"name" : "Visionless Potion (Appears as 1444)",
+		"description" : "Uh-oh! This potion is a total piece of shit! Upon consumption, the drinker begins to space out, and then loses their vision until they take a nap. This'll teach you to take too much of that peyote, yeah?",
+		"category" : [ "c", "co" ],
+		"rarity" : "u"
+		},
+	"1446": {
+		"name" : "Randomizer Potion",
+		"description" : "A potion randomizes the user's various abilities. When drunk, the maid keeps all the same values for their stats, but the stats that those values are associated with get randomly changed. This effect lasts for the rest of the session.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1451": {
+		"name" : "Acoustic Guitar",
+		"description" : "A well made wooden guitar. Simply having it in their possession will make the owner feel like the coolest motherfucker around. Once a session while not in combat, the owner must make a Will roll. A result of 6 or less will result in the owner being required to play song for whoever's nearby, regardless of how skilled they are. This curse can only be broken through the guitar being destroyed by another character.",
+		"category" : [ "c", "e" ],
+		"rarity" : "c"
+		},
+	"1452": {
+		"name" : "Slot Machine",
+		"description" : "A small brooch with a slot machine carved on to the surface. Wearing this will allow the user to roll three dice when making any skill check (up to three separate times per session). The value in the middle will then become the result used to resolve the action. If there is a tie, the user may choose which of the three values to use.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1453": {
+		"name" : "Monkey's Paw",
+		"description" : "A severed monkey's hand which is able to grant five wishes - one for each finger and thumb. The wishes may be for whatever the player who made the wish desires (with the GM's approval), though each fulfilled wish will come at a grave price. The downsides to each wish tend to be ironic in nature (ie, wishing for world peace could result in a now weaponless planet Earth being enslaved by a vicious alien race).",
+		"category" : [ "c", "to" ],
+		"rarity" : "r"
+		},
+	"1454": {
+		"name" : "The Get-Along Shirt",
+		"description" : "A wide shirt with two head holes, designed to fit two people. The next time a fight or argument breaks out between two player characters, this shirt will manifest itself and bind the two of them together. The two characters will then be forced to go about the rest of their day without leaving each other's side. After 24 in-game hours, the shirt will disappear, freeing all the captive characters.
+* If more than two characters were taking part in the argument or fight, the shirt will extend itself to fit everyone.
+* If either character takes Stress while wearing the shirt, the other character(s) will take the same amount of Stress themselves. This does not apply to any Stress that was self-inflicted.",
+		"category" : [ "c", "e" ],
+		"rarity" : "u"
+		},
+	"1455": {
+		"name" : "Bottomless(?) Pit",
+		"description" : "This pit is so deep that it's impossible to see when it ends, assuming it even does. Anyone may throw any objects they don't require down this pit, and will probably never see them again. Great caution should be taken, however. If someone falls down this pit then you'll need to put a plan into action to rescue them quickly, or risk never seeing them again.",
+		"category" : [ "f" ],
+		"rarity" : "u"
+		},
+	"1456": {
+		"name" : "Sword of Unyielding Flames",
+		"description" : "An enormous longsword wreathed in crimson flames. Grants a +2 to Athletics when making an attack with it. However, the flames do not go out. Ever. If you can't find somewhere safe to store it, it's liable to burn the whole mansion down. Simply carrying it around is a hassle, since the holder must always be holding it in their hand, and the flames will burn their skin if used for too long.",
+		"category" : [ "c", "e" ],
+		"rarity" : "r"
+		},
+	"1461": {
+		"name" : "Meat Dress",
+		"description" : "A dress tightly sewn together with cuts of various different meats. Any Affection or Cunning rolls made while this dress is worn will always result in a 0. The only way to remove the dress from one's self is to eat it, piece by piece. (Eating a full serving of the meat removes 1D6 Stress). Due to the sheer quantity of meat, it is impossible for one person to eat it all in one sitting. Servings: 3",
+		"category" : [ "c", "u" ],
+		"rarity" : "c"
+		},
+	"1462": {
+		"name" : "Brief Jerky",
+		"description" : "For when you want your edible panties to have a little more durability. Not for the faint of heart, these rather undainty briefs give -1 to Affection roles. However, if you do succeed an affection roll, gain doubled favour from it. Despite being edible, Brief Jerky is quite tough, and can survive two uses before being consumed.",
+		"category" : [ "co", "u" ],
+		"rarity" : "c"
+		},
+	"1463": {
+		"name" : "Baguette Hat",
+		"description" : "This fashionable, delectable, and fully shirred loaf of bread is the perfect accessory to complete your coord! While equipped, this bow-laden bread takes the place of your maid headdress/hat/etc, and may replace a damaged headpiece or be replaced by your original one when it gets damaged itself. Additionally, maids with the "lolita" maid type gain +1 to Affection rolls while wearing the Baguette Hat. However, the Baguette hat is particularly susceptible to the elements, and it exposed to excessive heat, water, or other elements, it will become stale or moldy (ie, damaged). While not rendered inedible in this fashion (but not necessarily while undamaged), the Baguette Hat may be eaten to heal 1d6 stress.",
+		"category" : [ "co", "u" ],
+		"rarity" : "c"
+		},
+	"1464": {
+		"name" : "Edible Arrangement",
+		"description" : "A sheet of music printed on fruit-flavoured paper. Playing this fills you with food-based inspiration; after you play the arrangement (on any instrument), your next attempt at cooking becomes an automatic success. However, this food-based inspiration also makes you rather hungry, causing you to eat the arrangement after playing it.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1465": {
+		"name" : "Edible Derangement (Appears as 1464)",
+		"description" : "Uh-oh! This edible paper may look musically and nutritionally deluxe, but it's been contaminated with an exotic prion disease! For every 20 minutes (realtime) that pass since eating the arrangement, take a temporary -1 to all stats. Thankfully, this prion disease is remarkably easy to treat, and taking medicine will cure you. In all other respects, the Edible Derangement acts as an Edible Arrangement.",
+		"category" : [ "c", "co" ],
+		"rarity" : "c"
+		},
+	"1466": {
+		"name" : "Rainy-Day Game",
+		"description" : "A well-worn board game box that's just perfect for staying in on a gloomy afternoon, or just for settling disputes. Once per (ingame) day, if you can succeed in an Affection or Cunning contest against someone you're engaged in combat or some other disagreement with, you can instead settle the dispute via a game of Connect Four. In the case where a player loses Connect Four to an NPC combatant, the player is considered incapacitated for the rest of the fight. In the case where an NPC loses to a player but there's multiple NPCs in combat, the losing NPC is also considered incapacitated.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1511": {
+		"name" : "Pester Ball",
+		"description" : "A colourful, pokeball-shaped ball that releases (ob)noxious gas when you bonk something with it. Creatures (people included) hit with a pester ball become irritated and will only attack the person that threw it at them for a time.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"1512": {
+		"name" : "Telepotion",
+		"description" : "The person that drinks this is immediately teleported to another room in the mansion, or somewhere in the vicinity if not in the mansion. Make a luck roll to determine how useful this teleportation is.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1513": {
+		"name" : "Panty-Teleporting Raygun",
+		"description" : "A Miu Iruma original. When fired, teleports the wearer's panties to whatever the laser comes into contact with.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1514": {
+		"name" : "Interdimensional Puddle",
+		"description" : "An anomaly that befalls the mansion during rainy weather. If a character jumps into a puddle somewhere outside the mansion, they will fall through and reappear out of another puddle somewhere else within the mansion's vicinity.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1515": {
+		"name" : "Well Endowed Mousepad",
+		"description" : "A very comfortable mousepad adorned with a picture of an anime character in a compromising position. Cures carpal tunnel.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1516": {
+		"name" : "Dollhouse",
+		"description" : "A wooden dollhouse built that resembles the mansion, with miniature figures that represent each player character. These figures will autonomously move to the room in the dollhouse that corresponds to whatever room the respective character is currently in. This can allow anybody observing the dollhouse to keep track of everyone else's movements.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1521": {
+		"name" : "Portable Window",
+		"description" : "A window that functions as a portal to a pocket dimension which contains a beautiful garden. The window can be removed from its wall and moved around at will. If a character can fit through the window, they will be able to spend time/hide in the garden (though they cannot pass beyond the garden's boundaries).",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1522": {
+		"name" : "Grandma's Soup",
+		"description" : "This potion is delicious, healing 1d6 stress and doubles all stress you inflict on others until you take more stress. Serves two (or one twice).",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1523": {
+		"name" : "Kobold",
+		"description" : "It's a kobold! You know what a kobold is, right? (Att 2/Spirit 20) This adorable little creature can be commanded to fight, or to mine for treasure. The longer it's left uninterrupted to mine, the more treasure it'll bring back.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"1524": {
+		"name" : "Credit Card",
+		"description" : "A plastic card that allows the user to tune in to a home shopping channel (assuming there is a TV or mobile phone in the mansion). Once a day, the channel will showcase three different items (selected randomly via the item table, though the GM may choose them if they so desire) which can each be purchased with Favor. Only one item can be bought per day, and the amount of Favor that each item costs is up to the GM's discretion. Express delivery will ensure that the item arrives at the mansion before the day is over. (Note: If an item is cursed, the sales pitch will conveniently not mention this. No refunds.)",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1525": {
+		"name" : "Goose",
+		"description" : "After its initial appearance, this goose will disappear from view. From then onwards, the goose may appear at any point in time and let out a distracting honk, inevitably ruining the mood of any romantic or climactic scene.",
+		"category" : [ "c", "p" ],
+		"rarity" : "c"
+		},
+	"1526": {
+		"name" : "Submarine",
+		"description" : "A switch which summons a small submarine to the surface of any large body of water. Can be piloted to travel across the water's surface, or explore underwater depths. Comes with two torpedoes, which mysteriously restock when the submarine is left unmanned for 24 hours.",
+		"category" : [ "v", "f" ],
+		"rarity" : "u"
+		},
+	"1531": {
+		"name" : "The Six-Point Reversal",
+		"description" : "Once per combat, the user of this technique may launch an attack where the outcome is decided as if the user and their opponent had swapped attributes. The opponent has no way of knowing that this technique is being used on them.",
+		"category" : [ "te" ],
+		"rarity" : "u"
+		},
+	"1532": {
+		"name" : "Genius Burger",
+		"description" : "A really smart cheeseburger. When consumed, your next Cunning roll is sure to be a success.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1533": {
+		"name" : "Inflatable Tube",
+		"description" : "This inflatable tube sits around the user's waist. While wearing it, the user can float atop a deep enough water source without needing to have their arms occupied in keeping them afloat.",
+		"category" : [ "e" ],
+		"rarity" : "c"
+		},
+	"1534": {
+		"name" : "Tea Platter",
+		"description" : "An elegant platter full of a variety of exotic teas. May be served to the master (or another favour-granting entity) to elicit 2d6 favour from them. However, the user must beat a skill check of 12 when serving, or else they will drop the platter, spilling tea everywhere in a very moe fasion and losing 1d6 favour.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1535": {
+		"name" : "Indestructable Acorn",
+		"description" : "It's an acorn, small and brown, laying on the cold, hard ground! This acorn won't grow if planted, and it'll barely roll when hit, but it's remarkably, even magically accurate when thrown. If you chuck it at a target, it'll redirect itself in midair to hit your intended target with incredible precision.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1536": {
+		"name" : "Rad Shiba",
+		"description" : "This shiba is fucking rad. (Att 1/Spirit 50) He's not very good at getting things done, but he's super chill, and with an affection roll of 12 or higher you can command him to have someone to pet him, which they will drop whatever they're doing to accomplish. He doesn't need to make an affection roll or anything, they just pet him. He's very persuasive like that.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"1541": {
+		"name" : "Flickering Lightbulb",
+		"description" : "Most of the time, this lightbulb is perfectly functional. However, late at night, it becomes able to detect any intruders inside or around the mansion. If an intruder is detected, the bulb will flicker on and off repeatedly (even if the bulb was turned off initially). This will alert the mansion staff to the presence of the intruder in the most ominous way possible.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1542": {
+		"name" : "Alphabet Soup for the Soul",
+		"description" : "A can of tomato soup filled with an assortment of letter-shaped pasta pieces. The person making this soup rolls for both Skill and Luck. If the total result is 16 or higher, the letters will arrange themselves in such a way that a helpful message can be read. The message itself is up to the GM's discretion; it could be a pointer on what to do next, or a clue on how to overcome a particularly difficult task. However, if the combined result is less than 8, the resulting message could be very unhelpful or even misleading. Either way, the soup can then be consumed to remove 1D6 Stress.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1543": {
+		"name" : "Fateful Snail",
+		"description" : "Upon first appearance, this snail slithers out of sight and out of mind. The snail then becomes an event that the GM can invoke at their discretion; when the Snail event happens, the snail sets in motion events possibly of great import. Roll Luck to see whether the results are beneficial, harmful, or inconsequential.",
+		"category" : [ "c", "p" ],
+		"rarity" : "r"
+		},
+	"1544": {
+		"name" : "Pop-o-Matic",
+		"description" : "This die enclosed in a bubble is the perfect way to annoy friends and family alike! Once per session, the owner of this device may reroll one roll so long as they loudly slam down on the bubble, making an audible popping noise and annoying any other characters that may be nearby.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1545": {
+		"name" : "Tabletop Games Wizard",
+		"description" : "A wizard whose magical abilities extend infinitely over the realm of tabletop games. The Tabletop Games Wizard has generally low stats but is extremely minmaxed (0 Ath, 0 Aff, 5 Skl, 0 Luc, 5 Cun, 0 Wil). His magical powers allow him to manipulate the rules of any tabletop game (in universe). If you bore him, he ascends, using his immense knowledge of tabletop games to escape our own and become a real person, in real life.",
+		"category" : [ "p" ],
+		"rarity" : "u"
+		},
+	"1546": {
+		"name" : "Court of Law and Slapfights",
+		"description" : "A courtroom appears in the mansion. Any time two (or more) maids get into a dispute with each other, the argument may be settled in court. The master presides over the case as its judge, and two other maids may serve as their client's attorneys if there are enough maids in the mansion to do so. Each side makes their case, providing testimony and evidence as required, and when the master is satisfied they may make their final judgement. If the master fails to maintain order between the parties, they may devolve to getting into a slapfight with each other. Regardless of who may win or lose this slapfight, the master may deduct favour from any willing participants.",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1551": {
+		"name" : "Party Stopper",
+		"description" : "A six-shot revolver decorated in a very gaudy fashion. It can be used as a weapon, though it will only inflict half the normal Stress. Any finishing blow on an NPC with this weapon will be lethal, though the gun emits a very loud party horn noise and sprays confetti everywhere when fired, ruining what would otherwise be a very dramatic moment.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1552": {
+		"name" : "haunted callie calamari doll that drinks all your pepsi and calls you a bitch",
+		"description" : "Still sour from her final Splatfest defeat, this doll is one unhappy camper. While in your posession, any carbonated beverages (she's not picky) mysteriously drain from their containers before you have a chance to drink them. When pulled out from your pocket or inventory, she begins to loudly berate anyone present, dealing 1d6 stress to you and everyone else that can hear her. Despite being cursed, she may be discarded or left behind freely, but she'll always find her way back into your inventory, either by magic or by coincidence.",
+		"category" : [ "c", "p" ],
+		"rarity" : "c"
+		},
+	"1553": {
+		"name" : "Ultimate Stapler",
+		"description" : "So much more than your average office supply, this stapler has the ability to magically reconstruct the items you staple into a new item. Can be used to combine any two items (even if you wouldn't think they're stapleable -- press down hard!) into a new, potentially more powerful item. When stapling, make a skill roll; on a roll of 18 or higher, the new item is significantly better than the sum of its parts, while a roll of 8 or lower makes an item that is significantly worse in some way(s). A roll from 9 to 17 is essentially the same in terms of any special abilities that the original items had, although the form of the new item might lend itself to different abilities.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1554": {
+		"name" : "Magic Sponge",
+		"description" : "While it looks like any ordinary dish sponge, it's excellent at soaking up magic. If a maid who has this sponge equipped is attacked by magic somehow, they may make an opposing skill roll - succeeding at it will scrub the magic out of the air and absorb it into the sponge. This can be done three times before the sponge needs to be wrung out, and doing so will release all of the stored magical energy in the direction the maid is facing.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1555": {
+		"name" : "Magic 8 Ball",
+		"description" : "An 8 ball with a small windowed off cavity filled with black water and a plastic die. If a maid holding this 8 ball asks it a question about future events and shakes it, a one-word message will be displayed on the die; a luck roll determined how helpful the message is. A luck roll of 10 or above will display a helpful message, with the message being more helpful the higher the result is. Any result below 10 results in the message being vague and unhelpful. (Like 'shrug', for instance.) This 8 ball may be used once every 30 minutes of real-time.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1556": {
+		"name" : "Magic Bait Ball (Appears as 1555)",
+		"description" : "This 8 ball is indistinguishable from the real deal. Like the Magic 8 Ball, a luck roll will give a single-word answer to a question about future events. If the result is 10 or above, the ball will display a misleading answer that the maids (and possibly players) believe to be accurate. Any result below 10 would only display a vague message that wouldn't tell the maids anything of significance. (Like 'shrug', for instance.) This 8 ball may be used once every 30 minutes of real-time.",
+		"category" : [ "c", "to" ],
+		"rarity" : "u"
+		},
+	"1561": {
+		"name" : "Silver General",
+		"description" : "This formidable wooden gamepiece be dropped to block opponents' offensive options, although its own combat ability is limited. Can be dropped to impede enemy (or friendly) movement, although after attacking it once, it'll disappear and manifest in the attacker's inventory. (If playing in TTS, the item is represented to-scale by an actual shogi piece)",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1562": {
+		"name" : Funicular Railway
+		"description" : "A trolley station appears outside the mansion, with tracks leading up a nearby mountain (which will also be created, if one doesn't already exist). Jammo!",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1563": {
+		"name" : "Anti-Gravity Sphere",
+		"description" : "A small fist-sized glass ball filled with a silvery smoke. When the sphere is destroyed, it disables the effect of gravity on everything in a 30ft radius for 10 in-game minutes.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1564": {
+		"name" : "Immovable 'Rod'",
+		"description" : "A seven-inch long, slightly bulbous rod with bumps and a small spike at the base, and two buttons. This rod is non-corporeal and can be placed anywhere, including partially (as much as you can still grip it) through objects or people. The first button, when pressed, causes it to become immovably affixed to the object or body it was placed closest to, as if it were a natural part of them. The second button causes it to vibrate. The rod can be disengaged at will by pressing both buttons.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1565": {
+		"name" : "Magic Marker",
+		"description" : "This marker runs out fast (one minute, realtime), but anything you draw with it comes to life, ChalkZone-style. Unfortunately, the practical quality of the object(s) summoned is directly proportional to the quality of the art that the player can draw in the allotted minute.",
+		"category" : [ "to", "co" ],
+		"rarity" : "c"
+		},
+	"1566": {
+		"name" : "RPG (Random Probability Generator)",
+		"description" : "A large single-shot bazooka. When firing this weapon, roll 1d6. An odd result will result in the impacted object being destroyed (if inanimate), or take 5d6 stress (if living). An even result will result in the object being perfectly repaired (inanimate) or fully healed (living).",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1611": {
+		"name" : "Swap-Stick",
+		"description" : "An unassuming tube of lipstick. If you manage to kiss another maid while wearing this lipstick, you may choose one of your special qualities/maid powers/maid types and swap it with one of their special qualities/maid powers/maid types of your choice. This effect will remain active until the opposing maid is able to acquire the lipstick and kiss the original maid back, at which point the lipstick will become unusable. (Swapping maid types also affects each maid's attributes.)",
+		"category" : [ "e", "co" ],
+		"rarity" : "u"
+		},
+	"1612": {
+		"name" : "ナカヨクナール (Friendmaker)",
+		"description" : "A knife that helps you make friends. After this attack (which occurs as normal, dealing stress if appropriate), if you choose to make an Affection role against the target, take +1 on that roll.",
+		"category" : [ "e" ],
+		"rarity" : "u"
+		},
+	"1613": {
+		"name" : "Essence Amulet",
+		"description" : "A locket that reflects the souls of those you've defeated in battle. After subduing a strong opponent, the wearer may choose one attack or technique which that opponent used in the battle. The image of that opponent then appears in the locket, and the wearer gains access to that ability as long as the locket is worn. The technique and image can be overwritten after future battles, eliminating access to the old ability in favour of a new one.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1614": {
+		"name" : "Pizza Thot Uniform",
+		"description" : "A red/black polo with the 'Pizza Thot' logo emblazoned on it. Wearing this gives the user a +1 to affection. It also gives a +1 to skill rolls that involve cooking - however, if the result is an 8 or less, the user will accidentally sit on top of the food, (potentially) ruining it.",
+		"category" : [ "u" ],
+		"rarity" : "u"
+		},
+	"1615": {
+		"name" : "Cate of Babylon",
+		"description" : "The user summons a wall of cats from thin air, Gilgamesh style. These cats can be wielded as a weapon or shot forth as missiles to create a high-speed cat barrage. The cats move and rotate as if attached to the user's head.",
+		"category" : [ "te" ],
+		"rarity" : "u"
+		},
+	"1616": {
+		"name" : "Jersey of the Gods",
+		"description" : "A magic jersey that bears the colours of the wearer's preferred team, as well as their name and number. While wearing this, the wearer gains +1 to athletics roles, and can attempt to dunk on an enemy during combat, jumping into the air and (if successful) spiking a heavenly b-ball onto their head. However, a failed attempt at dunking will result in a travelling penalty is called by the Ref of the Gods, and control of the ball is relinquished to the opponent, granting them an action immediately.",
+		"category" : [ "u" ],
+		"rarity" : "u"
+		},
+	"1621": {
+		"name" : "Lethal Ball",
+		"description" : "A white floating ball with a colourful aura around it. When thrown, it translates all force applied to it into additional speed, causing it to rally back and forth when hit successively. Can be hit at a target, forcing them to make an Athletics roll of 9 or higher to parry it back at you. When the ball is parried, the required roll to parry it back is incremented by one (if the target is on the ground when parrying) or doubled (if the target is in the air). Additional rolls may be required to perform an aerial parry, unless the target is already in the air. Missing the parry will cause the attack to hit you with all of its stored force.",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"1622": {
+		"name" : "Smash Ball",
+		"description" : "A brightly coloured rainbow ball that floats around quickly. When released, it quickly flies away from the user and begins to orbit around the room, waiting to be attacked. The ball is considered to have 10 Spirit; whoever manages to put the ball at greater stress than its spirit destroys the ball and absorbs its power, allowing them to make one super-powerful attack that would normally far exceed their capabilities.",
+		"category" : [ "co" ],
+		"rarity" : "u"
+		},
+	"1623": {
+		"name" : "Crown and Do-Rag",
+		"description" : "An iconic pair of headpieces to split with your protege. Each provides little benefit on its own (you can look forward to a mere +1 to singing), their true power lies when worn together: when wearing one and performing a combo attack with someone wearing the other, each of you gains +1 to the roll for the attack.",
+		"category" : [ "u" ],
+		"rarity" : "u"
+		},
+	"1624": {
+		"name" : "Cat Swarm",
+		"description" : "Not so much a dress as an oversized assortment of pets, this outfit keeps the wearer decent by the sheer number of cats cuddling them all over their body. Although basic tasks such as cooking and cleaning are a challenge (-1 to rolls involving anything that a swarm of cats would complicate), the wearer gains +1 to Affection roles, and other characters in their presence must make a Will contest (not against the wearer, against the cats) to resist coming up to the wearer and cuddling with the cat swarm. When not being worn, the cats live in a small cat house which contains a TARDIS-style pocket dimension cat hotel. Anything that can fit through a cat door can go inside this pocket dimension, although in their normal state, any adult human (or vampire) will be unable to fit, even if they're particularly small or childlike.",
+		"category" : [ "u", "p" ],
+		"rarity" : "u"
+		},
+	"1625": {
+		"name" : "Ultimate Despair's Sewing Machine",
+		"description" : "A run-down but extremely effective electric sewing machine imbued with an evil power. The machine can be used to make one Maid Outfit that, when worn, replicates the powers of any character (real or fictional) to the extent that they can be imitated with contemporary technology. However, while worn, the wearer of this Maid Outfit is considered to be at maximum stress (their actual stress value remains unchanged), and taking any stress will cause them to go into a stress explosion. Taking the outfit off does not cure the stress explosion.",
+		"category" : [ "to", "co" ],
+		"rarity" : "r"
+		},
+	"1626": {
+		"name" : "Robo-Meido 3000",
+		"description" : "Your very own, fully-functional robot housekeeper! She's an early model, so her capabilities are limited, but in theory she can do anything a proper maid can do. As she's somewhat out of maintenance, and is still a bit rusty (figuratively and literally), her stats are fairly low (1 Ath, 1 Aff, 2 Skl, 0 Luc, 2 Cun, 1 Wil), and the only personality module installed is, "tsundere," so she can be a bit cranky. Still, though, she'll dutifully perform whatever tasks you tell her to, to the best of her ability. Just watch out, as she's well past her warranty, and her stress explosion is a literal explosion, reducing her (and anything in her immediate vicinity) to scrap metal.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"1631": {
+		"name" : "Cozy Jammies",
+		"description" : "A pair of fuzzy pajama pants and a worn-in, oversized sweater, perfect for sleeping or just lounging around the house in. Your snuggly visage grants +1 to Affection and +2 to any attempts to convince a target to drop what they're doing to come give you a hug (your mileage may vary as to what they choose to do after the hug, though). However, let the wearer beware: the seductive allure of snuggles will leave you in a lethargic state, giving you a -3 penalty to Athletics while wearing the jammies.",
+		"category" : [ "u" ],
+		"rarity" : "u"
+		},
+	"1632": {
+		"name" : "$10000 Cash",
+		"description" : "This would probably be far more useful in a game where money is currency.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1633": {
+		"name" : "Skateboard",
+		"description" : "Whether you're on the go or around the mansion, this skateboard is every maid's best friend! The maid who is riding this will temporarily gain the 'Cool' personality type.",
+		"category" : [ "v" ],
+		"rarity" : "c"
+		},
+	"1634": {
+		"name" : "Marauder's Map",
+		"description" : "A map which reforms itself to match the layout of the current mansion. It can track the location of people currently in the mansion by displaying their footprints in the corresponding location, though it does not note what the name of the person the footprints belong to is.",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1635": {
+		"name" : "Slow Developing Camera",
+		"description" : "A polaroid camera. When a photo is taken using this camera, the dispensed film will display the photographed scene in real-time. For one hour after taking the photograph, the user can view the polaroid to see the current state of the scene where the photo was taken. Anyone within the scene will be unable to tell that they are being watched unless they have prior knowledge of the photo's existence. After one hour, the photo will finish developing and become a static image of how the scene looked at the one-hour mark. [Contains 10 film]",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1636": {
+		"name" : "Instant Chemistry! Little Meidos Science Kit",
+		"description" : "This chemistry set has all the fun explosives that they gave to kids back in the good old days, but unfortunately (or perhaps not), it requires a lab assistant. With a combined Cunning roll of 20 or higher, the kit can be assembled into some manner of flashy and/or romantic science trick. Multiple rolls can be attempted, however, a roll of 8 or lower will cause the components to explode, permanently destroying the kit. Upon successful completion of the experiment, the lab partners will grow closer, conferring +2 to the final result of future affection rolls between the two. A particularly cunning individual might be able to complete the kit by themselves, in theory, but what effect this would have is unknown...",
+		"category" : [ "to" ],
+		"rarity" : "u"
+		},
+	"1641": {
+		"name" : "Cataquack",
+		"description" : "This spherical duck-creature is the life of any party! It has no explicit powers, but it does possess an extremely strong bill, and an innate desire to hurl things into the air with it.",
+		"category" : [ "p" ],
+		"rarity" : "c"
+		},
+	"1642": {
+		"name" : "Weaponised Hamster Ball",
+		"description" : "A hamster ball that can fit in your hand when not in use. When activated, it expands to a size large enough for a maid climb inside it via the entry hatch. When occupied, this ball can be ridden down hills to very easily destroy objects or dispatch large group of enemies (+2 to dice roll on a Will check). However, since it is suspectable to the slope of the ground, it can be very hard to control properly. Upon dismounting, the maid that was piloting it takes 2d6 stress from dizzyness. When not being piloted, the ball retracts to its original small size.",
+		"category" : [ "v" ],
+		"rarity" : "u"
+		},
+	"1643": {
+		"name" : "Death Flag",
+		"description" : "A skull-and-crossbones flag attached to a metal pole. Successfully striking an enemy NPC with this flag will inflict no stress; instead, the first time they are struck with it, an emotional flashback will trigger relating to the NPC's backstory. The flashback will show the NPC with someone or something important to them - something akin to sharing a lovely moment together, promising to make it back home safely, etc. Upon completion of the flashback, the NPC's stress explosion will change to 'Death'.",
+		"category" : [ "e" ],
+		"rarity" : "r"
+		},
+	"1644": {
+		"name" : "Piece of Exodia",
+		"description" : "One of the five pieces of Exodia the Forbidden One. Collecting all five pieces (head, left arm, left leg, right arm, right leg) is very difficult to accomplish, but doing so will summon the almighty Exodia and 'win the game'. (What that entails for the campaign is up to the GM's discretion.)",
+		"category" : [ "to" ],
+		"rarity" : "r"
+		},
+	"1645": {
+		"name" : "Gum-gum Fruit",
+		"description" : "A purple fruit which, when consumed, gives the consumer the 'Rubber' Special Quality. This grants the user the ability to stretch their limbs out to considerable lengths. The effect is permanent, unless cured by an external source.",
+		"category" : [ "co" ],
+		"rarity" : "c"
+		},
+	"1646": {
+		"name" : "Traumatized Rock",
+		"description" : "Screams in fear when thrown.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1651": {
+		"name" : "Single Room Apartment",
+		"description" : "Whoops! The Mansion has been foreclosed! Whether the foreclosure was legitimate or not, all maids and the master must live together in a single room apartment for the time being. This ends when the group has either obtained enough money to pay off the debt, or proven that the foreclosure was illegitimate.",
+		"category" : [ "c", "f" ],
+		"rarity" : "r"
+		},
+	"1652": {
+		"name" : "The Bell Tower",
+		"description" : "A mysterious tower. The door at the top is sealed off with heavy iron chains and three locks. They say a witch lives up there...",
+		"category" : [ "f" ],
+		"rarity" : "c"
+		},
+	"1653": {
+		"name" : "Superball",
+		"description" : "A rubber ball that is not affected by gravity. Launching it will cause it to ricochet off of any surface it touches, until it hits a living creature (and inflicts stress on them) or it gets 300m away from the launcher. Once finished, it will return to the owner's inventory. It can be used for combat, but a truly skilled thrower could unlock the true power of trick shots and send it all the way to the other side of the mansion.",
+		"category" : [ "to" ],
+		"rarity" : "c"
+		},
+	"1654": {
+		"name" : "Advisor",
+		"description" : "This shifty-looking advisor will follow you around, giving blatantly terrible advice that you will blindly trust, to the consternation of your allies. He is ostensibly on your side, though, so maybe he'll be good in combat...?",
+		"category" : [ "c", "p" ],
+		"rarity" : "uc"
+		},
+	"1655": {
+		"name" : "Treasure Map",
+		"description" : "This treasure map holds the key to incredible riches! ...or at least it would, if it wasn't ripped in half. If you somehow managed to get two of these, though, you could put them together for a whopping 30 Favor.",
+		"category" : [ "to" ],
+		"rarity" : "uc"
+		},
+	"1656": {
+		"name" : "Pocket Ghost",
+		"description" : "This little buddy sure is voracious, but his gullet holds the secret to great power. Feeding him an item will permanently destroy it, but in exchange, your ghost will be able to use it twice! Consumable items are still consumed after two uses; other items will be dual-wielded by the ghost. The ghost can only have one item at a time.",
+		"category" : [ "p" ],
+		"rarity" : "uc"
+		},
+	"1661": {
+		"name" : "Magic Marker",
+		"description" : "This purple glitter pen has the power to change the very fabric of reality! If you write on another item with it, you can change one word in the item's description into another word. There's only enough ink left for one use, though.",
+		"category" : [ "co" ],
+		"rarity" : "r"
+		},
+	"1662": {
+		"name" : "Bizarro (YOUR NAME)",
+		"description" : "This mysterious maid looks exactly like you, but they're actually anything but! Stats: (Your Will) Ath; (Your Cunning) Aff; (Your Luck) Skl; (Your Affection) Cun; (Your Skill) Luk; (Your Athletics) Will",
+		"category" : [ "p" ],
+		"rarity" : "uc"
+		},
+	"1663": {
+		"name" : "Lighthouse Key",
+		"description" : "The final hope. This key opens a lighthouse somewhere in the world. If everything has gone to hell and there doesn't seem to be any way out, you can track down the lighthouse as a last resort. Only the girl inside has the power to set things right.",
+		"category" : [ "to" ],
+		"rarity" : "sr"
+		},
+	"1664": {
+		"name" : "Magic Wand",
+		"description" : "A wand with a big star affixed to the tip. It can allow the user to cast the 'Wish' spell (see https://pastebin.com/trEDHaLP) as long as they are not already recovering from the side effects of using Wish.",
+		"category" : [ "to" ],
+		"rarity" : "ur"
+		},
+	"1665": {
+		"name" : "Tragic Wand (Appears as 1664)",
+		"description" : "A wand with a big star affixed to the tip. Attempting to cast it will cause it to start blaring out an incredibly distorted midi of 'Happy Birthday' at a very high volume, immediately drawing all attention to the user. The music will stop after 10 loops.",
+		"category" : [ "c", "to" ],
+		"rarity" : "r"
+		},
+	"1666": {
+		"name" : "Deck of Many Things",
+		"description" : "Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two. See https://pastebin.com/vJLTMS9D for full details.",
+		"category" : [ "to" ],
+		"rarity" : "ur"
+		},
+	"2111": {
+		"name" : "Called Shot",
+		"description" : "Before making an attack, you can optionally call the shot. If your attack hits, deal an extra (your attack roll - their defense roll)/3 damage, rounded down. If your attack misses, take (their defense roll - your attack roll)/3 stress, rounded down.",
+		"category" : [ "te" ],
+		"rarity" : "uc"
+		},
+	"2112": {
+		"name" : "Potion of Mutually Assured Destruction",
+		"description" : "Drink this to learn the deepest, darkest secret of another maid. However, the second you do, she will also learn your deepest darkest secret.",
+		"category" : [ "co" ],
+		"rarity" : "uc"
+		},
+	"2113": {
+		"name" : "Lovey-Dovey Milkshake",
+		"description" : "This rich milkshake comes with whipped cream, chocolate drizzle, a single plump cherry, and two bendy straws. Drink it with your special someone, and until the end of the session, both of you will gain +2 Affection for all Affection rolls involving the other.",
+		"category" : [ "co" ],
+		"rarity" : "uc"
+		},
+	"2114": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2115": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2116": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
+	"2": {
+		"name" : "",
+		"description" : "",
+		"category" : [ "" ],
+		"rarity" : ""
+		},
