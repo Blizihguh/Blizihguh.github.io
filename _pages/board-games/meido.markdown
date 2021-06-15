@@ -8,6 +8,12 @@ permalink: /board-games/meido/
 
 <!--more-->
 
+<h2 id="0">Crib Sheet</h2>
+
+Meido has so few rules, you can basically fit them onto a single page...
+
+<a href="/downloads/meido/crib_sheet.png">[Crib Sheet]</a>
+
 <h2 id="1">Custom Item Table</h2>
 
 The Meido handbook comes with a list of 216 items for instances where you need to randomly roll an item. That being said, the table is kind of hit-or-miss; a lot of them are just absurdly powerful, and a lot of them are just not interesting. Thankfully, coming up with your own items is really fun... so with a little help from my friends, I've done just that! Generally when I have a player roll a random item, I compare the official item with that number and the unofficial item with that number, and let them pick. This also covers cases where one of the items is so absurdly powerful that I just can't give it to them; they just get the other one, or if I still want to give them a choice, I'll pick an adjacent item over the OP item.
