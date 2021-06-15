@@ -8,7 +8,7 @@ I only use BetterDiscord on my alt, but hey, if you're gonna use it, you might a
 
 <div class="row">
 	<div class="column">
-		<a href="/img/discord-themes/clover.png"><img src="/img/discord-themes/clover.png" style="width:100%"></a>
+		<a href="/img/discord-themes/Clover.png"><img src="/img/discord-themes/Clover.png" style="width:100%"></a>
 	</div>
 	<div class="widecolumn">
 		<b>Clover</b><br/>
@@ -19,7 +19,7 @@ I only use BetterDiscord on my alt, but hey, if you're gonna use it, you might a
 </div> 
 <div class="row">
 	<div class="column">
-		<a href="/img/discord-themes/mischievous-markup.png"><img src="/img/discord-themes/mischievous-markup.png" style="width:100%"></a>
+		<a href="/img/discord-themes/Mischievous-Markup.png"><img src="/img/discord-themes/Mischievous-Markup.png" style="width:100%"></a>
 	</div>
 	<div class="widecolumn">
 		<b>Mischievous Markup</b><br/>
@@ -30,7 +30,7 @@ I only use BetterDiscord on my alt, but hey, if you're gonna use it, you might a
 </div> 
 <div class="row">
 	<div class="column">
-		<a href="/img/discord-themes/umi-da.png"><img src="/img/discord-themes/umi-da.png" style="width:100%"></a>
+		<a href="/img/discord-themes/Umi-Da.png"><img src="/img/discord-themes/Umi-Da.png" style="width:100%"></a>
 	</div>
 	<div class="widecolumn">
 		<b>Umi da!</b><br/>
@@ -41,7 +41,7 @@ I only use BetterDiscord on my alt, but hey, if you're gonna use it, you might a
 </div> 
 <div class="row">
 	<div class="column">
-		<a href="/img/discord-themes/suwako.png"><img src="/img/discord-themes/suwako.png" style="width:100%"></a>
+		<a href="/img/discord-themes/Suwako.png"><img src="/img/discord-themes/Suwako.png" style="width:100%"></a>
 	</div>
 	<div class="widecolumn">
 		<b>Umi da!</b><br/>
