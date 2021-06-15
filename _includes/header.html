@@ -6,7 +6,7 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a id="randTitle" class="site-title" rel="author" href="{{ "" | relative_url }}"></a>
     <script type="text/javascript">
-      var titles = ['Edward Scissordog', 'Ocean Man ga Taosenai', 'Nyanpire Weekend'];
+      var titles = ['Edward Scissordog', 'Ocean Man ga Taosenai', 'Nyanpire Weekend', 'The Fury of the Aquabliz!', 'Supporting Me... for BioBlizzard'];
       var n = Math.floor(Math.random()*titles.length);
       document.getElementById("randTitle").innerHTML = titles[n];
     </script>
@@ -29,6 +29,7 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <a class="page-link" href="/misc/">Miscellany</a>
         </div>
       </nav>
     {%- endif -%}
