@@ -31,11 +31,13 @@ Stands have their own name (typically named after a song or band), magical abili
 
 <h2 id="3">Magic</h2>
 
-This is a pretty minor house rule, but it's one I like to play with. For characters that can use magic, the Luck stat is used for light magic, and the Cunning stat is used for dark magic.
+This is a pretty minor house rule, but it's one I like to play with. For characters that can use magic, the Affection stat is used for light magic, and the Cunning stat is used for dark magic.
 
 <h2 id="4">Potions</h2>
 
 Another niche house rule, but lots of fun. Maids can roll to brew potions, either from the item table or from [a special potions table](https://pastebin.com/raw/bqRwJ9dg). (I have no idea who made this table -- credit to them, whoever they are!) When brewing an unknown potion, have the player roll Luck, and roll the potion qualities yourself, rerolling or adjusting them to fit with the player's Luck roll where appropriate. Once a player has brewed a potion before, they know its recipe, and can attempt to recreate it with a Skill roll. When brewing from a recipe, a poor roll may result in strange tastes or smells, undesirable or unusual side effects, or in the worst case, an entirely different effect! Of course, if the player wishes to learn the recipe for their messed-up potion, they're free to do so.
+
+<a href="/downloads/meido/Potions.txt">[Potions.txt Mirror]</a>
 
 <h2 id="5">Butlers</h2>
 
