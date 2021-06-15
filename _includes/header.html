@@ -6,7 +6,8 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a id="randTitle" class="site-title" rel="author" href="/"></a>
     <script type="text/javascript">
-      var titles = ['Edward Scissordog', 'Ocean Man ga Taosenai', 'Nyanpire Weekend', 'The Fury of the Aquabliz!', 'Supporting Me... for BioBlizzard'];
+      var titles = ['Edward Scissordog', 'Ocean Man ga Taosenai', 'Nyanpire Weekend', 'The Fury of the Aquabliz!', 'Supporting Me... for BioBlizzard',
+      '東方蛙伝 ～ Highly Offensive to Frogs'];
       var n = Math.floor(Math.random()*titles.length);
       document.getElementById("randTitle").innerHTML = titles[n];
     </script>
