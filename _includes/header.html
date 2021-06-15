@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a id="randTitle" class="site-title" rel="author" href="{{ "" | relative_url }}"></a>
+    <a id="randTitle" class="site-title" rel="author" href="/"></a>
     <script type="text/javascript">
       var titles = ['Edward Scissordog', 'Ocean Man ga Taosenai', 'Nyanpire Weekend', 'The Fury of the Aquabliz!', 'Supporting Me... for BioBlizzard'];
       var n = Math.floor(Math.random()*titles.length);

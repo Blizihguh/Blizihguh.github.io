@@ -19,7 +19,7 @@ I like to play board games. Sometimes I like to make them, too!
 <small>A Discord bot that lets you play various board games, all from the comfort of your Discord server.</small>
 
 
-<b><em><small>(2019-08-07)</small></em>  <a href="/fata-rabu/">Fata Morgana Love Letter</a></b><br/>
+<b><em><small>(2019-08-07)</small></em>  <a href="/board-games/fata-rabu/">Fata Morgana Love Letter</a></b><br/>
 <small>A reskin of <a href="https://boardgamegeek.com/boardgame/129622/love-letter">Love Letter</a> based around the best visual novel of all time, <a href="https://store.steampowered.com/app/303310/The_House_in_Fata_Morgana/">The House in Fata Morgana</a>.</small>
 
 
