@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft IME Hotkey Fix
-permalink: /code/ime-fixes
+permalink: /code/ime-fixes/
 ---
 
 <b>TL;DR: Microsoft IME is bad. This AutoHotKey script makes it better.</b><br/>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BetterDiscord Themes
-permalink: /code/discord-themes
+permalink: /code/discord-themes/
 ---
 
 I only use BetterDiscord on my alt, but hey, if you're gonna use it, you might as well use it in style. All of these are edited from themes available on <a href="https://betterdiscord.app/themes">BetterDiscord's official themes listing</a>.

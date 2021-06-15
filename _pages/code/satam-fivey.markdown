@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saturday Morning FiveThirtyEight
-permalink: /code/satam-fivey
+permalink: /code/satam-fivey/
 ---
 Fivey Fox kinda looks like Tails, right? Like, specifically, SatAM Tails. Right? I'm not the only one who thinks this, right?
 
