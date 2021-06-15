@@ -16,9 +16,5 @@ I really like puzzles.
 <small>An original Split Decisions puzzle.</small>
 
 
-<b><em><small>(2020-03-13)</small></em>  <a href="/puzzles/hikkosu-solver/">Hikkosu Solver</a></b><br/>
-<small>A solver/generator for my original Nikoli-style puzzle, Hikkosu.</small>
-
-
 <b><em><small>(2020-02-26)</small></em>  <a href="/puzzles/oc-nikoli/">Nikoli-Style Puzzles</a></b><br/>
 <small>Some original Nikoli-style puzzles.</small>
