@@ -13,7 +13,7 @@ I really like puzzles.
 
 
 <b><em><small>(2020-03-28)</small></em>  <a href="/puzzles/split-decisions/">Split Decisions</a></b><br/>
-<small>An original Split Decisions puzzle.</small>
+<small>Some original Split Decisions puzzles.</small>
 
 
 <b><em><small>(2020-02-26)</small></em>  <a href="/puzzles/oc-nikoli/">Nikoli-Style Puzzles</a></b><br/>
