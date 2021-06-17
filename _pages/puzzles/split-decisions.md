@@ -37,3 +37,25 @@ Another Pokémon-themed Split Decisions, with another twist: this time, the give
 <a href="/img/split-decisions/PokeDeci-2-Easy.png">[Easy Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-2-Answers.png">[Solution]</a>
 </center>
+
+<h2 id="4">PokéDeci! #3</h2>
+
+The third entry in the PokéDeci trilogy. The process I've developed at this point is pretty robust, so I can make much more interesting layouts. And speaking of interesting, it looks like Jigglypuff and Pikachu are playing dressup this time!
+
+<center>
+<img src="/img/split-decisions/PokeDeci-3-Hard.png"><br/>
+<a href="/img/split-decisions/PokeDeci-3-Normal.png">[Normal Version]</a><br/>
+<a href="/img/split-decisions/PokeDeci-3-Easy.png">[Easy Version]</a><br/>
+<a href="/img/split-decisions/PokeDeci-3-Answers.png">[Solution]</a>
+</center>
+
+<h2 id="5">PokéDeci! #4</h2>
+
+The fourth entry in the PokéDeci trilogish. Now with three exclusive Pokéfacts, one for each difficulty level!
+
+<center>
+<img src="/img/split-decisions/PokeDeci-4-Hard.png"><br/>
+<a href="/img/split-decisions/PokeDeci-4-Normal.png">[Normal Version]</a><br/>
+<a href="/img/split-decisions/PokeDeci-4-Easy.png">[Easy Version]</a><br/>
+<a href="/img/split-decisions/PokeDeci-4-Answers.png">[Solution]</a>
+</center>
