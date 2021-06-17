@@ -29,7 +29,7 @@ A Pokémon-themed Split Decisions, with a twist: the givens are fused together l
 
 <h2 id="3">PokéDeci! #2</h2>
 
-Another Pokémon-themed Split Decisions, with another twist: this time, the givens are interleaved! Each individual name is still in order, but they're mixed up with each other, instead of being concatenated. There's also a normal version (which is the same as last time), and an easy version, although these are both probably a bit easier, since the puzzle was designed with the hard version in mind.
+Another Pokémon-themed Split Decisions, with another twist: this time, the givens are interleaved! Each individual name is still in order, but they're mixed up with each other, instead of being concatenated. There's also a normal version (which is the same as last time), and an easy version. These are both a bit easier than last time, since the puzzle was designed with the hard version in mind.
 
 <center>
 <img src="/img/split-decisions/PokeDeci-2-Hard.png"><br/>
