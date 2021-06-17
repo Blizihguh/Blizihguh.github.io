@@ -13,7 +13,7 @@ Windows' native input method editor (IME) is not the most user-friendly program 
 
 The best thing to do is to leave it on Japanese all the time, and switch between Alphanumeric (QWERTY) input and Kana input, but this introduces its own issues. Specifically, the issue of keybinds: the default keybinds for IME are <em>awful</em>. There are about a dozen of them, all mapped to weird, counterintuitive inputs. When was the last time you mapped a key command to CapsLock? If you're a human being, the answer is probably "never." In fact, I'm pretty sure that's an automatic disqualification on the Turing Test. Sadly, the people who work on Microsoft IME are more machine than man, so we cannot count on their choice of keybinds.
 
-So, why not remap the keys then? Well, here we run into a separate issue. Being the cyber-man space mutants that they are, the Microsoft IME team have designed the configuration dialog <em>of the future!</em> Unfortunately, it's a bad future, one in which all user interfaces are designed by throwing magnets against a CRT monitor until the interference patterns produce something that vaguely resemble a TV remote.
+So, why not remap the keys then? Well, here we run into a separate issue. Being the cyber-man space mutants that they are, the Microsoft IME team have designed the configuration dialog <em>of the future!</em> Unfortunately, it's a bad future, one in which all user interfaces are designed by throwing magnets against a CRT monitor until the interference patterns produce something that vaguely resembles a TV remote.
 
 Behold, the Microsoft IME key config dialog:
 
