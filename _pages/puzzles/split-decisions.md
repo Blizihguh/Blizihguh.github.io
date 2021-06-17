@@ -22,7 +22,7 @@ My first Split Decisions. If it wasn't obvious, this one is pretty difficult!
 A Pokémon-themed Split Decisions, with a twist: the givens are fused together like a cryptic crossword clue! There's also an easy version, which splits the givens as normal, if that's more your speed.
 
 <center>
-<img src="/img/split-decisions/PokeDeci-Normal.png"><br/>
+<a href="/img/split-decisions/PokeDeci-Normal.png"><img src="/img/split-decisions/PokeDeci-Normal.png"></a><br/>
 <a href="/img/split-decisions/PokeDeci-Easy.png">[Easy Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-Answers.png">[Solution]</a>
 </center>
@@ -32,7 +32,7 @@ A Pokémon-themed Split Decisions, with a twist: the givens are fused together l
 Another Pokémon-themed Split Decisions, with another twist: this time, the givens are interleaved! Each individual name is still in order, but they're mixed up with each other, instead of being concatenated. There's also a normal version (which is the same as last time), and an easy version. These are both a bit easier than last time, since the puzzle was designed with the hard version in mind.
 
 <center>
-<img src="/img/split-decisions/PokeDeci-2-Hard.png"><br/>
+<a href="/img/split-decisions/PokeDeci-2-Hard.png"><img src="/img/split-decisions/PokeDeci-2-Hard.png"></a><br/>
 <a href="/img/split-decisions/PokeDeci-2-Normal.png">[Normal Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-2-Easy.png">[Easy Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-2-Answers.png">[Solution]</a>
@@ -43,7 +43,7 @@ Another Pokémon-themed Split Decisions, with another twist: this time, the give
 The third entry in the PokéDeci trilogy. The process I've developed at this point is pretty robust, so I can make much more interesting layouts. And speaking of interesting, it looks like Jigglypuff and Pikachu are playing dressup this time!
 
 <center>
-<img src="/img/split-decisions/PokeDeci-3-Hard.png"><br/>
+<a href="/img/split-decisions/PokeDeci-3-Hard.png"><img src="/img/split-decisions/PokeDeci-3-Hard.png"></a><br/>
 <a href="/img/split-decisions/PokeDeci-3-Normal.png">[Normal Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-3-Easy.png">[Easy Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-3-Answers.png">[Solution]</a>
@@ -54,7 +54,7 @@ The third entry in the PokéDeci trilogy. The process I've developed at this poi
 The fourth entry in the PokéDeci trilogish. Now with three exclusive Pokéfacts, one for each difficulty level!
 
 <center>
-<img src="/img/split-decisions/PokeDeci-4-Hard.png"><br/>
+<a href="/img/split-decisions/PokeDeci-4-Hard.png"><img src="/img/split-decisions/PokeDeci-4-Hard.png"></a><br/>
 <a href="/img/split-decisions/PokeDeci-4-Normal.png">[Normal Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-4-Easy.png">[Easy Version]</a><br/>
 <a href="/img/split-decisions/PokeDeci-4-Answers.png">[Solution]</a>
