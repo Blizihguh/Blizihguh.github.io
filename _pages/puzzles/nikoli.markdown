@@ -51,7 +51,7 @@ Included in the download is:
 The rules of Pillars puzzles are as follows:
 <ol>
 	<li>Mark some tiles, leaving the rest empty.</li>
-	<li>Some tiles have numbers in them. This corresponds to the number of marked tiles that tile can see.</li>
+	<li>Some tiles have numbers in them. This corresponds to the number of marked tiles that tile can see (ie, the number of marked tiles in that tile's row or column).</li>
 	<li>Tiles can see through marked and unmarked tiles, but cannot see through numbered tiles.</li>
 	<li>You cannot mark tiles with a number in them.</li>
 </ol>
