@@ -36,3 +36,7 @@ I'm a programmer, by hobby and by profession. When I'm not busy making stupid st
 
 <b><em><small>(2020-07-09)</small></em>  <a href="/code/cardigan/">CardiGAN</a></b><br/>
 <small>A neural network that generates beautiful(?) new <a href="https://en.wikipedia.org/wiki/Lolita_fashion">lolita dresses</a>.</small>
+
+
+<b><em><small>(2021-07-22)</small></em>  <a href="/code/mafigen/">MafiGen</a></b><br/>
+<small>A setup generator for the best 9-12 player role madness mafia setup named after more than one friend of mine.</small>
