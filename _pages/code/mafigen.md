@@ -137,7 +137,12 @@ permalink: /code/mafigen/
 				// Get TI and full scum at the top
 				for (var i = 0; i < setup.length; i++) {
 					if (ROLES[setup[i]]["Type"] == "TI") {
-						townRoles.push(setup[i]);
+						if (setup[i] == "Investigator") {
+							townRoles.push(choose(["Investigator", "Investigator", "Rogue Investigator"]));
+						}
+						else {
+							townRoles.push(setup[i]);
+						}
 						townPlayers.push(playerList[i]);
 					}
 					else if (ROLES[setup[i]]["Type"] == "Scum" && setup[i] != "Minion") {
