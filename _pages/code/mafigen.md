@@ -195,7 +195,12 @@ permalink: /code/mafigen/
 						openColor = '<div style="color:#11efbd">';
 					}
 					// Display role
-					townList.innerHTML += openColor + townPlayers[i] + " <small>(" + townRoles[i] + ") (" + ROLES[townRoles[i]]["Value"] + ")</small></div>";
+					if (townRoles[i] == "Rogue Investigator") {
+						townList.innerHTML += openColor + townPlayers[i] + " <small>(" + townRoles[i] + ") (2)</small></div>";
+					}
+					else {
+						townList.innerHTML += openColor + townPlayers[i] + " <small>(" + townRoles[i] + ") (" + ROLES[townRoles[i]]["Value"] + ")</small></div>";
+					}
 				}
 
 				for (var i = 0; i < scumRoles.length; i++) {
