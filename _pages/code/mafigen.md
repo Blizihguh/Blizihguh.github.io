@@ -185,7 +185,7 @@ permalink: /code/mafigen/
 				for (var i = 0; i < townRoles.length; i++) {
 					// Get color for role
 					let openColor = '<div style="color:#119fef">'; // TR
-					if (ROLES[townRoles[i]]["Type"] == "TI") { 
+					if (townRoles[i] == "Rogue Investigator" || ROLES[townRoles[i]]["Type"] == "TI") { 
 						openColor = '<div style="color:#f7dc13">'; 
 					}
 					else if (ROLES[townRoles[i]]["Type"] == "TP") { 
