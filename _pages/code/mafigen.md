@@ -94,8 +94,12 @@ permalink: /code/mafigen/
 			}
 			// Get distinct scum roles
 			let scum1 = choose(SCUM_ROLES);
+			while (playerCt == 9 && scum1 == "Poisoner") {
+				scum1 = choose(SCUM_ROLES);
+			}
+
 			let scum2 = choose(SCUM_ROLES);
-			while (scum2 == scum1) {
+			while (scum2 == scum1 || (playerCt == 9 && scum2 == "Poisoner")) {
 				scum2 = choose(SCUM_ROLES);
 			}
 			setup.push(scum1);
