@@ -5,7 +5,7 @@ permalink: /code/mafigen/
 ---
 
 <script>
-	const ROLES = JSON.parse('[{ "Investigator": { "Type": "TI", "Value": 2 }, "Tracker": { "Type": "TI", "Value": 1 }, "Voyeur": { "Type": "TI", "Value": 1 }, "Gunsmith": { "Type": "TI", "Value": 2 }, "Doctor": { "Type": "TP", "Value": 2 }, "Bodyguard": { "Type": "TP", "Value": 1 }, "Wizard": { "Type": "TP", "Value": 1 }, "Jailor": { "Type": "TP", "Value": 1 }, "Socialite": { "Type": "TC", "Value": 1 }, "Lumberjack": { "Type": "TC", "Value": 2 }, "Psychic": { "Type": "TC", "Value": 2 }, "Hotelier": { "Type": "TC", "Value": 1 }, "Vigilante": { "Type": "TR", "Value": 2 }, "Grave Robber": { "Type": "TR", "Value": 1 }, "Motivator": { "Type": "TR", "Value": 1 }, "Annoying Child": { "Type": "TR", "Value": 2 }, "Coroner": { "Type": "TR", "Value": 1 }, "Journalist": { "Type": "TR", "Value": 2 }, "Enforcer": { "Type": "Scum", "Value": -1 }, "Roleblocker": { "Type": "Scum", "Value": -2 }, "Stalker": { "Type": "Scum", "Value": -2 }, "Bus Driver": { "Type": "Scum", "Value": -2 }, "Strongman": { "Type": "Scum", "Value": -2 }, "Spy": { "Type": "Scum", "Value": -1 }, "Capo": { "Type": "Scum", "Value": -1 }, "Shapeshifter": { "Type": "Scum", "Value": -2 }, "Poisoner": { "Type": "Scum", "Value": -1 }, "Oracle": { "Type": "Scum", "Value": -1 }, "Minion": { "Type": "Scum", "Value": 0 } }]')[0];
+	const ROLES = JSON.parse('[{ "Investigator": { "Type": "TI", "Value": 2 }, "Tracker": { "Type": "TI", "Value": 1 }, "Voyeur": { "Type": "TI", "Value": 1 }, "Gunsmith": { "Type": "TI", "Value": 2 }, "Doctor": { "Type": "TP", "Value": 2 }, "Bodyguard": { "Type": "TP", "Value": 1 }, "Wizard": { "Type": "TP", "Value": 1 }, "Jailor": { "Type": "TP", "Value": 1 }, "Druid": { "Type": "TP", "Value": 1 }, "Socialite": { "Type": "TC", "Value": 1 }, "Lumberjack": { "Type": "TC", "Value": 2 }, "Psychic": { "Type": "TC", "Value": 2 }, "Hotelier": { "Type": "TC", "Value": 1 }, "Vigilante": { "Type": "TR", "Value": 2 }, "Grave Robber": { "Type": "TR", "Value": 1 }, "Motivator": { "Type": "TR", "Value": 1 }, "Annoying Child": { "Type": "TR", "Value": 2 }, "Coroner": { "Type": "TR", "Value": 1 }, "Journalist": { "Type": "TR", "Value": 2 }, "Enforcer": { "Type": "Scum", "Value": -1 }, "Roleblocker": { "Type": "Scum", "Value": -2 }, "Stalker": { "Type": "Scum", "Value": -2 }, "Bus Driver": { "Type": "Scum", "Value": -2 }, "Strongman": { "Type": "Scum", "Value": -2 }, "Spy": { "Type": "Scum", "Value": -1 }, "Capo": { "Type": "Scum", "Value": -1 }, "Shapeshifter": { "Type": "Scum", "Value": -2 }, "Poisoner": { "Type": "Scum", "Value": -1 }, "Oracle": { "Type": "Scum", "Value": -1 }, "Minion": { "Type": "Scum", "Value": 0 } }]')[0];
 	const TI_ROLES = [];
 	const TP_ROLES = [];
 	const TC_ROLES = [];
@@ -138,7 +138,7 @@ permalink: /code/mafigen/
 				for (var i = 0; i < setup.length; i++) {
 					if (ROLES[setup[i]]["Type"] == "TI") {
 						if (setup[i] == "Investigator") {
-							townRoles.push(choose(["Investigator", "Investigator", "Rogue Investigator"]));
+							townRoles.push(choose(["Investigator", "Investigator", "Rogue Investigator"])); // 1 in 3 chance for any Investigator to be Rogue
 						}
 						else {
 							townRoles.push(setup[i]);
