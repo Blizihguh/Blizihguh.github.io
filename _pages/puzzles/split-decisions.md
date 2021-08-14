@@ -2,6 +2,7 @@
 layout: contentspage
 title: Split Decisions
 permalink: /puzzles/split-decisions/
+description: Original Split Decisions puzzles!
 ---
 
 Split Decisions are a type of crossword puzzles where each answer spells two words. Traditionally, these two words only have two letters' difference (so you could have FLASK and FRISK in one row, for instance), with those four letters being the only clue for that row. I like making Split Decisions puzzles; in fact, I like making them a lot more than I like solving them! Here are some I've made over the years.
