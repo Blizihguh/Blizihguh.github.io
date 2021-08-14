@@ -2,6 +2,8 @@
 layout: contentspage
 title: Maid RPG
 permalink: /board-games/meido/
+description: A set of resources and house rules for the tabletop role playing game Maid RPG.
+embedimage: /img/embeds/meido.png
 ---
 
 <a href='http://maidrpg.com/index.shtml'>Maid RPG</a> is a very simple tabletop roleplaying game for people who like anime and hate rules. Gameplay is extremely simple: all rolls are something d6 (usually 1d6), character creation is almost entirely random, and there are only six stats that cover all checks. It also has a lot of support for groups that want to just pick up and play it, without doing any preparation. If you <em>do</em> want to prepare a campaign in advance, though, I have some things you might want to use...

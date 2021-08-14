@@ -2,6 +2,8 @@
 layout: page
 title: Fata Morgana Love Letter
 permalink: /board-games/fata-rabu/
+description: A reskin of the classic card game Love Letter, themed around the classic video game The House in Fata Morgana.
+embedimage: /img/embeds/fata-rabu.png
 ---
 
 <a href="https://store.steampowered.com/app/303310/The_House_in_Fata_Morgana/">The House in Fata Morgana</a> is the greatest visual novel of all time. If you haven't played it, you should play it; if you have played it, you should probably play it again. But when you're not busy playing it, you can instead play this Love Letter reskin based on it! 
