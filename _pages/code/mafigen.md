@@ -2,6 +2,8 @@
 layout: page
 title: MafiGen
 permalink: /code/mafigen/
+description: A setup generator for the Mott-Owin Special, the world's spoiciest open setup.
+embedimage: /img/embeds/mafigen.png
 ---
 
 <script>

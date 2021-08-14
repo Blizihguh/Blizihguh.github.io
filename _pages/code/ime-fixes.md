@@ -2,6 +2,8 @@
 layout: page
 title: Microsoft IME Hotkey Fix
 permalink: /code/ime-fixes/
+description: Microsoft HATES him! This one weird trick, invented by a programmer, makes Microsoft IME vaguely usable!
+embedimage: /img/embeds/ime-fixes.png
 ---
 
 <b>TL;DR: Microsoft IME is bad. This AutoHotKey script makes it better.</b><br/>

@@ -2,6 +2,8 @@
 layout: page
 title: Saturday Morning FiveThirtyEight
 permalink: /code/satam-fivey/
+description: Fivey Fox kinda looks like Tails, right? Like, specifically, SatAM Tails. Right? I'm not the only one who thinks this, right?
+embedimage: /img/embeds/satam-fivey.png
 ---
 Fivey Fox kinda looks like Tails, right? Like, specifically, SatAM Tails. Right? I'm not the only one who thinks this, right?
 
