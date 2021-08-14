@@ -2,6 +2,7 @@
 layout: page
 title: Board Games
 permalink: /board-games/
+description: All things board game related, from reskins to cheat sheets to the inimitable Mayor McMott.
 menu: true
 ---
 

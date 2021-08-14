@@ -2,6 +2,7 @@
 layout: page
 title: Code
 permalink: /code/
+description: Everything I've ever coded... that's worth putting on my website, anyway.
 menu: true
 ---
 

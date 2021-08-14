@@ -2,6 +2,7 @@
 layout: page
 title: Puzzles
 permalink: /puzzles/
+description: My own home-made puzzles.
 menu: true
 ---
 
