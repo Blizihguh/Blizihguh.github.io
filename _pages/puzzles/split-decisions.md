@@ -2,7 +2,7 @@
 layout: contentspage
 title: Split Decisions
 permalink: /puzzles/split-decisions/
-description: Original Split Decisions puzzles!
+description: Original Split Decisions puzzles. Some of them are Pokémon themed!
 embedimage: /img/embeds/split-decisions.png
 ---
 
