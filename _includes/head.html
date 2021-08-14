@@ -4,10 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- feed_meta -%}
+
+  <title>Blizihguh Daioh</title>
+  <meta content="{{ page.title }}" property="og:title" />
+  <meta content="{{ page.content }}" property="og:description" />
+  <meta content="{{ page.url }}" property="og:url" />
+
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
 
-  <meta content="Foobar" property="og:description" />
 </head>
