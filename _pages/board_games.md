@@ -31,5 +31,5 @@ I like to play board games. Sometimes I like to make them, too!
 <small>Various tools and tips for the tabletop game <a href="http://maidrpg.com/index.shtml">Maid RPG</a>.</small>
 
 
-<b><em><small>(Coming Soon!)</small></em>  <a href="/board-games/shisouroku/">Touhou Shisouroku</a></b><br/>
-<small>A Tabletop Sim version of the long out-of-print <a href="https://boardgamegeek.com/boardgame/89383/touhou-shisouroku-touhou-koumakyou-hen">Touhou Dominion</a> base set. <em>(If you have and/or want to sell me the expansions, get in touch!)</em></small>
+<b><em><small>(2020-10-28, WIP)</small></em>  <a href="/board-games/shisouroku/">Touhou Shisouroku</a></b><br/>
+<small>An archive of the assets for the long out-of-print <a href="https://boardgamegeek.com/boardgame/89383/touhou-shisouroku-touhou-koumakyou-hen">Touhou Dominion</a> and its expansions, and a browser extension to play them. I am slowly but surely making Touhou versions of all the Dominion cards that never saw print in Shisoroku, too.</small>
