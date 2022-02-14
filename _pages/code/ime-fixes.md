@@ -45,6 +45,7 @@ F1 cycles between Variable-Width Alphanumeric, Hiragana, and Katakana input. F2 
 
 <a href="https://www.autohotkey.com/">[Download AutoHotKey to install ime-fix]</a><br/>
 <a href="/download/ime-fix.ahk">[Download ime-fix.ahk]</a>
+<a href="https://github.com/Blizihguh/scripts/tree/main/Windows%20IME%20Fix">[Github Link]</a>
 
 <center>
 <img src="/img/ime-fixes/the-only-keys-you-need.png"><br/>
