@@ -44,7 +44,7 @@ Thankfully, there is hope.
 F1 cycles between Variable-Width Alphanumeric, Hiragana, and Katakana input. F2 cycles between Variable-Width Alphanumeric and Full-Width Alphanumeric. (But F2 is a little buggy).
 
 <a href="https://www.autohotkey.com/">[Download AutoHotKey to install ime-fix]</a><br/>
-<a href="/download/ime-fix.ahk">[Download ime-fix.ahk]</a>
+<a href="/download/ime-fix.ahk">[Download ime-fix.ahk]</a><br/>
 <a href="https://github.com/Blizihguh/scripts/tree/main/Windows%20IME%20Fix">[Github Link]</a>
 
 <center>

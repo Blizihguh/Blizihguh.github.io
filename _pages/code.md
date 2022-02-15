@@ -41,3 +41,9 @@ I'm a programmer, by hobby and by profession. When I'm not busy making stupid st
 
 <b><em><small>(2021-07-22)</small></em>  <a href="/code/mafigen/">MafiGen</a></b><br/>
 <small>A setup generator for the best 9-12 player role madness mafia setup named after more than one friend of mine.</small>
+
+
+<h4><b>See Also</b></h4>
+
+<b><em><small>(Various)</small></em>  <a href="https://github.com/Blizihguh/scripts">Miscellaneous Scripts</a></b><br/>
+<small>The Github repository where I keep general-use scripts that I've written. Maybe something here will be of use?</small>
