@@ -1,7 +1,8 @@
 ---
 layout: contentspage
 title: Maid RPG
-permalink: /board-games/meido/
+permalink: /games/meido/
+redirect_from: /board-games/meido/
 description: A set of resources and house rules for the tabletop role playing game Maid RPG.
 embedimage: /img/embeds/meido.png
 ---
@@ -71,7 +72,7 @@ Meidogen Character Sheet: <a href="/downloads/meido/meidogen_transparent.png">[T
 
 Although I highly recommend doing PC character creation by hand, sometimes you just need to generate a random Maid (as an NPC, because somebody needs to roll a new character, because you only have 30 minutes to play, etc.) For those situations, I created Meidogen, the Maid RPG character generator. <b>This character generator is unfinished, and will probably remain that way for the foreseeable future.</b> At the moment, the generator rolls but does not display powers, and you cannot easily change the Maid's name. At the bottom of the page is an importable, which you can copy paste into your choice of text editor; by editing this importable, you can change the name manually and re-import it. You can right click the generated image to save it.
 
-<a href="/_pages/board-games/meidogen/MaidRPGGenerator.html">[Meidogen]</a>
+<a href="/_pages/games/meidogen/MaidRPGGenerator.html">[Meidogen]</a>
 
 <h2 id="8">Tabletop Simulator Models</h2>
 

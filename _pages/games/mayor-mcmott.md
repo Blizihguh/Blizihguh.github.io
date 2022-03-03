@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Mayor McMott
-permalink: /board-games/mayor-mcmott/
+permalink: /games/mayor-mcmott/
+redirect_from: /board-games/mayor-mcmott/
 description: A Discord bot to swank up your server. He'll even bring his board game collection!
 embedimage: /img/embeds/mayor-mcmott.png
 ---

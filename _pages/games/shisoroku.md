@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Touhou Shisoroku
-permalink: /board-games/shisouroku/
+permalink: /games/shisouroku/
+redirect_from: /board-games/shisouroku/
 description: Assets and a browser extension for the Dominion reskin, Touhou Shisoroku.
 embedimage: /img/shisouroku/icon.png
 ---

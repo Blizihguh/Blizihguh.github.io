@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Fata Morgana Love Letter
-permalink: /board-games/fata-rabu/
+permalink: /games/fata-rabu/
+redirect_from: /board-games/fata-rabu/
 description: A reskin of the classic card game Love Letter, themed around the classic video game The House in Fata Morgana.
 embedimage: /img/embeds/fata-rabu.png
 ---
