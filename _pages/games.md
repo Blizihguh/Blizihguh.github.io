@@ -34,3 +34,7 @@ I like to play board games. Sometimes I like to make them, too! I play video gam
 
 <b><em><small>(2020-10-28, WIP)</small></em>  <a href="/games/shisouroku/">Touhou Shisouroku</a></b><br/>
 <small>An archive of the assets for the long out-of-print <a href="https://boardgamegeek.com/boardgame/89383/touhou-shisouroku-touhou-koumakyou-hen">Touhou Dominion</a> and its expansions, and a browser extension to play them. I am slowly but surely making Touhou versions of all the Dominion cards that never saw print in Shisoroku, too.</small>
+
+
+<b><em><small>(2022-08-02)</small></em>  <a href="/games/sakura/">Sakura Arms</a></b><br/>
+<small>A full list of cards for the LCG <a href="https://www.level99store.com/collections/sakura-arms">Sakura Arms</a>, published in English by Level 99 games and in Japanese by BakaFire. Ripped from the <a href="https://tabletopia.com/games/sakura-arms-lvl99">official Tabletopia mod</a> with love.</small>
