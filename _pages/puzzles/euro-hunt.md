@@ -55,7 +55,7 @@ If you've given up on a puzzle and wish to spoil yourself, you can find individu
 
 <center>
 <a href="/img/euro-puz-hunt/puz01.png"><h2 id="1">Memories Are Tmporary</h2></a>
-<em>Unfortunately, the second half of this puzzle relies on you having access to RIT's CS lab servers, which is probably not the case, statistically speaking. Also, it relies on some files I put in the temp directories on those servers still being there, which is also unlikely. So, even though it was the coolest part of the puzzle, you'll have to skip it. Once you've solved the crossword, you can find the rest of the puzzle <a href="/downloads/euro-puz-hunt/">here</a>.
+<em>Unfortunately, the second half of this puzzle relies on you having access to RIT's CS lab servers, which is probably not the case, statistically speaking. Also, it relies on some files I put in the temp directories on those servers still being there, which is also unlikely. So, even though it was the coolest part of the puzzle, you'll have to skip it. Once you've solved the crossword, you can find the rest of the puzzle here <a href="/downloads/euro-puz-hunt/CS-PUZZLE-HUNT-CLUE-ACHILLES.bin">(1)</a><a href="/downloads/euro-puz-hunt/CS-PUZZLE-HUNT-CLUE-BUDDY.py">(2)</a><a href="/downloads/euro-puz-hunt/CS-PUZZLE-HUNT-CLUE-GLADOS.py">(3)</a><a href="/downloads/euro-puz-hunt/CS-PUZZLE-HUNT-CLUE-POLICE.py">(4)</a><a href="/downloads/euro-puz-hunt/CS-PUZZLE-HUNT-CLUE-YES.py">(5)</a>.
 
 <center>
 <a href="/img/euro-puz-hunt/puz02.png"><h2 id="2">What Are Birds?</h2></a>
