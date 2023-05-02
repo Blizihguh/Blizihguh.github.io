@@ -50,9 +50,9 @@ embedimage: /img/embeds/fern.png
 				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_28.png",
 				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_29.png"];
 
-	const COLORS = ["#FF0000", "#00FF00", "#0000FF", "#444444", "#555555", "#666666", "#777777", "#888888", "#999999", "#AAAAAA", 
-					"#FF0000", "#00FF00", "#0000FF", "#444444", "#555555", "#666666", "#777777", "#888888", "#999999", "#AAAAAA", 
-					"#FF0000", "#00FF00", "#0000FF", "#444444", "#555555", "#666666", "#777777", "#888888", "#999999", "#AAAAAA"];
+	const COLORS = ["#3E8084", "#FF9F26", "#C47922", "#315259", "#8A541E", "#CFA06B", "#0E050F", "#302722", "#0E050F", "#20303D", 
+					"#431F19", "#DD8B36", "#FCC477", "#3F2C1C", "#A18F7B", "#F2E6BD", "#1B1716", "#315259", "#182126", "#626D60", 
+					"#20303D", "#C0BEA7", "#502E1B", "#191919", "#7D4C27", "#DF8D2F", "#885326", "#1D0E18", "#000000", "#000000"];
 
 	var canvas = null;
 	var ctx = null;
