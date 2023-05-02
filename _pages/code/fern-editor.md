@@ -9,14 +9,14 @@ embedimage: /img/embeds/fern.png
 <!-- HTML -->
 <input type="button" onclick="render()" value="Generate Preview">
 <div class="row">
-  <div class="imgColumn"><canvas id="canvas" width="86" height="64"></canvas></div>
+  <div class="imgColumn"><canvas id="canvas" width="435" height="320"></canvas></div>
   <div class="buttonsColumn">
   	<div id="buttons-div">
   		Sleeve: <input type="text" id="color0" style="width: 500px;">
   	</div>
   </div>
 </div> 
-<canvas id="buffer" class="debug" width="86" height="64"></canvas>
+<canvas id="buffer" class="debug" width="435" height="320"></canvas>
 
 <script>
 	const MASKS = ["https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_00.png",
@@ -48,11 +48,12 @@ embedimage: /img/embeds/fern.png
 				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_26.png",
 				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_27.png",
 				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_28.png",
-				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_29.png"];
+				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_29.png",
+				   "https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_30.png"];
 
 	const COLORS = ["#3E8084", "#FF9F26", "#C47922", "#315259", "#8A541E", "#CFA06B", "#0E050F", "#302722", "#0E050F", "#20303D", 
 					"#431F19", "#DD8B36", "#FCC477", "#3F2C1C", "#A18F7B", "#F2E6BD", "#1B1716", "#315259", "#182126", "#626D60", 
-					"#20303D", "#C0BEA7", "#502E1B", "#191919", "#7D4C27", "#DF8D2F", "#885326", "#1D0E18", "#000000", "#000000"];
+					"#20303D", "#C0BEA7", "#502E1B", "#191919", "#7D4C27", "#DF8D2F", "#885326", "#1D0E18", "#000000", "#000000", "#AAAAAA"];
 
 	var canvas = null;
 	var ctx = null;
@@ -75,7 +76,7 @@ embedimage: /img/embeds/fern.png
 
 	function render() {
 		clear_canvas();
-		for (var i=0; i<30; i++) {
+		for (var i=0; i<31; i++) {
 			get_layer_in_buffer(i);
 			draw_layer_from_buffer();
 		}
@@ -108,35 +109,6 @@ embedimage: /img/embeds/fern.png
 		ctx.globalCompositeOperation = "lighten";
 		ctx.drawImage(buffer, 0, 0);
 	}
-
-
-	// function render() {
-	// 	// Get the output canvas
-	// 	const canvas = document.getElementById("canvas");
-	// 	const ctx = canvas.getContext("2d");
-
-	// 	// Create a buffer canvas to do our recoloring
-	// 	const buffer = document.createElement("canvas");
-	// 	buffer.width = canvas.width;
-	// 	buffer.height = canvas.height;
-	// 	const btx = buffer.getContext("2d");
-
-	// 	for (var i=0; i<1; i++) {
-	// 		// Create new image from the mask
-	// 		const img = new Image();
-	// 		img.src = MASKS[i];
-
-	// 		// Recolor the mask
-	// 		btx.globalCompositeOperation = "source-over";
-	// 		btx.drawImage(img, 0, 0);
-	// 		btx.fillStyle = COLORS[i];
-	// 		btx.globalCompositeOperation = "multiply";
-	// 		btx.fillRect(0, 0, buffer.width, buffer.height);
-
- //   			ctx.globalCompositeOperation = "lighten";
-	// 		ctx.drawImage(buffer, 0, 0);
-	// 	}
-	// }
 
 </script>
 
